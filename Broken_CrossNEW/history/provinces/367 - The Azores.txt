@@ -1,6 +1,6 @@
 #367 - The Azores
 
-culture = berber
+culture = andalucian
 religion = animism
 capital = "The Azores"
 trade_goods = fish
@@ -22,6 +22,6 @@ native_hostileness = 0
 	controller = POR
 	add_core = POR
 	is_city = yes
-	culture = portugese
-	religion = chalcedonism
+	culture = andalucian
+	religion = sunni
 }

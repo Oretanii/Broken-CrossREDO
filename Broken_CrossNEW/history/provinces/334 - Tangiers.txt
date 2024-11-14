@@ -2,7 +2,7 @@
 
 owner = FEZ
 controller = FEZ
-culture = moroccan
+culture = andalusian
 religion = sunni
 capital = "Tangier"
 trade_goods = cloth

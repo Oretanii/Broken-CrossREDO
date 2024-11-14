@@ -3,7 +3,7 @@
 owner = MJT		#Juan II of Castille
 controller = MJT
 add_core = MJT
-culture = granadan
+culture = xarqian
 religion = sunni
 hre = no
 base_tax = 4 

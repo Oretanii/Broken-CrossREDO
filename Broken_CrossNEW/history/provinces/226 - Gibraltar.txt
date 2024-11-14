@@ -3,7 +3,7 @@
 owner = GRA		# Mustapha Sa'd King of Granada
 controller = GRA
 add_core = GRA
-culture = granadan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 2 

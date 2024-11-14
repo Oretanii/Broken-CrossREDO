@@ -3,8 +3,8 @@
 owner = BSL		#Alfons V of Aragon
 controller = BSL
 add_core = BSL
-culture = faransian
-religion = sunni
+culture = aragonese
+religion = chalcedonism
 hre = no
 base_tax = 3 
 base_production = 2

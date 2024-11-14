@@ -2,7 +2,7 @@
 
 owner = FEZ
 controller = FEZ
-culture = moroccan
+culture = andalusian
 religion = sunni
 capital = "Cebta"
 trade_goods = fish

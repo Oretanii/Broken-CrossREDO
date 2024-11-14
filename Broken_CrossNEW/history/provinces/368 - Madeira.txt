@@ -1,6 +1,6 @@
 #368 - Madeira
 
-culture = berber
+culture = andalucian
 religion = animism
 capital = "Funchal"
 trade_goods = unknown
@@ -18,8 +18,8 @@ native_hostileness = 0
 	controller = POR
 	add_core = POR
 	is_city = yes
-	culture = portugese
-	religion = chalcedonism
+	culture = andalucian
+	religion = sunni
 	discovered_by = POR
 }
 1425.1.1 = {

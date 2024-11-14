@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = granadan
+primary_culture = andalucian
 religion = sunni
-add_accepted_culture = berber
+add_accepted_culture = gharbian
 technology_group = muslim
 capital = 223	# Granada
 government_rank = 1

@@ -1,6 +1,6 @@
 #366 - The Canarias
 
-culture = saksun
+culture = andalucian
 religion = animism
 capital = "Las Palmas"
 trade_goods = unknown
@@ -24,7 +24,7 @@ native_hostileness = 0
 	add_core = SKS
 	is_city = yes
 	religion = sunni
-	culture = saksun	
+	culture = andalucian	
 	trade_goods = sugar
 } # Castilian control
 1478.1.1 = { capital = "Las Palmas" }

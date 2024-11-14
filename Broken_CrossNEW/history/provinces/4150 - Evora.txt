@@ -2,7 +2,7 @@
 
 owner = ALJ
 controller = ALJ
-culture = alentejo
+culture = gharbian
 religion = sunni
 capital = "Évora"
 trade_goods = wine

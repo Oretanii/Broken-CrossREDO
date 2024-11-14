@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = alentejo
+primary_culture = gharbian
 religion = sunni
 technology_group = muslim
 capital = 4150	# Alentejo

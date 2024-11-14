@@ -1668,6 +1668,7 @@ iberian	= {
 	}
 	andalucian = {
 		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = GRA
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1783,9 +1784,8 @@ iberian	= {
 			Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
 		}
 	}
-	granadan = {
+	xarqian = { #Oretan: Andalusians in eastern Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
-		primary = GRA
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1806,9 +1806,8 @@ iberian	= {
 			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
-	balansiyah = {
+	gharbian = { #Oretan: Andalusians in western Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
-		primary = BLS
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1829,9 +1828,8 @@ iberian	= {
 			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
-	alentejo = {
+	xerrat = { #Oretan: Andalusians in central Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
-		primary = ALJ
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1852,11 +1850,10 @@ iberian	= {
 			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
-	mozarabic = {
+	qawth = { #Oretan: Andalusian romano-goths in southern Gaul
 		province = { local_has_caravel = yes local_has_galleon = yes }
-		primary = MOZ
 		dynasty_names = {
-			Nasrid Ummayad Zirid
+			Nasrid Ummayad Zirid Aniano Ariari Arius Ataulph Atharid Baduila Cyrila Farnobio Feva Fretela Friderico Gaiseri Gundeharo Heldefred Hermangild Hernegliscu Hildebado Huml Hunimund Leuvibild Nidada Retemeri Rhima Saphrax Sueridu Sunnia Theoderi Tribigild Videric Vidimiro
 		}
 		male_names = {
 			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 

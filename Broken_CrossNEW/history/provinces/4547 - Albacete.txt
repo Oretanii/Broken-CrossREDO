@@ -3,7 +3,7 @@
 owner = GRA		# Juan II of Castille
 controller = GRA
 add_core = GRA
-culture = granadan
+culture = xarqian
 religion = sunni 
 hre = no
 base_tax = 2

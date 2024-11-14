@@ -2,8 +2,8 @@
 
 owner = POR
 controller = POR
-culture = mozarabic
-religion = chalcedonism
+culture = gharbian
+religion = sunni
 capital = "Viseu"
 trade_goods = wine
 hre = no

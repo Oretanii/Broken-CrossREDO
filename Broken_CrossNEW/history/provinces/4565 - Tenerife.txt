@@ -10,7 +10,7 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 0
 religion = animism
-culture = saksun
+culture = andalucian
 
 1443.1.1 = {
 	owner = SKS
@@ -18,7 +18,7 @@ culture = saksun
 	add_core = SKS
 	is_city = yes
 	trade_goods = slaves
-	culture = saksun
+	culture = andalucian
 	religion = sunni
 	trade_goods = sugar
 }

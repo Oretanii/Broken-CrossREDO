@@ -2,8 +2,8 @@
 
 owner = POR
 controller = POR
-culture = mozarabic
-religion = chalcedonism
+culture = gharbian
+religion = sunni
 capital = "Lisboa"
 trade_goods = fish
 hre = no

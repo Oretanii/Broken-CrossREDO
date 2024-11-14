@@ -2,7 +2,7 @@
 
 owner = ALJ
 controller = ALJ
-culture = alentejo
+culture = gharbian
 religion = sunni
 capital = "Faro"
 trade_goods = fish

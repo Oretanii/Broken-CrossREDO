@@ -2,8 +2,8 @@
 
 owner = POR
 controller = POR
-culture = mozarabic
-religion = chalcedonism
+culture = gharbian
+religion = sunni
 capital = "Santarém"
 trade_goods = grain
 hre = no

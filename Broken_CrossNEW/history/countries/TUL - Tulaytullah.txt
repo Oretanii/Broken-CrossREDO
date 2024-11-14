@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = andalucian
+primary_culture = xerrat
 religion = sunni
 technology_group = muslim
 capital = 2754	# Toledo

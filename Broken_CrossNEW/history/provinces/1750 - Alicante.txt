@@ -3,7 +3,7 @@
 owner = BLS		#Martí I of Aragon
 controller = BLS
 add_core = BLS
-culture = balansiyah
+culture = xarqian
 religion = sunni
 hre = no
 base_tax = 3
