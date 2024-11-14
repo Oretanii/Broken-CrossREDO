@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = polish
+religion = chalcedonism
+technology_group = eastern
+historical_friend = LIT
+historical_rival = TEU
+capital = 262 # Krakow
+add_accepted_culture = ruthenian
+
+national_focus = ADM
+
+1434.11.11 = {
+	monarch = {
+		name = "Wladyslaw III"
+		dynasty = "Piast"
+		birth_date = 1424.1.1
+		dip = 3
+		adm = 4
+		mil = 5
+	}
+}

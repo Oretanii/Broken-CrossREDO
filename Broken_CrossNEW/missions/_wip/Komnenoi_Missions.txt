@@ -1,0 +1,456 @@
+tre_roman_claim_missions = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = TRE
+			AND = {
+				tag = BYZ
+				culture = pontic_greek
+			}
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	rebuild_komnenoi_army = {
+		icon = mission_pf_soldier
+		required_missions = {  } #None
+		trigger = {
+			army_size_percentage = 1
+			navy_size_percentage = 1
+		}
+		effect = {
+			kastamonu_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			erzurum_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	retake_pontus = {
+		icon = mission_invade_island
+		required_missions = { rebuild_komnenoi_army }
+		provinces_to_highlight = {
+			area = kastamonu_area
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			kastamonu_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			kastamonu_area = {
+				add_nationalism = -15
+				add_province_modifier = {
+					name = "pontic_reemergence"
+					duration = 10950
+				}
+			}
+			hudavendigar_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			thrace_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	TRE_reclaim_constantinople = {
+		icon = mission_eastern_european_city
+		required_missions = { retake_pontus }
+		provinces_to_highlight = {
+			OR = {
+				area = hudavendigar_area
+				area = thrace_area
+				owned_by = BYZ
+			}
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			hudavendigar_area = {
+				type = all
+				owned_by = ROOT
+			}
+			thrace_area = {
+				type = all
+				owned_by = ROOT
+			}
+			NOT = { exists = BYZ }
+		}
+		effect = {
+			151 = {
+				add_core = ROOT
+				move_capital_effect = yes
+				change_culture = pontic_greek
+				change_religion = iconoclast
+			}
+			if = {
+				limit = { has_global_flag = hagia_sophia_now_mosque }
+				clr_global_flag = hagia_sophia_now_mosque
+				show_ambient_object = hagia_sophia
+				hide_ambient_object = hagia_sophia_minarets
+			}
+			# change_tag = BYZ # This bugs the mission
+			country_event = { id = broken_cross.5 }
+			add_prestige = 30
+			set_government_rank = 3
+			# country_event = { id = ideagroups.1 } #Swap Ideas
+			ankara_area = { # Claims should be broken down into later missions whenever a proper BYZ tree is added, or if Trapezuntine Missions are expanded
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			germiyan_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			aydin_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			rum_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			karaman_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			cukurova_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			dulkadir_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { province_id = 2308 } # I hate the shape of this area.
+				}
+				add_permanent_claim = ROOT
+			}
+			aegean_archipelago_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			macedonia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			northern_greece_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			morea_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			albania_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			bulgaria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			silistria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+}
+
+tre_black_sea_claims = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = TRE
+			AND = {
+				tag = BYZ
+				culture = pontic_greek
+			}
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	defend_black_sea_colonies = {
+		position = 2
+		icon = mission_conquer_50_development
+		required_missions = { rebuild_komnenoi_army }
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					owned_by = ROOT
+					area = crimea_area
+					NOT = { fort_level = 1 }
+				}
+				AND = {
+					province_id = 285
+					NOT = { owned_by = ROOT }
+				}
+				AND = {
+					province_id = 2410
+					NOT = { owned_by = ROOT }
+				}
+				AND = {
+					province_id = 2447
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}
+		trigger = {
+			owns = 285
+			owns = 2410
+			owns = 2447
+			crimea_area = {
+				owned_by = ROOT
+				fort_level = 1
+			}
+		}
+		effect = {
+			284 = {
+				if = {
+					limit = {
+						NOT = { is_core = ROOT }
+						NOT = { is_permanent_claim = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			286 = {
+				if = {
+					limit = {
+						NOT = { is_core = ROOT }
+						NOT = { is_permanent_claim = ROOT }
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			crimea_area = {
+				if = {
+					limit = {
+						fort_level = 1
+					}
+					add_base_manpower = 1
+				}
+			}
+		}
+	}			
+	
+	black_sea_colonies = {
+		icon = mission_sea_battles
+		required_missions = { defend_black_sea_colonies }
+		provinces_to_highlight = {
+			OR = {
+				province_id = 284
+				province_id = 286
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			284 = { country_or_non_sovereign_subject_holds = ROOT }
+			286 = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		effect = {
+			add_country_modifier = {
+				name = "TRE_black_sea_control"
+				duration = 7300
+			}
+		}
+	}
+}
+
+trebizond_eastern_border_missions = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = TRE
+			AND = {
+				tag = BYZ
+				culture = pontic_greek
+			}
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	secure_turkish_border = {
+		position = 2
+		icon = mission_build_up_to_force_limit
+		required_missions = { rebuild_komnenoi_army }
+		provinces_to_highlight = {
+			area = erzurum_area
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			erzurum_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			samtskhe_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			imereti_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			330 = {
+				add_province_modifier = {
+					name = "trebizond_defended"
+					duration = 7300
+				}
+			}
+		}
+	}
+	
+	reclaim_lazica = {
+		icon = mission_pf_map_table
+		required_missions = { secure_turkish_border }
+		provinces_to_highlight = {
+			OR = {
+				area = samtskhe_area
+				area = imereti_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			samtskhe_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			imereti_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_mil_power = 50
+			add_prestige = 5
+		}
+	}
+}
+
+prosperity_trebizond_missions = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = TRE
+			AND = {
+				tag = BYZ
+				culture = pontic_greek
+			}
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	restore_trapezous = {
+		position = 3
+		icon = prosper_in_piedmont
+		required_missions = {  } #None
+		provinces_to_highlight = {
+			province_id = 330
+		}
+		trigger = {
+			owns = 330
+			330 = {
+				development = 20
+				NOT = { devastation = 1 }
+			}
+		}
+		effect = {
+			330 = {
+				change_trade_goods = tea
+				if = {
+					limit = {
+						NOT = { province_has_center_of_trade_of_level = 3 }
+					}
+					add_center_of_trade_level = 1
+				}
+				else = {
+					add_base_production = 3
+				}
+				add_province_modifier = {
+					name = "trapezous_restored"
+					duration = 7300
+				}
+			}
+		}
+	}
+}

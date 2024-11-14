@@ -1,0 +1,57 @@
+namespace = broken_cross
+
+# Rome Reclaimed!
+country_event = {
+	id = broken_cross.1
+	
+	title = "broken_cross.1_title"
+	desc = "broken_cross.1_desc"
+	
+	picture = ST_PETERS_CHURCH_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = {
+			religion = chalcedonism
+			religion = avigism
+			religion = insular
+			religion = nestorian
+			religion = iconoclast
+		}
+		owns = 118 #Roma
+	}
+	
+	mean_time_to_happen = {
+		days = 7
+	}
+	
+	option = {
+		name = "broken_cross.1_opta"
+        add_prestige = 50
+        add_legitimacy = 20
+        add_adm_power = 100
+        add_dip_power = 100
+        add_mil_power = 100
+        add_country_modifier = {
+            name = "liberator_of_rome"
+            duration = -1
+        }
+	}
+}
+
+# Byzantium Formation from Missions
+country_event = {
+    id = broken_cross.5
+    title = "broken_cross.5_title"
+    desc = "broken_cross.5_desc"
+    picture = BYZANTINE_EMPEROR_eventPicture
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = "broken_cross.5_opta"
+        change_tag = BYZ
+        country_event = { id = ideagroups.1 }
+    }
+}

@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 214 30 11 }
+
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Jabalah #0" = 35
+	"Amr #0" = 30
+	"al-Harith #0" = 30
+	"al-Nu'man #0" = 20
+	"Jafnah #0" = 15
+	"Sharahil #0" = 15
+	"Hijr #0" = 10
+	"Abu Kirab #0" = 10
+	"Harun #0" = 5	#Christian Arab names 
+	"Habil #0" = 5
+	"Iskandar #0" = 5
+	"Qabil #0" = 5
+	"Kalab #0" = 5
+	"Daud #0" = 5
+	"Ilyas #0" = 5
+	"Alyasa #0" = 5
+	"Hisqul #0" = 5
+	"Uzair #0" = 5
+	"Jibrail #0" = 5
+	"Jirjis #0" = 5
+	"Jalut #0" = 5
+	"Ishaq #0" = 5
+	"Shaya #0" = 5
+	"Ismail #0" = 5
+	"Yaakob #0" = 5
+	"Isa #0" = 5
+	"Shoaib #0" = 5
+	"Ayub #0" = 5
+	"Yahya #0" = 5
+	"Yusuf #0" = 5
+	"Yunus #0" = 5
+	"Yusha #0" = 5
+	"Lut #0" = 5
+	"Mikhal #0" = 5
+	"Musa #0" = 5
+	"Bukht Nassar #0" = 5
+	"Numrud #0" = 5
+	"Nuh #0" = 5
+	"Petra #0" = 5
+	"Shamwil #0" = 5
+	"Talut #0" = 5
+	"Shi #0" = 5
+	"Saleh #0" = 5
+	"Sulaiman #0" = 5
+	"Zakaria #0" = 5
+	
+	"Astir #0" = -5	
+	"Hawwa #0" = -5
+	"Maryam #0" = -5	#alt Mariam / Miriam
+	"Rahil #0" = -5
+	"Harith #0" = -5
+	"Rajya #0" = -1		#Base
+	"Nadiyya #0" = -1
+	"Jawhara #0" = -1
+	"Noura #0" = -1
+	"Wadhah #0" = -1
+	"Munira #0" = -1
+	"Hessah #0" = -1
+	"Fatima #0" = -1
+	"Aysha #0" = -1
+}
+
+leader_names = {
+	Yusuf
+	Iskandar
+	Ismail
+	Mikhal
+	Shamwil
+	Jafnah
+	Zakaria
+	Musa
+	Amr
+	Hisqul
+	al-Harith
+	Abu Kirab
+	Jabalah
+	Ayub
+	Bukht Nassar
+	Habil
+	Shoaib
+	Isa
+	Yaakob
+	Sharahil
+	Uzair
+}
+
+ship_names = {
+	Nuh Jeddah Mecca Medina "Jabal Baydan"
+	"Jabal Sawda" "Jabal Abu Hasan" "Jabal al-Jurayrah" 
+	"Harrat Al-Kishb" "Harrat Rahat" "Harrat Nawasif"
+	"Harrat Hadan" "Harrat Al-Buqum" "Harrat Khaybar"
+	"Harrat Kurama" "Harrat al-Unayyir"
+}

@@ -1,0 +1,44 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = mahri_culture
+religion = nestorian
+technology_group = muslim
+government_rank = 1
+capital = 1099	# Socotra
+
+1436.8.30 = {
+	monarch = {
+		name = "Yahya IV"
+		dynasty = "Jabalah"
+		birth_date = 1412.5.3
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	queen = {
+        country_of_origin = SOQ
+        name = "Maryam"
+        dynasty = "al-Ayham"
+        birth_date = 1415.10.14
+        death_date = 1473.11.29
+        female = yes
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}
+
+1441.7.21 = {
+	heir = {
+		name = "Hawwa"
+		monarch_name = "Hawwa I"
+		dynasty = "Jabalah"
+		birth_date = 1441.1.2
+		death_date = 1520.4.23
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+		female = yes
+	}
+}
