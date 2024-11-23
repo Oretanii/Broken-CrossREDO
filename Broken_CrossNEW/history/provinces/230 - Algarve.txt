@@ -1,7 +1,7 @@
 #230 - Algarve
 
-owner = ALJ
-controller = ALJ
+owner = GRA
+controller = GRA
 culture = gharbian
 religion = sunni
 capital = "Faro"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes 
-add_core = ALJ
+add_core = GRA
+add_core = BTY
 
 
 

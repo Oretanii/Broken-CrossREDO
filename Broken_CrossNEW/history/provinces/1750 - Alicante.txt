@@ -1,8 +1,8 @@
 #1750 - Alàcant
 
-owner = BLS		#Martí I of Aragon
-controller = BLS
-add_core = BLS
+owner = DNY		#Martí I of Aragon
+controller = DNY
+add_core = DNY
 culture = xarqian
 religion = sunni
 hre = no

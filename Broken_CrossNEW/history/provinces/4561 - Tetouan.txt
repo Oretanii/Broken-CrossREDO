@@ -1,7 +1,7 @@
 # Tetouan
 
-owner = FEZ
-controller = FEZ
+owner = IDS
+controller = IDS
 culture = moroccan
 religion = sunni
 capital = "Tetouan"
@@ -13,6 +13,7 @@ base_manpower = 2
 is_city = yes
 add_core = FEZ
 add_core = TET
+add_core = IDS
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

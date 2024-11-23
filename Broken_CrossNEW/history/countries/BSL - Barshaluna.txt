@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = qawth
+primary_culture = xarqian
 religion = sunni
 technology_group = muslim
-capital = 213	# Bercelona
+capital = 213	# Barcelona
 government_rank = 2
 religious_school = maliki_school
 

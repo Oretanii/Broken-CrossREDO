@@ -1,7 +1,7 @@
 # Narbonne - Principal cities: Narbonne
 
-owner = TEM
-controller = TEM
+owner = QAW
+controller = QAW
 capital = "Narbonne"
 is_city = yes
 culture = qawth
@@ -12,7 +12,7 @@ base_production = 5
 trade_goods = wine
 base_manpower = 3
 add_core = TEM
-add_core = BSL
+add_core = QAW
 fort_15th = yes
 
 

@@ -1,8 +1,8 @@
 # - Urgell
 
-owner = BSL		#Alfons V of Aragon
-controller = BSL
-add_core = BSL
+owner = CAT		#Alfons V of Aragon
+controller = CAT
+add_core = CAT
 culture = catalan
 religion = chalcedonism
 hre = no

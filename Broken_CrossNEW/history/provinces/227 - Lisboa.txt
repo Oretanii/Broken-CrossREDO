@@ -1,7 +1,7 @@
 #227 - Estremadura
 
-owner = POR
-controller = POR
+owner = BTY
+controller = BTY
 culture = gharbian
 religion = sunni
 capital = "Lisboa"
@@ -11,7 +11,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-add_core = POR
+add_core = BTY
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

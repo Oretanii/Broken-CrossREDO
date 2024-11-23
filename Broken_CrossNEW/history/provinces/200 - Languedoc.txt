@@ -1,7 +1,7 @@
 # 200 Languedoc - Principal cities: Montpellier
 
-owner = TEM
-controller = TEM
+owner = QAW
+controller = QAW
 capital = "Montpellier"
 is_city = yes
 culture = qawth
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 5
-add_core = BSL
+add_core = QAW
 add_core = TEM
 discovered_by = eastern
 discovered_by = western

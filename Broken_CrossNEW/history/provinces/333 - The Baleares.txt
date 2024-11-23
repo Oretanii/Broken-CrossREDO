@@ -1,8 +1,8 @@
 #333 - The Baleares
 
-owner = MJO	# Alfons V of Aragon
-controller = MJO
-add_core = MJO
+owner = DNY	# Alfons V of Aragon
+controller = DNY
+add_core = DNY
 culture = xarqian
 religion = sunni
 hre = no

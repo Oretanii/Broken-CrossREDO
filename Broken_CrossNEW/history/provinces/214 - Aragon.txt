@@ -1,8 +1,8 @@
 #214 - Aragón
 
-owner = BLS		#Martí I of Aragon
-controller = BLS
-add_core = BLS
+owner = SQS		#Martí I of Aragon
+controller = SQS
+add_core = SQS
 culture = xarqian
 religion = sunni
 hre = no

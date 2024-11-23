@@ -1,9 +1,8 @@
 #4788 - Plasencia
 
-owner = ALJ		#Enrique III of Castille
-controller = ALJ
-add_core = ALJ
-add_core = LON
+owner = BTY		#Enrique III of Castille
+controller = BTY
+add_core = BTY
 culture = gharbian
 religion = sunni
 hre = no

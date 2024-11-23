@@ -6,3 +6,4 @@ religion = chalcedonism
 primary_culture = catalan
 technology_group = western
 capital = 213	# Barcelona
+government_rank = 1

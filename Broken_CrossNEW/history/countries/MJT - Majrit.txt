@@ -3,7 +3,7 @@ add_government_reform = iqta
 primary_culture = xerrat
 religion = sunni
 technology_group = muslim
-capital = 219	# Toledo
+capital = 217	# Madrid
 government_rank = 1
 religious_school = maliki_school
 

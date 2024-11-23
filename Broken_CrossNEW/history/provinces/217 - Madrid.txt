@@ -1,9 +1,8 @@
 #217 - Madrid
 
-owner = MJT		#Juan II of Castille
-controller = MJT
-add_core = MJT
-add_core = LON
+owner = TUL		#Juan II of Castille
+controller = TUL
+add_core = TUL
 culture = xerrat
 religion = sunni
 hre = no

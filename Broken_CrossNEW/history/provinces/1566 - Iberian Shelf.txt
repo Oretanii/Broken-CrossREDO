@@ -1,6 +1,6 @@
 discovered_by = western
 1444.1.1 = {
-	discovered_by = POR
+	discovered_by = GRA
 }
 1453.1.1 = {
 	discovered_by = Dhimmi discovered_by = muslim

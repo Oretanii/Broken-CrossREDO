@@ -1,9 +1,8 @@
 #219 - Toledo
 
-owner = MJT		#Juan II of Castille
-controller = MJT
+owner = TUL		#Juan II of Castille
+controller = TUL
 add_core = TUL
-add_core = MJT
 culture = xerrat
 religion = sunni
 hre = no

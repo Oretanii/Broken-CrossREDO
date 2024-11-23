@@ -21,13 +21,14 @@ SSX = "countries/Sussex.txt"
 BRD = "countries/Bretland.txt"
 BRL = "countries/Celtica.txt"
 NSX = "countries/NewSaxony.txt"
+SKS = "countries/Saksuns.txt"
 
 #Eastern Europe
 TUP = "countries/Minsk.txt"
 YER = "countries/Yerevan.txt"
 
 #France
-STG	= "countries/Saintonge.txt"
+STG = "countries/Saintonge.txt"
 QST = "countries/Qastany.txt"
 TEM = "countries/Templar.txt"
 
@@ -36,10 +37,13 @@ ALJ = "countries/Alentejo.txt"
 TUL = "countries/Tulaytullah.txt" #toledo
 MJT = "countries/Majrit.txt" #madrid
 BLS = "countries/Balansiyah.txt" #valencia
-BSL = "countries/Barshaluna.txt" #bercelona
-IDS = "countries/Idrisids.txt"
-SKS = "countries/Saksuns.txt"
+BSL = "countries/Barshaluna.txt" #barcelona
 MOZ = "countries/Mozarabia.txt"
+QAW = "countries/Qawthia.txt" #gothalaunia
+DNY = "countries/Daniyah.txt" #alacant
+SQS = "countries/Saraqustah.txt" #zaragoza
+WLD = "countries/Walid.txt" #valladolid
+BTY = "countries/Batalyaws.txt" #badajoz
 
 #Italy
 NAB = "countries/Nabuli.txt"
@@ -57,6 +61,9 @@ VLD = "countries/Vladimir.txt"
 CAF = "countries/Caliphate.txt"
 CAI = "countries/Qahirah.txt"
 SOQ = "countries/Socotra.txt"
+
+#North Africa
+IDS = "countries/Idrisids.txt"
 
 #New World
 ABM = "countries/Al-Abama.txt"

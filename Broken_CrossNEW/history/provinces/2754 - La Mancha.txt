@@ -1,8 +1,7 @@
 #2754 - La Mancha
 
-owner = GRA		#Juan II of Castille
-controller = GRA
-add_core = GRA
+owner = TUL		#Juan II of Castille
+controller = TUL
 add_core = TUL
 culture = xerrat
 religion = sunni

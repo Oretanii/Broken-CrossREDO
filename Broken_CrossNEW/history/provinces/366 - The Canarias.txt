@@ -19,9 +19,9 @@ native_hostileness = 0
 	discovered_by = ottoman
 	discovered_by = POR
 
-	owner = SKS
-	controller = SKS
-	add_core = SKS
+	owner = GRA
+	controller = GRA
+	add_core = GRA
 	is_city = yes
 	religion = sunni
 	culture = andalucian	

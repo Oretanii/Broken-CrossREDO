@@ -1,5 +1,5 @@
-owner = TEM
-controller = TEM
+owner = QAW
+controller = QAW
 capital = "Carcassonne"
 is_city = yes
 culture = qawth
@@ -10,7 +10,7 @@ base_production = 2
 trade_goods = wine
 base_manpower = 2
 add_core = TEM
-add_core = BSL
+add_core = QAW
 
 
 

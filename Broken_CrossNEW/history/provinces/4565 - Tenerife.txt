@@ -13,9 +13,9 @@ religion = animism
 culture = andalucian
 
 1443.1.1 = {
-	owner = SKS
-	controller = SKS
-	add_core = SKS
+	owner = GRA
+	controller = GRA
+	add_core = GRA
 	is_city = yes
 	trade_goods = slaves
 	culture = andalucian

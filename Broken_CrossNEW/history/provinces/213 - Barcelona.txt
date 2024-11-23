@@ -1,8 +1,8 @@
 #213 - Barcelona
 
-owner = BSL		#Martí I of Aragon
-controller = BSL
-add_core = BSL
+owner = QAW		#Martí I of Aragon
+controller = QAW
+add_core = QAW
 culture = qawth
 religion = sunni
 hre = no

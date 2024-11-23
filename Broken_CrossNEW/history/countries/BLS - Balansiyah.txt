@@ -4,7 +4,7 @@ primary_culture = xarqian
 religion = sunni
 technology_group = muslim
 capital = 220	# Valencia
-government_rank = 2
+government_rank = 1
 religious_school = maliki_school
 
 1440.1.1 = {

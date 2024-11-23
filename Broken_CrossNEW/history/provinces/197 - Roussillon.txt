@@ -1,8 +1,8 @@
 # 197 Roussillon - Principal cities: Perpignan
 
-owner = BSL		#Alfons V of Aragon
-controller = BSL
-add_core = BSL
+owner = QAW		#Alfons V of Aragon
+controller = QAW
+add_core = QAW
 capital = "Perpignan"
 is_city = yes
 culture = qawth

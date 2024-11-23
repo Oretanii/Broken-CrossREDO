@@ -1,8 +1,8 @@
 #2751 - Cuenca
 
-owner = MJT		#Juan II of Castille
-controller = MJT
-add_core = MJT
+owner = BLS		#Juan II of Castille
+controller = BLS
+add_core = BLS
 culture = xarqian
 religion = sunni
 hre = no

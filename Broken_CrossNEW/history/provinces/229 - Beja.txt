@@ -1,7 +1,7 @@
 #229 - Baixo Alentejo
 
-owner = ALJ
-controller = ALJ
+owner = GRA
+controller = GRA
 culture = gharbian
 religion = sunni
 capital = "Beja"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = ALJ
+add_core = GRA
+add_core = BTY
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

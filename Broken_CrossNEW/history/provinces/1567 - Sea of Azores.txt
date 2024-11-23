@@ -1,7 +1,7 @@
 
 
 1444.1.1 = {
-	discovered_by = POR
+	discovered_by = GRA
 }
 
 discovered_by = western

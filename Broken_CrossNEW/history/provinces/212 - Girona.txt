@@ -1,8 +1,8 @@
 #212 - Girona
 
-owner = BSL		#Alfons V of Aragon
-controller = BSL
-add_core = BSL
+owner = QAW		#Alfons V of Aragon
+controller = QAW
+add_core = QAW
 culture = qawth
 religion = sunni
 hre = no

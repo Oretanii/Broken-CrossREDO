@@ -1,8 +1,8 @@
 #221 - Murcia
 
-owner = GRA		# Juan II of Castille
-controller = GRA
-add_core = GRA
+owner = DNY		# Juan II of Castille
+controller = DNY
+add_core = DNY
 culture = xarqian
 religion = sunni 
 hre = no

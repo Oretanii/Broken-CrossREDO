@@ -1,7 +1,7 @@
 #4150 - Alto Alentejo
 
-owner = ALJ
-controller = ALJ
+owner = BTY
+controller = BTY
 culture = gharbian
 religion = sunni
 capital = "Évora"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = ALJOR
+add_core = BTY
 fort_15th = yes
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

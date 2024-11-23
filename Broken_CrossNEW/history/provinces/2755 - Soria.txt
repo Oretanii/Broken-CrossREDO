@@ -1,9 +1,8 @@
 #2755 - Soria
 
-owner = MJT		#Juan II of Castille
-controller = MJT
-add_core = MJT
-add_core = LON
+owner = WLD		#Juan II of Castille
+controller = WLD
+add_core = WLD
 culture = xerrat
 religion = sunni
 hre = no

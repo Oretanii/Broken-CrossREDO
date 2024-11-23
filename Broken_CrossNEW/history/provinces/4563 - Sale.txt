@@ -1,7 +1,7 @@
 # - Sale
 
-owner = FEZ
-controller = FEZ
+owner = IDS
+controller = IDS
 culture = moroccan
 religion = sunni
 capital = "Sale"

@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = gharbian
+religion = sunni
+technology_group = muslim
+capital = 218	# Badajoz
+government_rank = 1
+religious_school = maliki_school
+historical_rival = POR
+
+1431.1.1 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = -0.3
+}

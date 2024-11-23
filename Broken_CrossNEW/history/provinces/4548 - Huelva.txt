@@ -1,9 +1,8 @@
 #218 - Badajoz
 
-owner = ALJ		#Juan II of Castille
-controller = ALJ
-add_core = ALJ
-add_core = TUL
+owner = GRA		#Juan II of Castille
+controller = GRA
+add_core = GRA
 culture = andalucian
 religion = sunni
 hre = no

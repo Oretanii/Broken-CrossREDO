@@ -1,9 +1,8 @@
 #218 - Badajoz
 
-owner = ALJ		#Juan II of Castille
-controller = ALJ
-add_core = ALJ
-add_core = TUL
+owner = BTY		#Juan II of Castille
+controller = BTY
+add_core = BTY
 culture = gharbian
 religion = sunni
 hre = no

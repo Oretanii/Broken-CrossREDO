@@ -1,9 +1,8 @@
 #1747 - Caceres
 
-owner = ALJ		#Enrique III of Castille
-controller = ALJ
-add_core = ALJ
-add_core = TUL
+owner = BTY		#Enrique III of Castille
+controller = BTY
+add_core = BTY
 culture = gharbian
 religion = sunni
 hre = no
