@@ -10,10 +10,10 @@ historical_rival = ARA
 
 1440.1.1 = {
 	monarch = {
-		name = "'Alî II"
-		dynasty = "Zirid"
-		adm = 0
-		dip = 3
+		name = "Al-Mansur III"
+		dynasty = "al-Amiri"
+		adm = 1
+		dip = 2
 		mil = 1
 	}
 	add_piety = -0.3

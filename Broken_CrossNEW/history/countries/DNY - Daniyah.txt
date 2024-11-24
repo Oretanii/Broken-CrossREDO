@@ -9,11 +9,11 @@ religious_school = maliki_school
 
 1440.1.1 = {
 	monarch = {
-		name = "'Alî II"
-		dynasty = "Zirid"
-		adm = 0
+		name = "Mujahid II"
+		dynasty = "al-Amiri"
+		adm = 2
 		dip = 3
-		mil = 1
+		mil = 4
 	}
 	add_piety = -0.3
 }
