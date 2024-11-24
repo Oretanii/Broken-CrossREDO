@@ -1,4 +1,4 @@
-﻿government = monarchy
+government = monarchy
 add_government_reform = iqta
 primary_culture = qawth
 religion = sunni
@@ -9,7 +9,7 @@ religious_school = maliki_school
 
 1431.1.1 = {
 	monarch = {
-		name = "Alârîk IV"
+		name = "Alarik IV"
 		dynasty = "al-Qutiyya"
 		adm = 3
 		dip = 2
