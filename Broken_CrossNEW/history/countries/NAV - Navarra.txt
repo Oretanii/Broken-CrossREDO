@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = courts_of_navarra
 primary_culture = basque
 religion = chalcedonism
 technology_group = western
@@ -19,8 +19,8 @@ capital = 210	# Pamplona
 
 1425.1.1 = {
 	monarch = {
-		name = "Juan II"
-		dynasty = "de Trastámara"
+		name = "Sancho VIII"
+		dynasty = "Jiménez"
 		birth_date = 1398.1.20
 		adm = 4
 		dip = 1

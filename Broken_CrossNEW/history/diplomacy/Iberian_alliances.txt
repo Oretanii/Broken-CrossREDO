@@ -364,26 +364,18 @@ alliance = {
 	end_date = 1807.12.10
 }
 
-# Granada Fez
-vassal = {
-	first = GRA
-	second = FEZ
+# Galicia Portugal
+march = {
+	first = GAL
+	second = POR
 	start_date = 1444.1.1
 	end_date = 1806.1.1
 }
 
-# Leon Galicia
-vassal = {
-	first = LON
-	second = GAL
-	start_date = 1444.1.1
-	end_date = 1806.1.1
-}
-
-# Granada Majrit
-vassal = {
-	first = GRA
-	second = MJT
+# Aragon Catalonia
+union = {
+	first = ARA
+	second = CAT
 	start_date = 1444.1.1
 	end_date = 1806.1.1
 }
@@ -395,11 +387,3 @@ vassal = {
 #	start_date = 1444.1.1
 #	end_date = 1806.1.1
 #}
-
-# Barshaluna Baleares
-vassal = {
-	first = BSL
-	second = MJO
-	start_date = 1444.1.1
-	end_date = 1806.1.1
-}

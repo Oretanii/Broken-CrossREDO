@@ -7,8 +7,8 @@ capital = 206	# Galicia
 
 1444.1.1 = {
 	monarch = {
-		name = "Alarico XI"
-		dynasty = "de Rocamora"
+		name = "Pedro II"
+		dynasty = "d'Ivrea"
 		birth_date = 1400.7.7
 		adm = 4
 		dip = 3
@@ -17,9 +17,9 @@ capital = 206	# Galicia
 }
 1444.1.1= {
 	heir = {
-		name = "Recimir"
-		monarch_name = "Recimir IX"
-		dynasty = "de Rocamora"
+		name = "Fadrique"
+		monarch_name = "Fadrique II
+		dynasty = "d'Ivrea"
 		birth_date = 1436.6.12
 		claim = 95
 		adm = 3

@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = leonese_cortes
 primary_culture = leonese
+add_accepted_culture = gharbian
 religion = chalcedonism
 technology_group = western
 historical_rival = POR
@@ -8,8 +9,8 @@ capital = 208 #Leon
 
 1412.8.15 = {
 	monarch = {
-		name = "Alfonso XII"
-		dynasty = "de León"
+		name = "Juan III"
+		dynasty = "d'Ivrea"
 		birth_date = 1412.8.15
 		death_date = 1455.10.3
 		adm = 3
@@ -20,9 +21,9 @@ capital = 208 #Leon
 
 1440.9.10 = {
 	heir = {
-		name = "Juan"
-		monarch_name = "Juan IV"
-		dynasty = "de León"
+		name = "Alfonso"
+		monarch_name = "Alfonso XII"
+		dynasty = "d'Ivrea"
 		birth_date = 1440.1.15
 		death_date = 1481.8.28
 		claim = 95
