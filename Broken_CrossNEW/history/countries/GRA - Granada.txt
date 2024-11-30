@@ -92,6 +92,8 @@ historical_rival = CAS
 	}
 }
 
+1443.1.1 = { leader = {	name = "Ibn al-Labbana"		type = explorer	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1462.12.31 } }
+
 1451.1.1 = {
 	monarch = {
 		name = "Muhammad XI"
