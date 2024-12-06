@@ -15,7 +15,7 @@ add_local_autonomy = 25
 estate = estate_nobles
 add_core = GUY
 add_core = TEM
-add_core = BSL
+add_core = QST
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

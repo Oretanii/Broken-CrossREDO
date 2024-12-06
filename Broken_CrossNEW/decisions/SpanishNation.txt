@@ -10,6 +10,10 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
 			NOT = { tag = SPA }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
@@ -27,7 +31,7 @@ country_decisions = {
 			}
 			OR = {
 				culture_group = iberian
-				primary_culture = mozarabic
+				primary_culture = basque
 			}
 			is_colonial_nation = no
 			OR = {
@@ -40,17 +44,18 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 206	# Corunna
-				province_id = 208	# Leon
-				#province_id = 213	# Barcelona
-				#province_id = 214	# Aragón
+				province_id = 213	# Barcelona
+				province_id = 214	# Arag?n
 				province_id = 215	# Castilla La Vieja
 				province_id = 216	# Salamanca
-				#province_id = 224	# Andalucia
+				province_id = 224	# Andalucia
 				province_id = 219	# Toledo
-				#province_id = 220	# Valencia
-				#province_id = 223	# Granada
-				province_id = 231	# Porto
+				province_id = 220	# Valencia
+				province_id = 223	# Granada
+				AND = {
+					region = iberia_region
+					owner = { religion_group = muslim }
+				}
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -63,16 +68,22 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			owns_core_province = 206	# Corunna
-			owns_core_province = 208	# Leon
+			owns_core_province = 213	# Barcelona
+			owns_core_province = 214	# Arag?n
 			owns_core_province = 215	# Castilla La Vieja
 			owns_core_province = 216	# Salamanca
+			owns_core_province = 224	# Andalucia
 			owns_core_province = 219	# Toledo
-			owns_core_province = 231	# Porto
+			owns_core_province = 220	# Valencia
+			owns_core_province = 223	# Granada
+			iberia_region = {
+				type = all
+				NOT = { owner = { religion_group = muslim } }
+			}
 		}
 		effect = {
 			change_tag = SPA
-			set_capital = 219
+            set_capital = 219
 			if = {
 				limit = {
 					NOT = { 
@@ -88,6 +99,7 @@ country_decisions = {
 				}
 				swap_non_generic_missions = yes
 			}
+			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = { NOT = { government_rank = 2 } }
@@ -106,7 +118,12 @@ country_decisions = {
 				}
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
-			add_permanent_claim = SPA
+			custom_tooltip = spanish_unification_effect.tooltip
+			hidden_effect = {
+				iberia_region = {
+					add_permanent_claim = SPA
+				}
+			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
@@ -119,5 +136,3 @@ country_decisions = {
 		}
 		ai_importance = 400
 	}
-
-}
