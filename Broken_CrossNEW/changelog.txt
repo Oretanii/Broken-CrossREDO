@@ -1,10 +1,25 @@
+Version 1.5.7 - Iberia overhaul (1.37 Compatible)
+	* Overhauled Iberia: The Christians are now more divided and the Islamic situation is more realistic (Reconquista is now harder)
+	- Removed old Muslim Iberian cultures
+	+ Added new ones "Xarqian, Xerrat, Gharbian, Qawth" and readded "Andalusian".
+	+ Gave Andalusian province naming to new Muslim Iberian cultures
+	- Removed Muslim Iberian nations: Alentejo, Barshaluna and Majrit
+	+ Added Muslim Iberian nations: Daniyah, Saraqustah, Qawthia, Walid and Batalyaws
+	+ Readded Castile, Aragon and added Catalonia
+	* Renamed Granada -> Qurtuba
+	* Removed Faransian (for now)
+	+ Added historic dynasties for all Iberian tags in 1444
+	* New GFX for: Spain, Castille, Catalonia, Majorca, Valencia, Illyria, Taraqia and Busnia
+	* Tweaked decisions to form Spain and Andalusia
+	* Renamed Syrian and Egyptian to Shami and Masri
+
 Version 1.5.6 - Staying Alive II Update (1.37 Compatible)
 	* Moved Muslim Iberian cultures to Iberian group
 	* Moved Faransian culture to French group
 	* Moved Saksun culture to British group
 	* Fixed decision to form Qastany
 	* Fixed decision to form Andalusia
-	* Fixed decision to form Enlgand as Normandy
+	* Fixed decision to form England as Normandy
 	* Saksuns have a new map colour more befitting their flag
 	* Saksuns now have cores in England (where they came from)
 	* Re-wrote Bretlandic (norsanglic) culture to feel more "British"
