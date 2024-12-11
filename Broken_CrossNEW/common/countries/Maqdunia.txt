@@ -2,30 +2,38 @@
 
 graphical_culture = muslimgfx
 
-color = {  210 220 175 }
+color = { 103  9  9 }
 
-revolutionary_colors = { 1  0  10 }
+revolutionary_colors = { 13  8  13 } #Flag to Revolution
 
 historical_idea_groups = {
-	exploration_ideas
-	expansion_ideas
-	offensive_ideas
-	innovativeness_ideas
 	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
 	trade_ideas
-	diplomatic_ideas
-	economic_ideas
 	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
 }
 
 historical_units = {
-	mamluk_archer
-	mamluk_cavalry_charge
-	mamluk_duel
-	mamluk_musket_charge
-	muslim_mass_infantry
-	muslim_dragoon
-	ali_bey_reformed_infantry
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
 }
 
 monarch_names = {
@@ -97,5 +105,5 @@ army_names = {
 }
 
 fleet_names = {
-	"Alboran Sea Squadron" "Balaeric Sea Squadron" "Jabal Tariq Squadron" 
+	"Pontus Sea Squadron" Aegean Sea Squadron" "Jabal Tariq Squadron" 
 }

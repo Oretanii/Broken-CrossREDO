@@ -13,6 +13,7 @@ VRS = "countries/Varasd.txt"
 PST = "countries/Pest.txt"
 ILY = "countries/Illyria.txt"
 NIQ = "countries/Niqya.txt"
+MAC = "countries/Maqdunia.txt"
 
 #British Isles
 LNC = "countries/Lancaster.txt"
@@ -61,6 +62,7 @@ VLD = "countries/Vladimir.txt"
 CAF = "countries/Caliphate.txt"
 CAI = "countries/Qahirah.txt"
 SOQ = "countries/Socotra.txt"
+QUR = "countries/Qurais.txt"
 
 #North Africa
 IDS = "countries/Idrisids.txt"
