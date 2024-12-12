@@ -2,7 +2,7 @@
 
 owner = KLB
 controller = KLB
-culture = italiu 
+culture = siqilyian
 religion = shiite 
 hre = no 
 base_tax = 2

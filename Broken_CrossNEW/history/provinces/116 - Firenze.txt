@@ -2,7 +2,7 @@
 
 owner = ETR
 controller = ETR
-culture = tuscan
+culture = italiu
 religion = chalcedonism
 hre = yes
 base_tax = 10

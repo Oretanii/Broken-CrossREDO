@@ -2,7 +2,7 @@
 
 owner = SLT
 controller = SLT
-culture = italiu 
+culture = nofsinhar
 religion = shiite 
 hre = no 
 base_tax = 3 

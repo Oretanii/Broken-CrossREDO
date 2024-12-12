@@ -2,7 +2,7 @@
 
 owner = SQL
 controller = SQL
-culture = sicilian
+culture = siqilyian
 religion = shiite 
 hre = no 
 base_tax = 8 

@@ -3,7 +3,7 @@
 owner = LUC
 controller = LUC
 add_core = LUC
-culture = tuscan
+culture = italiu
 religion = chalcedonism
 hre = yes
 base_tax = 6

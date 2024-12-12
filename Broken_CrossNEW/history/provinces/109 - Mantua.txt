@@ -3,7 +3,7 @@
 owner = MLO
 controller = MLO
 add_core = MLO
-culture = lombard
+culture = romagnan
 religion = chalcedonism 
 hre = yes 
 base_tax = 9 

@@ -2,7 +2,7 @@
 
 owner = MOD
 controller = MOD
-culture = lombard 
+culture = romagnan
 religion = chalcedonism 
 hre = yes 
 base_tax = 5 

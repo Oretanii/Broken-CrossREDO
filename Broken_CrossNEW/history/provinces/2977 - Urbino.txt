@@ -2,7 +2,7 @@
 
 owner = URB
 controller = URB
-culture = tuscan 
+culture = italiu
 religion = chalcedonism 
 hre = no 
 base_tax = 5

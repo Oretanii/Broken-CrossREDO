@@ -2,7 +2,7 @@
 
 owner = PIS
 controller = PIS
-culture = tuscan
+culture = italiu
 religion = chalcedonism
 hre = yes
 base_tax = 6

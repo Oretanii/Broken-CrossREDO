@@ -2,7 +2,7 @@
 
 owner = URB		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
 controller = URB
-culture = tuscan 
+culture = romagnan
 religion = chalcedonism 
 hre = yes 
 base_tax = 6 
