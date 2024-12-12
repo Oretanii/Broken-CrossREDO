@@ -3,7 +3,7 @@
 add_core = DAN
 owner = DAN
 controller = DAN
-culture = danish
+culture = swedish
 religion = chalcedonism
 hre = no
 base_tax = 1

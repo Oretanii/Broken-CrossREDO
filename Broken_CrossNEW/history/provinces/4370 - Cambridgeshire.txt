@@ -3,7 +3,7 @@
 
 owner = EAN
 controller = EAN
-culture = norsanglic
+culture = anglosaxon
 religion = chalcedonism
 hre = no
 base_tax = 3

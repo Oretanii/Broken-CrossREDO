@@ -2,7 +2,7 @@
 
 owner = CRN
 controller = CRN
-culture = norsanglic
+culture = anglosaxon
 religion = chalcedonism
 hre = no
 base_tax = 2

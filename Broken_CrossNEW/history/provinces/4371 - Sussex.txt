@@ -2,7 +2,7 @@
 
 owner = SSX
 controller = SSX
-culture = norsanglic
+culture = saksun
 religion = chalcedonism
 hre = no
 base_tax = 4

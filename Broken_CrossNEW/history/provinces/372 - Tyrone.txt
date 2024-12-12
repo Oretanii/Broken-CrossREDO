@@ -2,7 +2,7 @@
 
 owner = TYR
 controller = TYR
-culture = irish
+culture = norsanglic
 religion = insular
 hre = no
 base_tax = 3

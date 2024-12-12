@@ -4,7 +4,7 @@
 #Coal
 owner = LNC
 controller = LNC
-culture = norsanglic
+culture = anglosaxon
 religion = chalcedonism
 hre = no
 base_tax = 3

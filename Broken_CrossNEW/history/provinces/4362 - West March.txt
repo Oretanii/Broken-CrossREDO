@@ -2,7 +2,7 @@
 
 owner = HSC
 controller = HSC
-culture = highland_scottish
+culture = norsanglic
 religion = chalcedonism
 hre = no
 base_tax = 3
