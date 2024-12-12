@@ -2,7 +2,7 @@
 
 owner = CRO # Part of the Bosnian kingdom
 controller = CRO
-culture = croatian
+culture = bosnian
 religion = shiite
 capital = "Jajce"
 trade_goods = livestock

@@ -12,7 +12,7 @@ base_manpower = 2
 capital = "Kherson"
 is_city = yes
 add_core = CRI
-add_core = ZAZ
+add_core = GOL
 
 
 
