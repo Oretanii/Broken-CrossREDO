@@ -4113,6 +4113,7 @@ byzantine = {
 		dynasty_names = {
 			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
 		}
+	}
 	maqdunian = {
 		primary = MAC
 		dynasty_names = {
