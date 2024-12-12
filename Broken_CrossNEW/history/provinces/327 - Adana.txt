@@ -2,7 +2,7 @@
 
 owner = DUL
 controller = DUL
-culture = turkish
+culture = jaziri
 religion = sunni
 capital = "Adana"
 trade_goods = cotton

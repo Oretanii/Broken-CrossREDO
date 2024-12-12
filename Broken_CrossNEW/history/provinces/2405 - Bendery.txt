@@ -2,8 +2,8 @@
 
 owner = ZAZ
 controller = ZAZ
-culture = bulgarian
-religion = sunni
+culture = romanian
+religion = chalcedonism
 capital = "Bender"
 trade_goods = wine
 hre = no

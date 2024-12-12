@@ -2,7 +2,7 @@
 
 owner = TRQ
 controller = TRQ
-culture = yunanian
+culture = bulgarian
 religion = sunni
 capital = "Vidin"
 trade_goods = grain

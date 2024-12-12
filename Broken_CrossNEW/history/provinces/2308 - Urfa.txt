@@ -2,7 +2,7 @@
 
 owner = IRQ
 controller = IRQ
-culture = turkish
+culture = jaziri
 religion = sunni
 capital = "Urfa"
 trade_goods = wool

@@ -2,7 +2,7 @@
 
 owner = VRS
 controller = VRS 
-culture = hungarian
+culture = avar
 religion = tengri_pagan_reformed
 capital = "Fehérvár"
 trade_goods = livestock

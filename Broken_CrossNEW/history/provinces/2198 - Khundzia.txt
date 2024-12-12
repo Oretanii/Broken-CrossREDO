@@ -1,7 +1,7 @@
 #2198 - Khundzia
 
-owner = AVR
-controller = AVR
+owner = GAZ
+controller = GAZ
 culture = dagestani
 religion = sunni
 capital = "Khunzah"

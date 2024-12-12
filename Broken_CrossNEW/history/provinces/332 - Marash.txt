@@ -2,7 +2,7 @@
 
 owner = DUL
 controller = DUL
-culture = turkish
+culture = jaziri
 religion = sunni
 capital = "Maras"
 trade_goods = wool

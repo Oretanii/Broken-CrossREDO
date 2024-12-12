@@ -2,7 +2,7 @@
 
 owner = KAR
 controller = KAR
-culture = turkish
+culture = anadulian
 religion = sunni
 capital = "Aksaray"
 trade_goods = livestock

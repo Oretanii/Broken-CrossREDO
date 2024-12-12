@@ -6,7 +6,7 @@ latent_trade_goods = {
 
 owner = VRS
 controller = VRS 
-culture = hungarian
+culture = avar
 religion = tengri_pagan_reformed
 capital = "Kaposvár"
 trade_goods = livestock

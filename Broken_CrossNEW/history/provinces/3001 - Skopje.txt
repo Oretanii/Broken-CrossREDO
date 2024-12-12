@@ -2,8 +2,8 @@
 
 owner = ILY
 controller = ILY
-culture = illyrian
-religion = chalcedonism
+culture = maqdunian
+religion = sunni
 capital = "Skopje"
 trade_goods = iron
 hre = no

@@ -1,7 +1,7 @@
 #1974 - Yedishkul
 
-owner = ZAZ
-controller = ZAZ
+owner = GOL
+controller = GOL
 culture = crimean
 religion = sunni
 hre = no

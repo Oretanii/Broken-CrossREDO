@@ -2,7 +2,7 @@
 
 owner = ERE
 controller = ERE
-culture = turkish
+culture = jaziri
 religion = shiite
 capital = "Malatiya"
 trade_goods = cloth

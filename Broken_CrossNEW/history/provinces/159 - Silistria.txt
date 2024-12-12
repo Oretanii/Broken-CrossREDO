@@ -2,7 +2,7 @@
 
 owner = TRQ
 controller = TRQ
-culture = yunanian
+culture = aflaqian
 religion = sunni
 capital = "Silistra"
 trade_goods = fish

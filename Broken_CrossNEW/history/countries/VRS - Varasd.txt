@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = tribal_kingdom
-primary_culture = hungarian
+primary_culture = avar
 religion = tengri_pagan_reformed
 secondary_religion = chalcedonism
 technology_group = eastern

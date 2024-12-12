@@ -2,7 +2,7 @@
 
 owner = TRQ
 controller = TRQ
-culture = yunanian
+culture = bulgarian
 religion = sunni
 capital = "Sofia"
 trade_goods = copper

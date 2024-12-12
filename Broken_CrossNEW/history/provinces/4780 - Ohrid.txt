@@ -2,8 +2,8 @@
 
 owner = ILY
 controller = ILY
-culture = illyrian
-religion = bogomilist
+culture = maqdunian
+religion = sunni
 capital = "Ohrid"
 trade_goods = wool
 hre = no

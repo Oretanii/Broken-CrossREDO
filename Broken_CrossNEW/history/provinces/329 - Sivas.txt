@@ -2,7 +2,7 @@
 
 owner = ERE
 controller = ERE
-culture = turkish
+culture = anadulian
 religion = shiite
 capital = "Sivas"
 trade_goods = livestock

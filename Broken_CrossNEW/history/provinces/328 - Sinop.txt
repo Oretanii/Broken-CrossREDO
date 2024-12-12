@@ -2,7 +2,7 @@
 
 owner = CND
 controller = CND
-culture = yunanian
+culture = pontic_greek
 religion = sunni
 capital = "Sinop"
 trade_goods = naval_supplies

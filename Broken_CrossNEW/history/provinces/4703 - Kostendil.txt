@@ -1,6 +1,6 @@
 owner = TRQ
 controller = TRQ
-culture = yunanian
+culture = bulgarian
 religion = sunni
 capital = "Kostendil"
 trade_goods = copper

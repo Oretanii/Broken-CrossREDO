@@ -2,7 +2,7 @@
 
 owner = GRM
 controller = GRM
-culture = turkish
+culture = yunanian
 religion = sunni
 capital = "Denizli"
 trade_goods = cloth

@@ -2,7 +2,7 @@
 
 owner = MAM
 controller = MAM
-culture = turkish
+culture = al_suryah_arabic
 religion = sunni
 capital = "Homs"
 trade_goods = cotton

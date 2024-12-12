@@ -1,9 +1,9 @@
 #284 - Crimea
 
-owner = ZAZ
-controller = ZAZ
-culture = crimean
-religion = sunni
+owner = FEO
+controller = FEO
+culture = goths
+religion = iconoclast
 hre = no
 base_tax = 6
 base_production = 6

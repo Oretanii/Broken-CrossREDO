@@ -2,7 +2,7 @@
 
 owner = ZAZ
 controller = ZAZ
-culture = bulgarian
+culture = aflaqian
 religion = sunni
 hre = no
 base_tax = 5 

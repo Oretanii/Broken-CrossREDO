@@ -2,7 +2,7 @@
 
 owner = ZAZ
 controller = ZAZ 
-culture = bulgarian
+culture = hungarian
 religion = slavic_pagan_reformed
 hre = no
 base_tax = 2

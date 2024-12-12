@@ -2,7 +2,7 @@
 
 owner = ERE
 controller = ERE
-culture = turkish
+culture = anadulian
 religion = sunni
 capital = "Amasya"
 trade_goods = paper #and iron

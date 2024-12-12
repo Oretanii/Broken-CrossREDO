@@ -2,7 +2,7 @@
 
 owner = MEN
 controller = MEN
-culture = turkish
+culture = anadulian
 religion = sunni
 capital = "Adalia"
 trade_goods = cotton

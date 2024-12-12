@@ -1,7 +1,7 @@
 owner = WAL
 controller = WAL
-culture = bulgarian
-religion = chalcedonism
+culture = aflaqian
+religion = sunni
 capital = "Tolcu"
 trade_goods = wool
 hre = no

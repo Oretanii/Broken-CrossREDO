@@ -2,7 +2,7 @@
 
 owner = BTL
 controller = BTL
-culture = turkish
+culture = jaziri
 religion = sunni
 capital = "Bitlis"
 trade_goods = wool

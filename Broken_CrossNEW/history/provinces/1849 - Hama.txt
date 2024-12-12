@@ -2,7 +2,7 @@
 
 owner = MAM
 controller = MAM
-culture = turkish
+culture = jaziri
 religion = sunni
 capital = "Hama"
 trade_goods = cotton

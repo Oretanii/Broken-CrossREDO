@@ -2,7 +2,7 @@
 
 owner = PST
 controller = PST 
-culture = hungarian
+culture = avar
 religion = tengri_pagan_reformed
 capital = "Szolnok"
 trade_goods = livestock

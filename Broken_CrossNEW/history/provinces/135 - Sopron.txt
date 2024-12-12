@@ -2,7 +2,7 @@
 
 owner = VRS
 controller = VRS 
-culture = hungarian
+culture = avar
 religion = chalcedonism
 capital = "Sopron"
 trade_goods = grain

@@ -1,6 +1,6 @@
 owner = TRQ
 controller = TRQ
-culture = yunanian
+culture = bulgarian
 religion = sunni
 capital = "Tarnovo"
 trade_goods = cloth

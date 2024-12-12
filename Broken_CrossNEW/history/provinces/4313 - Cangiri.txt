@@ -2,7 +2,7 @@
 
 owner = NIQ
 controller = NIQ
-culture = turkish
+culture = yunanian
 religion = sunni
 capital = "Kangiri"
 trade_goods = wool

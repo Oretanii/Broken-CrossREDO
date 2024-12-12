@@ -2,7 +2,7 @@
 
 owner = TRN
 controller = TRN 
-culture = hungarian
+culture = avar
 religion = tengri_pagan_reformed
 capital = "Bács"
 trade_goods = livestock
