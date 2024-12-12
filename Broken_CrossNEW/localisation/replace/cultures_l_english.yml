@@ -1,6 +1,5 @@
 ﻿l_english:
- bulgarian:0 "Bolghar"
- sicilian:0 "Nufsinfari"
+ bulgarian:0 "Musyan"
  parthian:1 "Pahlavi"
  babylonian:1 "Assyrian"
  scythian:0 "Alan"
@@ -17,3 +16,4 @@
  tibetan_group:0 "Himalayan"
  al_misr_arabic:0 "Masri"
  al_suryah_arabic:0 "Shami"
+ hungarian:0 "Venger"

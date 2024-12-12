@@ -1340,6 +1340,48 @@ latin = {
 			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
+	nofsinhar = {
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+		male_names = {
+			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
+			Haidar Hashim Husam Iqbal Jabbar Ja'far Jamal Junayd Khaliq Malik Mansur Mustafa Najib Qasim Qusay 
+			Rashîd Safi Sakhr Samir Tariq Umar Wahid Zahir Firdaus Fuad Rahim
+			Abbad Abbas Abbas Abdallah Abdullah Abdul-Aziz Abdul-Hakam Abdul-Hasan Hasan Abdul-Hazm 
+			Abdul-Rahman Abdul-Razzaq Abdul Abdul Abu Abu-Bakr Abu-Bakr Adfuns Alphonse Ahmad Ahmad Ali Ali Amr 
+			Ayyub Balashk Vasco Bilal Fadl Fath Galind Galindo Garsiya Garcia Hakam Hakam Hilal Ibrahim Abraham 
+			Isma'il Ismail Jyad Lubb Lupo Ma'n Mubashir Muhammad Muhammad Mundir Musa Moses Muyahid Raf Rashid 
+			Rasiq Sa'd Sanyo Sancho Siddray Suleyman Solomon Tariq Tifilwit Umar Umar Utman Wannaqo Inigo 
+			Ya'far Yahaff Yahya John Yusuf Joseph
+		}
+		female_names = {
+			Aliya Fahima Haifa Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda 
+			Ibtisam Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+		}
+	}
+	siqilyian = {
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+		male_names = {
+			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
+			Haidar Hashim Husam Iqbal Jabbar Ja'far Jamal Junayd Khaliq Malik Mansur Mustafa Najib Qasim Qusay 
+			Rashîd Safi Sakhr Samir Tariq Umar Wahid Zahir Firdaus Fuad Rahim
+			Abbad Abbas Abbas Abdallah Abdullah Abdul-Aziz Abdul-Hakam Abdul-Hasan Hasan Abdul-Hazm 
+			Abdul-Rahman Abdul-Razzaq Abdul Abdul Abu Abu-Bakr Abu-Bakr Adfuns Alphonse Ahmad Ahmad Ali Ali Amr 
+			Ayyub Balashk Vasco Bilal Fadl Fath Galind Galindo Garsiya Garcia Hakam Hakam Hilal Ibrahim Abraham 
+			Isma'il Ismail Jyad Lubb Lupo Ma'n Mubashir Muhammad Muhammad Mundir Musa Moses Muyahid Raf Rashid 
+			Rasiq Sa'd Sanyo Sancho Siddray Suleyman Solomon Tariq Tifilwit Umar Umar Utman Wannaqo Inigo 
+			Ya'far Yahaff Yahya John Yusuf Joseph
+		}
+		female_names = {
+			Aliya Fahima Haifa Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda 
+			Ibtisam Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+		}
+	}
 	roman = { #EU Rome
 		dynasty_names = {
 			Aemilia Antonia Atilia Atia Aufidia Aurelia Caecilia Calpurnia Cassia Claudia
@@ -1951,7 +1993,7 @@ french	= {
 	}
 	faransian = {
 		dynasty_names = {
-			"lfalwys" "di bwrbwn" "min burj" "'anju" "lurin" "min Foix" "ruhan" "min nyufil" "min burghundi" "Castellane" "lafal" "min burj" "alsanawbar" "min kwrtinay" "fi harkwrat" "min rushuawart" "min 'uwmunat" "di fiurji" "min Saboulin" "di gharamun" "di baysy" "armajinak" "min Talleyrand" "min Saintignon" "fun luksmburgh" "min Montmorency" "min safway" "min fwdmwnt" "di nykwlay"
+			"al-Lfalwys" "al-Bwrbwn" "al-Burj" "al-Anju" "al-Lurin" "al-Foix" "al-Ruhan" "al-Nyufil" "al-Burghundi" "al-Castellane" "al-Lafal" "al-Sanawbar" "al-Kwrtinay" "al-Harkwrat" "al-Rushuawart" "al-Uwmunat" "al-Fiurji" "al-Saboulin" "al-Gharamun" "al-Baysy" "al-Armajinak" "al-Talleyrand" "al-Saintignon" "al-Luksmburgh" "al-Montmorency" "al-Safway" "al-Fwdmwnt" "al-Nykwlay" "al-Fraxinet" "al-Amiri"
 		}
 		male_names = {
 			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
@@ -2088,47 +2130,6 @@ finno_ugric = { #Ugric
 			Sandra Sigrid Siiri Silja Silvi Silvia Siret Sirje Sirli Susanna Taimi Talvi Tea Teele Terje Tiia Tiina Tiiu 
 			Triin Triinu Tuule Tuuli Ursula Urve Vaike Valli Veronika Viia Viiu Viive Viivi Vilja Virge Virve Õie Õnne 
 			Õnnela Ülle
-		}
-	}
-	hungarian = {
-		primary = HUN
-		dynasty_names = {
-			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
-			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy 
-			Thököly Tisza Zrínyi Teleki
-			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey
-			
-			#CK2
-			Zrinski Hadik Both "Rákóczi" Forgách Cseszneky Derencsényi Décsey Révay Esterházy
-			Kállay Kemény Thurzó Zichy
-		}
-		male_names = {
-			Ulászló László Lajos Albert János Mátyás Zsigmond András Károly István Béla Anasztáz Barnabás 
-			Boldizsár Dávid Dömötör Edvárd Ernö Ferenc Gábor György Izsák Jenö József Kálmán Kázmér Lörinc 
-			Miklós Oszkár Ottó Patrik Péter Simon Tamás Vencel
-			Ábel Ádárn Ágoston Álmos Árpád Õdön Otto Alajos Ambrus András Andrew Antal Attila Bálint 
-			Albert Balázs Benedek Benedict Bernát Bernard Bertók Bertalan Boldizsár Bonuslo
-			Borisz Boris Csák Csaba Csongor Dénes Dömötör Dezsõ Domoszló Donát Elek Elemér Endre Ernõ 
-			Philip Ferenc Francis Frigyes Gábor Gábriel Gabriel Gáspár Caspar Géza Gazsi
-			Gellért Gergely György George Gyula Imre István Stephen Izsák Jákob Jacob János John József 
-			Joseph Jenõ Kálmán Károly Charles Konrád Konrad Kornél Kristóf László Lázár Lõrinc Lajos 
-			Lampert Levente Lukács Márk Marcus Márton Martin Máté Mátyás Matthew Móric Mózes Mihály 
-			Michael Louis Fulöp Béla
-			Miklós Nándor Orbán Oszkár Pál Paul Péter Peter Sámuel Samuel Sándor Alexander Salamon 
-			Szilveszter Silvester Tádor Tacsony Tamás Thomas Tibor Tivadar Vazul Vencel Vaclav Vilmos 
-			Zoltán Zsigmond Sigmund Zsolt Saul Soma
-		}
-		female_names = {
-			Ágnes Agnes Éva Eva Adelaida Adelaide Agáta Agatha Amália Amelia Angyalka Anikó Aranka 
-			Bertha Borbála Csilla Csillag Czenzi Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
-			Elisabeth Eszter Berta Anna
-			Etel Euphemia Euphemia Gizella Gisela Györgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildikó 
-			Irén Irene Jácinta Józsa Júlia Juliana Jolán Judith Judith Kamilla Camilla Katalin 
-			Kinga Klára Clara Catherine Illona
-			Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca Mária Maria Márta Martha 
-			Magdolna Magdalena Margaréta Margaret Margit Matild Matilda Natália Natalia Odola Orsolya 
-			Panni Piroska Rózsa Rosa Sára Sarah Sarolt Zsuzsa Zsanett
-			Skolasztika Sophia Sophia Tundér Terezia Teresa Viola Viola Virág Zoltána Zsófia Sophia
 		}
 	}
 	sapmi = {
@@ -3946,35 +3947,6 @@ byzantine = {
 			Shqipe Teuta Venera Vera Vesa Yllka
 		}
 	}
-	armenian = {
-		primary = ARM
-		dynasty_names = { 
-			Bagratuni Rubenid Pahlavuni
-			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgorukov" Bebutov "Hasan-Jalalyan" Khojaminasishvili
-			Melikov Orbelid 
-			#CK2
-			"Bagdazarian" "Melik-Avanyan" 
-		}
-		male_names = {
-			David Mkhitar Ashot Gagik Smbat Abbas Hovhannes Smbat Vagram Musegh Sahak Tachar Arakel Ari Armen 
-			Arshavir Avedis Badouagan Bedros Berjouhi Boghos Ghoukas Hagop Haig Hovhannes Hovsep Jirair Kapriel 
-			Kevork Khajag Krikor Levon Movses Nairi Sevan Taniel Vahan Zadig Zoravan
-			Abas Abirad Aboughamr Aboulgharib Aleksandr Alexander Artashes Artashir Ardeshir Artavazd Arsen 
-			Arshak Ashot Ashot Athom Atrnerseh Atrnerseh Avag Avedis Bagour Bagour Bagrat Bedros Peter 
-			Boghos Paul Davit David Eshkhan Gagik Gagik Gevorg George Karayan
-			Gosdantin Constantine Grigor Gregory Gurgen Lupo Hagop Hamazasp Hethum Hovhannes John Hovsep 
-			Joseph Ishkhan Ishkhan Ivane Kapriel Gabriel Khachik Khosrov Khosrau Levon Leo Malkhas Malkhas 
-			Mamigon Manuel Manuel Margos Marcus Melek Mihrdat Mithridates Mikayel Michael Mleh Mushegh 
-			Mushel Mzhezh Nerseh Narses Oshin Roupen Reuben Sahag Isaac Sarkis Sergius Sevag Shahanshah 
-		}
-		female_names = {
-			Aghavni Alitz Alice Almasd Anahid Anna Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi 
-			Datevig Dalita Eliz Eloise Gadar Gorandoukht Gorandukht Hasmig Houri Hranoush Hripsimeh 		
-			Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Margaret Maria Maria 
-			Mariyam Mariam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Satinik Seta Siran 
-			Sirvart Srpouhi Shoushanig Takouhi Tamar Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
-		}
-	}
 	old_egyptian = { #coptic
 		graphical_culture = muslimgfx
 		primary = EGY
@@ -4125,6 +4097,86 @@ byzantine = {
 			Tamari Tamar Taplo Tinatini Tsiala Vardo
 		}
 	}
+	bulgarian = {
+		primary = BUL
+		male_names = {
+			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" 
+			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" 
+			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" 
+			"Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf"
+		}
+		female_names = {
+			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima" 
+			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
+			Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+		}
+		dynasty_names = {
+			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
+		}
+	maqdunian = {
+		primary = MAC
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+		male_names = {
+			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
+			Haidar Hashim Husam Iqbal Jabbar Ja'far Jamal Junayd Khaliq Malik Mansur Mustafa Najib Qasim Qusay 
+			Rashîd Safi Sakhr Samir Tariq Umar Wahid Zahir Firdaus Fuad Rahim
+			Abbad Abbas Abbas Abdallah Abdullah Abdul-Aziz Abdul-Hakam Abdul-Hasan Hasan Abdul-Hazm 
+			Abdul-Rahman Abdul-Razzaq Abdul Abdul Abu Abu-Bakr Abu-Bakr Adfuns Alphonse Ahmad Ahmad Ali Ali Amr 
+			Ayyub Balashk Vasco Bilal Fadl Fath Galind Galindo Garsiya Garcia Hakam Hakam Hilal Ibrahim Abraham 
+			Isma'il Ismail Jyad Lubb Lupo Ma'n Mubashir Muhammad Muhammad Mundir Musa Moses Muyahid Raf Rashid 
+			Rasiq Sa'd Sanyo Sancho Siddray Suleyman Solomon Tariq Tifilwit Umar Umar Utman Wannaqo Inigo 
+			Ya'far Yahaff Yahya John Yusuf Joseph
+		}
+		female_names = {
+			Aliya Fahima Haifa Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda 
+			Ibtisam Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+		}
+	}
+	anadulian = {
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+		male_names = {
+			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
+			Haidar Hashim Husam Iqbal Jabbar Ja'far Jamal Junayd Khaliq Malik Mansur Mustafa Najib Qasim Qusay 
+			Rashîd Safi Sakhr Samir Tariq Umar Wahid Zahir Firdaus Fuad Rahim
+			Abbad Abbas Abbas Abdallah Abdullah Abdul-Aziz Abdul-Hakam Abdul-Hasan Hasan Abdul-Hazm 
+			Abdul-Rahman Abdul-Razzaq Abdul Abdul Abu Abu-Bakr Abu-Bakr Adfuns Alphonse Ahmad Ahmad Ali Ali Amr 
+			Ayyub Balashk Vasco Bilal Fadl Fath Galind Galindo Garsiya Garcia Hakam Hakam Hilal Ibrahim Abraham 
+			Isma'il Ismail Jyad Lubb Lupo Ma'n Mubashir Muhammad Muhammad Mundir Musa Moses Muyahid Raf Rashid 
+			Rasiq Sa'd Sanyo Sancho Siddray Suleyman Solomon Tariq Tifilwit Umar Umar Utman Wannaqo Inigo 
+			Ya'far Yahaff Yahya John Yusuf Joseph
+		}
+		female_names = {
+			Aliya Fahima Haifa Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda 
+			Ibtisam Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+		}
+	}
+	aflaqian = {
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+		male_names = {
+			Muhammad Yûsuf 'Alî Sa'd Isma'îl Nasr 'Abd al-Karim Ayman Barakat Basir Dawud Fahd Faris Faruq 
+			Haidar Hashim Husam Iqbal Jabbar Ja'far Jamal Junayd Khaliq Malik Mansur Mustafa Najib Qasim Qusay 
+			Rashîd Safi Sakhr Samir Tariq Umar Wahid Zahir Firdaus Fuad Rahim
+			Abbad Abbas Abbas Abdallah Abdullah Abdul-Aziz Abdul-Hakam Abdul-Hasan Hasan Abdul-Hazm 
+			Abdul-Rahman Abdul-Razzaq Abdul Abdul Abu Abu-Bakr Abu-Bakr Adfuns Alphonse Ahmad Ahmad Ali Ali Amr 
+			Ayyub Balashk Vasco Bilal Fadl Fath Galind Galindo Garsiya Garcia Hakam Hakam Hilal Ibrahim Abraham 
+			Isma'il Ismail Jyad Lubb Lupo Ma'n Mubashir Muhammad Muhammad Mundir Musa Moses Muyahid Raf Rashid 
+			Rasiq Sa'd Sanyo Sancho Siddray Suleyman Solomon Tariq Tifilwit Umar Umar Utman Wannaqo Inigo 
+			Ya'far Yahaff Yahya John Yusuf Joseph
+		}
+		female_names = {
+			Aliya Fahima Haifa Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda 
+			Ibtisam Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
+			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+		}
+	}
 	dynasty_names = { 
 		Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
 	}
@@ -4236,6 +4288,25 @@ turko_semitic = { #Levantine
 			Rajiya Sadiya Salma Sitara Thana Zahra Zahra Zuhayra
 		}
 	}
+	jaziri = { #Anatolian Arab
+		primary = SYR
+		dynasty_names = {
+			"Mirdasid" "Maanid" "al-Shihab"  Yakubid Hassanid
+			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli 
+		}
+		male_names = {
+			al-Nasr al-Mu'azzam al-Salih al-'Adil al-Kamil al-Ashraf al-Afdal Tadj Mujir ud-Din Djamal ud-Din 
+			ud-Din Shams Saif 'Abbas 'Abd al-Rahman Anwar Atuf Bakr Fahd Hakim Harun Hikmat Hisham Husayn 
+			Jamaal Karim Malîk Mirza Muhammad Rashîd Rusul Shimun Tarîq Usama Yasir Yusuf Zaid Zîyad Isma'il 	
+			Jafar Shihab
+		}
+		female_names = {
+			Ihsan Marwa Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala 
+			Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht Nazy Neelab Negar Niki Nikoo Noushin Rabiya
+			Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen 
+			Rajiya Sadiya Salma Sitara Thana Zahra Zahra Zuhayra
+		}
+	}
 	al_iraqiya_arabic = { #Mashriqi Arab
 		primary = IRQ
 		dynasty_names = {
@@ -4255,6 +4326,30 @@ turko_semitic = { #Levantine
 	}
 	gulf_arabic = {
 		primary = ALH
+		dynasty_names = {
+			"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi"
+			"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
+			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Joseph Zeyd 
+		}
+		female_names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	farisi = { #Persian Arab
 		dynasty_names = {
 			"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi"
 			"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
@@ -4499,6 +4594,35 @@ caucasian = {
 			Elisu Gulandash Aamnat Ajmaani Ajsyat Ajza Ajzan Albiika Albiina Amiina Asma Asyat Azman Aznii Beliita Bilquis 
 			Busana Dagman Dagmani Dagmara Deshi Dikman Duqyaakha Eliina Eliita Eliiza Esiila Havaa Kamiila Kamiisa Kariina 
 			
+		}
+	}
+	armenian = {
+		primary = ARM
+		dynasty_names = { 
+			Bagratuni Rubenid Pahlavuni
+			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgorukov" Bebutov "Hasan-Jalalyan" Khojaminasishvili
+			Melikov Orbelid 
+			#CK2
+			"Bagdazarian" "Melik-Avanyan" 
+		}
+		male_names = {
+			David Mkhitar Ashot Gagik Smbat Abbas Hovhannes Smbat Vagram Musegh Sahak Tachar Arakel Ari Armen 
+			Arshavir Avedis Badouagan Bedros Berjouhi Boghos Ghoukas Hagop Haig Hovhannes Hovsep Jirair Kapriel 
+			Kevork Khajag Krikor Levon Movses Nairi Sevan Taniel Vahan Zadig Zoravan
+			Abas Abirad Aboughamr Aboulgharib Aleksandr Alexander Artashes Artashir Ardeshir Artavazd Arsen 
+			Arshak Ashot Ashot Athom Atrnerseh Atrnerseh Avag Avedis Bagour Bagour Bagrat Bedros Peter 
+			Boghos Paul Davit David Eshkhan Gagik Gagik Gevorg George Karayan
+			Gosdantin Constantine Grigor Gregory Gurgen Lupo Hagop Hamazasp Hethum Hovhannes John Hovsep 
+			Joseph Ishkhan Ishkhan Ivane Kapriel Gabriel Khachik Khosrov Khosrau Levon Leo Malkhas Malkhas 
+			Mamigon Manuel Manuel Margos Marcus Melek Mihrdat Mithridates Mikayel Michael Mleh Mushegh 
+			Mushel Mzhezh Nerseh Narses Oshin Roupen Reuben Sahag Isaac Sarkis Sergius Sevag Shahanshah 
+		}
+		female_names = {
+			Aghavni Alitz Alice Almasd Anahid Anna Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi 
+			Datevig Dalita Eliz Eloise Gadar Gorandoukht Gorandukht Hasmig Houri Hranoush Hripsimeh 		
+			Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Margaret Maria Maria 
+			Mariyam Mariam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Satinik Seta Siran 
+			Sirvart Srpouhi Shoushanig Takouhi Tamar Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
 		}
 	}
 	dynasty_names = {
@@ -5185,21 +5309,71 @@ tartar	= {	#turkic
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
-	bulgarian = {
-		primary = BUL
+	avar = {
+		primary = AVR
+		dynasty_names = {
+			"Omurtagid" "Ketid" 
+		}
 		male_names = {
-			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" 
-			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" 
-			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" 
-			"Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf"
+			Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balambär Balambar Barjik Bars Barsbek Bashtwa Bastu 
+			Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi 
+			Böri Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani 
+			Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir 
+			Khinialon Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç Kundaçiq Kurt 
+			Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ 
+			Organa Ornag Oshi Ostro Pagan Pakhtiyar Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh 
+			Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç Tatra Telec Telerig Tervel 
+			Timër Timur Timëreç Timërpälat Tingiz Tiradin Toghan Toghrïl Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq Täbär Teber 
+			Tähtaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yençepi Yerneslu Yeçtirek Yilig Zabergan Zenti Çat 
+			Çat'n Çorpan Ötemis
 		}
 		female_names = {
-			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima" 
-			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
-			Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+			Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulay Gulçiçäk Gulçiçek Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik 
+			Khatun Kätyarikka Këlnissa Këlyamal Lyukha Lärkka Mala Maturkka Mutlu Naça Parsbit Patiyer Paykëlti Peksen Puyantay Samur 
+			Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay Sevilay Savintik Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma 
+			Songul Tekçe Tura Tähtani Umay Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Çiçäk Çiçek 
+			Özgul Özlem
 		}
+	}
+	hungarian = {
+		primary = HUN
 		dynasty_names = {
-			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
+			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
+			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy 
+			Thököly Tisza Zrínyi Teleki
+			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey
+			
+			#CK2
+			Zrinski Hadik Both "Rákóczi" Forgách Cseszneky Derencsényi Décsey Révay Esterházy
+			Kállay Kemény Thurzó Zichy
+		}
+		male_names = {
+			Ulászló László Lajos Albert János Mátyás Zsigmond András Károly István Béla Anasztáz Barnabás 
+			Boldizsár Dávid Dömötör Edvárd Ernö Ferenc Gábor György Izsák Jenö József Kálmán Kázmér Lörinc 
+			Miklós Oszkár Ottó Patrik Péter Simon Tamás Vencel
+			Ábel Ádárn Ágoston Álmos Árpád Õdön Otto Alajos Ambrus András Andrew Antal Attila Bálint 
+			Albert Balázs Benedek Benedict Bernát Bernard Bertók Bertalan Boldizsár Bonuslo
+			Borisz Boris Csák Csaba Csongor Dénes Dömötör Dezsõ Domoszló Donát Elek Elemér Endre Ernõ 
+			Philip Ferenc Francis Frigyes Gábor Gábriel Gabriel Gáspár Caspar Géza Gazsi
+			Gellért Gergely György George Gyula Imre István Stephen Izsák Jákob Jacob János John József 
+			Joseph Jenõ Kálmán Károly Charles Konrád Konrad Kornél Kristóf László Lázár Lõrinc Lajos 
+			Lampert Levente Lukács Márk Marcus Márton Martin Máté Mátyás Matthew Móric Mózes Mihály 
+			Michael Louis Fulöp Béla
+			Miklós Nándor Orbán Oszkár Pál Paul Péter Peter Sámuel Samuel Sándor Alexander Salamon 
+			Szilveszter Silvester Tádor Tacsony Tamás Thomas Tibor Tivadar Vazul Vencel Vaclav Vilmos 
+			Zoltán Zsigmond Sigmund Zsolt Saul Soma
+		}
+		female_names = {
+			Ágnes Agnes Éva Eva Adelaida Adelaide Agáta Agatha Amália Amelia Angyalka Anikó Aranka 
+			Bertha Borbála Csilla Csillag Czenzi Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
+			Elisabeth Eszter Berta Anna
+			Etel Euphemia Euphemia Gizella Gisela Györgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildikó 
+			Irén Irene Jácinta Józsa Júlia Juliana Jolán Judith Judith Kamilla Camilla Katalin 
+			Kinga Klára Clara Catherine Illona
+			Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca Mária Maria Márta Martha 
+			Magdolna Magdalena Margaréta Margaret Margit Matild Matilda Natália Natalia Odola Orsolya 
+			Panni Piroska Rózsa Rosa Sára Sarah Sarolt Zsuzsa Zsanett
+			Skolasztika Sophia Sophia Tundér Terezia Teresa Viola Viola Virág Zoltána Zsófia Sophia
 		}
 	}
 	dynasty_names = {
