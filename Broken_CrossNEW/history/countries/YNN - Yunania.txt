@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = sultanate_of_rum_reform
+government_rank = 2
+primary_culture = yunanian
+add_accepted_culture = anadulian
+add_accepted_culture = bulgarian
+religion = sunni
+technology_group = muslim
+historical_rival = QUR
+historical_rival = MAM
+historical_rival = ADU
+historical_rival = IIT
+capital = 151	# Constantinople
+national_focus = MIL
+add_army_professionalism = 0.1
+religious_school = hanafi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Jistinyan III"
+		dynasty = "Heraqulid"
+                culture = yunanian
+		birth_date = 1432.3.30
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_piety = -0.25
+}

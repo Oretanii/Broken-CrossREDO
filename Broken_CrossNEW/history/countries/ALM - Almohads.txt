@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 348 # Sus
+add_accepted_culture = moroccan
+religious_school = maliki_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Abu-Idris al-Wathiq II"
+		dynasty = "Almohad"
+		birth_date = 1423.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_piety = 0.4
+}

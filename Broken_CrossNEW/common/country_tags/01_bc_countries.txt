@@ -14,6 +14,7 @@ PST = "countries/Pest.txt"
 ILY = "countries/Illyria.txt"
 NIQ = "countries/Niqya.txt"
 MAC = "countries/Maqdunia.txt"
+YNN = "countries/Yunania.txt"
 
 #British Isles
 LNC = "countries/Lancaster.txt"
@@ -66,6 +67,7 @@ QUR = "countries/Qurais.txt"
 
 #North Africa
 IDS = "countries/Idrisids.txt"
+ALM = "countries/Almohads.txt"
 
 #New World
 ABM = "countries/Al-Abama.txt"
