@@ -1,9 +1,20 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = republic
+add_government_reform = pirate_republic_reform
 government_rank = 1
-technology_group = eastern
-primary_culture = greek
-add_accepted_culture = lombard
-religion = chalcedonism
+religion = sunni
+primary_culture = yunanian
+add_accepted_culture = siqilyian
+technology_group = muslim
 capital = 163	# Heraklion
 fixed_capital = 163 # Cannot move capital away from this province & no power cost to move to it
+religious_school = hanafi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Umar al-Qurtubi"
+		birth_date = 1416.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

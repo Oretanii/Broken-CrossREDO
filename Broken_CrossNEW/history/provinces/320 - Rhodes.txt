@@ -1,7 +1,7 @@
 #320 - Rhodes
 
-owner = MEN	# Knights of St. John Hospitaler of Jerusalem
-controller = MEN
+owner = CRT	# Knights of St. John Hospitaler of Jerusalem
+controller = CRT
 culture = yunanian
 religion = sunni
 capital = "Rhodes"
@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = MEN
+add_core = CRT
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

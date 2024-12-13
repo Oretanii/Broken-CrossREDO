@@ -1,7 +1,7 @@
 #147 - Salonica
 
-owner = MOE
-controller = MOE
+owner = ATH
+controller = ATH
 culture = greek
 religion = iconoclast
 capital = "Larissa"
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = MOE
+add_core = ATH
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

@@ -4,14 +4,13 @@ owner = VEN
 controller = VEN
 culture = venetian 
 religion = chalcedonism 
-hre = yes
+hre = no
 base_tax = 4
 base_production = 3
 trade_goods = fish
 base_manpower = 2    
 capital = "Trieste" 
 is_city = yes # Estimated
-add_core = STY
 add_core = VEN
 
 discovered_by = western

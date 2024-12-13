@@ -1,7 +1,7 @@
 #2348 - Chios
 
-owner = AYD
-controller = AYD
+owner = CRT
+controller = CRT
 culture = yunanian
 religion = sunni
 capital = "Chio"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = AYD
+add_core = CRT
 
 
 

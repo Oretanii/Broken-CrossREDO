@@ -1,7 +1,7 @@
 #163 - Crete
 
-owner = MAM
-controller = MAM
+owner = CRT
+controller = CRT
 culture = yunanian
 religion = sunni
 capital = "Heraklion"
@@ -11,9 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MOE
 add_core = CRT
-add_core = MAM
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim
