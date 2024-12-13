@@ -1,7 +1,7 @@
 #348 - Sus
 
-owner = SKS
-controller = SKS
+owner = ALM
+controller = ALM
 culture = berber
 religion = sunni
 capital = "Taroudant"
@@ -14,7 +14,7 @@ is_city = yes
 add_core = MOR
 add_core = SOS
 add_core = TFL
-add_core = SKS
+add_core = ALM
 
 
 

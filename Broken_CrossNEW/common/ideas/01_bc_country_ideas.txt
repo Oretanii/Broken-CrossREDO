@@ -421,3 +421,44 @@ ABM_ideas = {
 		culture_conversion_cost = -0.1
 	}
 }
+
+YNN_ideas = {
+	start = {
+		manpower_recovery_speed = 0.2
+		land_morale = 0.1
+	}
+	bonus = {
+		land_forcelimit_modifier = 0.25
+	}
+	trigger = {
+		tag = YNN
+	}
+	free = yes
+	
+	rum_abul_fath = {
+		discipline = 0.05
+	}
+	rum_king_of_the_east_and_west = {
+		core_creation = -0.20
+		num_accepted_cultures = 1
+	}
+	rum_shahanshah = {
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
+	}
+	rum_sultan_of_rum = {
+		tolerance_heathen = 3
+	}
+	rum_sulan_al_bahrayn = {
+		naval_maintenance_modifier = -0.15
+	}
+	rum_sultan_al_muazzam = {
+		build_cost = -0.15
+	}
+	rum_protector_of_dar_al_islam = {
+		global_heretic_missionary_strength = 0.03
+	}
+}

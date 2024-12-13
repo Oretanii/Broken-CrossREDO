@@ -1,7 +1,7 @@
 #151 - Constantinople
 
-owner = HSN
-controller = HSN
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Aintisar al'islam"
@@ -12,7 +12,7 @@ base_production = 9
 base_manpower = 5
 is_city = yes
 fort_15th = yes 
-add_core = HSN
+add_core = YNN
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

@@ -1,17 +1,17 @@
 # Forcalquier
 
-owner = PRO
-controller = PRO 
+owner = FRX
+controller = FRX
 capital = "Toulon"
 is_city = yes
 culture = faransian
-religion = chalcedonism
-hre = yes
+religion = sunni
+hre = no
 base_tax = 4
 base_production = 4
 trade_goods = naval_supplies
 base_manpower = 3
-add_core = PRO
+add_core = FRX
 
 
 

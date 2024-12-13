@@ -33,6 +33,7 @@ YER = "countries/Yerevan.txt"
 STG = "countries/Saintonge.txt"
 QST = "countries/Qastany.txt"
 TEM = "countries/Templar.txt"
+FRX = "countries/Fraxinetum.txt"
 
 #Spain
 ALJ = "countries/Alentejo.txt"
