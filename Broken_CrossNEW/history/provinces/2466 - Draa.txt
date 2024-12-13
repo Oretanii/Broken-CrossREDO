@@ -2,7 +2,7 @@
 
 owner = SKS
 controller = SKS
-culture = saksun
+culture = berber
 religion = sunni
 capital = "Tagmadert"
 trade_goods = spices #Dates

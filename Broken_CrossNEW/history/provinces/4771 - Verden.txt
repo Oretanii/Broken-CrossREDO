@@ -2,7 +2,7 @@
 
 owner = VER
 controller = VER
-culture = hannoverian
+culture = lower_saxon
 religion = chalcedonism
 capital = "Verden"
 trade_goods = livestock

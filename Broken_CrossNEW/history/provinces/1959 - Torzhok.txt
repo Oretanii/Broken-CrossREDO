@@ -3,7 +3,7 @@
 owner = LIV
 controller = LIV
 add_core = LIV
-culture = russian
+culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
 base_tax = 3

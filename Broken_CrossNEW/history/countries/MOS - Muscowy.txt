@@ -1,7 +1,7 @@
-government = republic
-add_government_reform = veche_republic
+government = monarchy
+add_government_reform = principality
 government_rank = 1
-primary_culture = novgorodian
+primary_culture = russian
 religion = slavic_pagan_reformed
 technology_group = eastern
 capital = 295 # Moskva
@@ -11,11 +11,16 @@ national_focus = ADM
 
 1424.2.27 = {
 	monarch = {
-		name = "Feofil"
+		name = "Feofil I"
+		dynasty = "Rurikovich"
+		birth_date = 1415.3.10
 		adm = 3
-		dip = 2
-		mil = 0
+		dip = 1
+		mil = 2
 	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1447.1.1 = { leader = {	name = "Ivan Obolenski-Striga" 	type = general	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1469.1.1 } }
 

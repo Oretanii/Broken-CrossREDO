@@ -2,7 +2,7 @@
 
 owner = DSB
 controller = DSB
-culture = hannoverian
+culture = lower_saxon
 religion = chalcedonism
 capital = "Bremervörde"
 trade_goods = fish
