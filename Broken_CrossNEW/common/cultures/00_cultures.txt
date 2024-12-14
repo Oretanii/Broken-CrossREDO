@@ -1320,6 +1320,7 @@ latin = {
 		}
 	}
 	italiu = {
+		primary = RMA
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1341,6 +1342,7 @@ latin = {
 		}
 	}
 	nofsinhar = {
+		primary = NAB
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1362,6 +1364,7 @@ latin = {
 		}
 	}
 	siqilyian = {
+		primary = SQL
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1828,6 +1831,7 @@ iberian	= {
 	}
 	xarqian = { #Oretan: Andalusians in eastern Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = BLS
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1850,6 +1854,7 @@ iberian	= {
 	}
 	gharbian = { #Oretan: Andalusians in western Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = BTY
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1872,6 +1877,7 @@ iberian	= {
 	}
 	xerrat = { #Oretan: Andalusians in central Hispania
 		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = TUL
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -1894,6 +1900,7 @@ iberian	= {
 	}
 	qawth = { #Oretan: Andalusian romano-goths in southern Gaul
 		province = { local_has_caravel = yes local_has_galleon = yes }
+		primary = QAW
 		dynasty_names = {
 			Nasrid Ummayad Zirid Aniano Ariari Arius Ataulph Atharid Baduila Cyrila Farnobio Feva Fretela Friderico Gaiseri Gundeharo Heldefred Hermangild Hernegliscu Hildebado Huml Hunimund Leuvibild Nidada Retemeri Rhima Saphrax Sueridu Sunnia Theoderi Tribigild Videric Vidimiro
 		}
@@ -1992,6 +1999,7 @@ french	= {
 		}
 	}
 	faransian = {
+		primary = FRX
 		dynasty_names = {
 			"al-Lfalwys" "al-Bwrbwn" "al-Burj" "al-Anju" "al-Lurin" "al-Foix" "al-Ruhan" "al-Nyufil" "al-Burghundi" "al-Castellane" "al-Lafal" "al-Sanawbar" "al-Kwrtinay" "al-Harkwrat" "al-Rushuawart" "al-Uwmunat" "al-Fiurji" "al-Saboulin" "al-Gharamun" "al-Baysy" "al-Armajinak" "al-Talleyrand" "al-Saintignon" "al-Luksmburgh" "al-Montmorency" "al-Safway" "al-Fwdmwnt" "al-Nykwlay" "al-Fraxinet" "al-Amiri"
 		}
@@ -4290,7 +4298,7 @@ turko_semitic = { #Levantine
 		}
 	}
 	jaziri = { #Anatolian Arab
-		primary = SYR
+		primary = DUL
 		dynasty_names = {
 			"Mirdasid" "Maanid" "al-Shihab"  Yakubid Hassanid
 			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli 
@@ -4351,6 +4359,7 @@ turko_semitic = { #Levantine
 		}
 	}
 	farisi = { #Persian Arab
+		primary = ORM
 		dynasty_names = {
 			"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi"
 			"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"

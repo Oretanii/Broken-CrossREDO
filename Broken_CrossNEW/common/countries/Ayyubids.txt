@@ -4,7 +4,7 @@ graphical_culture = muslimgfx
 
 color = { 234 179 30 } 
 
-historical_score = 270
+revolutionary_colors = { 8 10 8 }
 
 historical_idea_groups = {
 	maritime_ideas
