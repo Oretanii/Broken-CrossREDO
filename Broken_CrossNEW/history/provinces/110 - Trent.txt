@@ -1,9 +1,8 @@
 #110 - Trent
 
-owner = AQU
-controller = AQU
-add_core = AQU
-add_core = TIR
+owner = TNT
+controller = TNT
+add_core = TNT
 culture = venetian
 religion = chalcedonism
 hre = yes

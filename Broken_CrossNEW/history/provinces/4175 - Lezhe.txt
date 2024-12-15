@@ -1,7 +1,7 @@
 #4175 - Lezhe, Scuttari, Northern Albania
 
-owner = ILY
-controller = ILY
+owner = SBY
+controller = SBY
 culture = illyrian
 religion = chalcedonism
 capital = "Lezhë"
@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 add_core = ILY
+add_core = SBY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

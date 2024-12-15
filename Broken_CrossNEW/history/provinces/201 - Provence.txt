@@ -1,17 +1,17 @@
 # 201 Provence - Principal cities: Aix-en-Provence, Marseille
 
-owner = PRO
-controller = PRO 
+owner = FRX
+controller = FRX 
 capital = "Aix-en-Provence"
 is_city = yes
 culture = faransian
-religion = chalcedonism
-hre = yes
+religion = sunni
+hre = no
 base_tax = 7 
 base_production = 7
 trade_goods = wine
 base_manpower = 7
-add_core = PRO
+add_core = FRX
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

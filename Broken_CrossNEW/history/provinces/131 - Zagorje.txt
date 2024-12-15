@@ -1,7 +1,7 @@
 #131 - Zagorje
 
-owner = CRO
-controller = CRO
+owner = VRS
+controller = VRS
 culture = croatian
 religion = chalcedonism
 capital = "Zagreb"
@@ -13,6 +13,7 @@ base_manpower = 1
 is_city = yes
 fort_15th = yes
 add_core = CRO
+add_core = VRS
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

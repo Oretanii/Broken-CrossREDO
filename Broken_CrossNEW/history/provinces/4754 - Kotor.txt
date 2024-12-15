@@ -1,9 +1,9 @@
 # 4754 - Kotor
 
-owner = VEN
-controller = VEN
+owner = RAG
+controller = RAG
 culture = dalmatian
-religion = sunni
+religion = chalcedonism
 capital = "Kotor"
 trade_goods = naval_supplies
 hre = no
@@ -11,9 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = MON
-add_core = SER
-add_core = VEN #Venetian Albania
+add_core = RAG #Venetian Albania
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

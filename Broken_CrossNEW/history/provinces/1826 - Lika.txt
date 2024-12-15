@@ -1,9 +1,9 @@
 #1826 - Lika
 
-owner = CRO
-controller = CRO
+owner = BUS
+controller = BUS
 culture = croatian
-religion = chalcedonism
+religion = sunni
 capital = "Rijeka"
 trade_goods = cloth
 hre = no
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = CRO
+add_core = BUS
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

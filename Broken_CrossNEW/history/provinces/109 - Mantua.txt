@@ -1,8 +1,8 @@
 #109 - Mantua
  
-owner = MLO
-controller = MLO
-add_core = MLO
+owner = MAN
+controller = MAN
+add_core = MAN
 culture = romagnan
 religion = chalcedonism 
 hre = yes 

@@ -1,7 +1,7 @@
 #2746 - Vidin
 
-owner = TRQ
-controller = TRQ
+owner = SBY
+controller = SBY
 culture = bulgarian
 religion = sunni
 capital = "Vidin"
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = TRQ
+add_core = SBY
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

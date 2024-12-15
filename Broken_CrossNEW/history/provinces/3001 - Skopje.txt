@@ -12,6 +12,7 @@ base_production = 4 #Many productive Mines. Main Source of Ottoman Silver in 144
 base_manpower = 3
 is_city = yes
 add_core = ILY
+add_core = MAC
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

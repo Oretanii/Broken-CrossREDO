@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = bosnian
-religion = shiite
+religion = sunni
 technology_group = muslim
 capital = 140	# Bosnia
 religious_school = ismaili_school

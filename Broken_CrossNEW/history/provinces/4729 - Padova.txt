@@ -1,7 +1,7 @@
 #4729 - Padova, Padua
 
-owner = AQU
-controller = AQU
+owner = PDV
+controller = PDV
 culture = venetian 
 religion = chalcedonism 
 hre = yes 
@@ -11,7 +11,6 @@ trade_goods = paper
 base_manpower = 2
 capital = "Padova" 
 is_city = yes 
-add_core = AQU
 add_core = PDV
 discovered_by = western
 discovered_by = eastern

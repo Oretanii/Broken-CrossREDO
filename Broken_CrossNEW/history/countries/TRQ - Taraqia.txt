@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = iqta
-primary_culture = yunanian
+primary_culture = bulgarian
+add_accepted_culture = yunanian
 religion = sunni
 technology_group = muslim
 capital = 149	# Macedonia

@@ -1,7 +1,7 @@
 #4752 - Rijeka
 
-owner = CRO
-controller = CRO
+owner = STY
+controller = STY
 culture = croatian
 religion = chalcedonism
 capital = "Rijeka"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = CRO
+add_core = STY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,7 +1,7 @@
 #136 - Dalmatia
 
-owner = CRO
-controller = CRO
+owner = DAL
+controller = DAL
 culture = dalmatian
 religion = chalcedonism
 capital = "Zadar"
@@ -12,7 +12,6 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes # Klis Fortress
-add_core = CRO
 add_core = DAL
 discovered_by = KAZ
 discovered_by = CRI

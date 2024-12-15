@@ -1,17 +1,17 @@
 # 2978 - Arezzo
 
-owner = ETR
-controller = ETR
-culture = italiu
-religion = chalcedonism 
-hre = yes 
+owner = RMA
+controller = RMA
+culture = italiu 
+religion = shiite 
+hre = no 
 base_tax = 6
 base_production = 6
 trade_goods = livestock
 base_manpower = 2
 capital = "Arezzo" 
 is_city = yes # Estimated 
-add_core = ETR
+add_core = RMA
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

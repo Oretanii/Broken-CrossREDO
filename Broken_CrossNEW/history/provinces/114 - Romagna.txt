@@ -1,7 +1,7 @@
 #114 - Romagna
 
-owner = URB		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
-controller = URB
+owner = FER		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
+controller = FER
 culture = romagnan
 religion = chalcedonism 
 hre = yes 
@@ -12,7 +12,7 @@ base_manpower = 4
 capital = "Ravenna"
 estate = estate_nobles
 is_city = yes	# Estimated 
-add_core = URB
+add_core = FER
 
 
 

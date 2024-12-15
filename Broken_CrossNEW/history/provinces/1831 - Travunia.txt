@@ -1,9 +1,9 @@
 #1831 - Travunia
 
-owner = HUM		# Part of the Bosnian kingdom
-controller = HUM
+owner = BUS		# Part of the Bosnian kingdom
+controller = BUS
 culture = bosnian
-religion = shiite
+religion = sunni
 capital = "Trebinje"
 trade_goods = wool
 hre = no
@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = HUM
+add_core = BUS
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

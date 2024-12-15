@@ -1,7 +1,7 @@
 #1933 - Bari
 
-owner = SLT
-controller = SLT
+owner = NAB
+controller = NAB
 culture = nofsinhar
 religion = shiite 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
-add_core = SLT
+add_core = NAB
 
 
 

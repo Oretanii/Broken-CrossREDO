@@ -3,7 +3,7 @@
 owner = BUS # Part of the Bosnian kingdom
 controller = BUS
 culture = bosnian
-religion = shiite
+religion = sunni
 capital = "Visegrad"
 trade_goods = salt
 hre = no

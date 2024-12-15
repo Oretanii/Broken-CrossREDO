@@ -1,7 +1,7 @@
 #122 - Apulia
 
-owner = SLT
-controller = SLT
+owner = NAB
+controller = NAB
 culture = siqilyian
 religion = shiite 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Taranto"
 is_city = yes 
-add_core = SLT
+add_core = NAB
 
 
 

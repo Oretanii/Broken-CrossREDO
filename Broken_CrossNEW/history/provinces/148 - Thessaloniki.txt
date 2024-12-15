@@ -14,6 +14,7 @@ is_city = yes
 fort_15th = yes
 estate = estate_dhimmi
 add_core = ILY
+add_core = MAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

@@ -1,7 +1,7 @@
 # 4730 - Bologna
 
-owner = BLG
-controller = BLG
+owner = FER
+controller = FER
 culture = romagnan
 religion = chalcedonism 
 hre = yes
@@ -12,6 +12,7 @@ base_manpower = 3
 capital = "Bologna"
 is_city = yes
 add_core = BLG
+add_core = FER
 
 
 

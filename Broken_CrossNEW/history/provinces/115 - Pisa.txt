@@ -1,10 +1,10 @@
 #115 - Pisa
 
-owner = PIS
-controller = PIS
-culture = italiu
-religion = chalcedonism
-hre = yes
+owner = RMA
+controller = RMA
+culture = italiu 
+religion = shiite 
+hre = no
 base_tax = 6
 base_production = 6
 trade_goods = wine
@@ -12,8 +12,7 @@ base_manpower = 3
 capital = "Pisa"
 is_city = yes	# Estimated
 estate = estate_burghers
-add_core = PIS
-add_core = LAN
+add_core = RMA
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

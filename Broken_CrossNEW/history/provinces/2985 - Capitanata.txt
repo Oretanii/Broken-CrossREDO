@@ -1,7 +1,7 @@
 # - Capitanata
 
-owner = SLT
-controller = SLT
+owner = NAB
+controller = NAB
 culture = nofsinhar
 religion = shiite 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Foggia"
 is_city = yes
-add_core = SLT
+add_core = NAB
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

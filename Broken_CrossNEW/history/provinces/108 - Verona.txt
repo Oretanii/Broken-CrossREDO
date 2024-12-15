@@ -1,7 +1,7 @@
 #108 - Verona
 
-owner = AQU
-controller = AQU
+owner = VRN
+controller = VRN
 culture = venetian 
 religion = chalcedonism 
 hre = yes 
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 5    
 capital = "Verona" 
 is_city = yes 
-add_core = AQU
+add_core = VRN
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

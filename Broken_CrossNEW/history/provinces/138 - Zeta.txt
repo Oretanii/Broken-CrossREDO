@@ -1,7 +1,7 @@
 #138 - Zeta
 
-owner = HUM
-controller = HUM
+owner = SBY
+controller = SBY
 culture = serbian
 religion = shiite
 capital = "Zabljak"
@@ -13,6 +13,7 @@ base_manpower = 1
 is_city = yes
 estate = estate_nobles
 add_core = HUM
+add_core = SBY
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

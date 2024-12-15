@@ -1,11 +1,11 @@
 #102 - Nice
 
-owner = GEN
-controller = GEN
-add_core = GEN
+owner = FRX
+controller = FRX
+add_core = FRX
 culture = faransian
-religion = chalcedonism
-hre = yes
+religion = sunni
+hre = no
 base_tax = 4 
 base_production = 4
 trade_goods = fish

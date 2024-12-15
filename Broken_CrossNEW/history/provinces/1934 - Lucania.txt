@@ -1,7 +1,7 @@
 #1934 - Lucania
 
-owner = KLB
-controller = KLB
+owner = NAB
+controller = NAB
 culture = nofsinhar
 religion = shiite 
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 1
 capital = "Potenza"
 is_city = yes 
 estate = estate_nobles
-add_core = KLB
+add_core = NAB
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

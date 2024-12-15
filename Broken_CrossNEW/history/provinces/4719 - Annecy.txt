@@ -1,5 +1,5 @@
-owner = SAV
-controller = SAV
+owner = BUR
+controller = BUR
 culture = occitain
 religion = chalcedonism
 hre = yes
@@ -10,6 +10,7 @@ base_manpower = 2
 capital = "Bourg-en-Bresse"
 is_city = yes	
 add_core = SAV
+add_core = BUR
 
 
 

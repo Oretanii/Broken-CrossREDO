@@ -1,11 +1,11 @@
 # Lucca
 
-owner = LUC
-controller = LUC
-add_core = LUC
-culture = italiu
-religion = chalcedonism
-hre = yes
+owner = RMA
+controller = RMA
+add_core = RMA
+culture = italiu 
+religion = shiite 
+hre = no 
 base_tax = 6
 base_production = 6
 trade_goods = cloth

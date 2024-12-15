@@ -1,7 +1,7 @@
 # - Novara
 
-owner = MFA
-controller = MFA
+owner = MLO
+controller = MLO
 culture = lombard
 religion = chalcedonism
 hre = yes
@@ -11,7 +11,6 @@ trade_goods = grain
 base_manpower = 5
 capital = "Novara"
 is_city = yes	# Estimated
-add_core = MFA
 add_core = MLO
 
 

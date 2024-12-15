@@ -1,7 +1,7 @@
 #123 - Calabria
 
-owner = KLB
-controller = KLB
+owner = SQL
+controller = SQL
 culture = siqilyian
 religion = shiite 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Reggio di Calabria"
 is_city = yes 
-add_core = KLB
+add_core = SQL
 
 
 

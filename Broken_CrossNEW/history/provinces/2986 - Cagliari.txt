@@ -1,7 +1,7 @@
 # - Cagliari
 
-owner = SAR
-controller = SAR
+owner = SQL
+controller = SQL
 culture = sardinian 
 religion = shiite
 hre = no 
