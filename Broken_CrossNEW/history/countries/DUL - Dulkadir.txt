@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 1
-primary_culture = turkish
+primary_culture = jaziri
 religion = sunni
-technology_group = ottoman
+technology_group = muslim
 capital = 332	# Dulkadir
 religious_school = hanafi_school
 
