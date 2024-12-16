@@ -1,7 +1,7 @@
 #235 - Kent
 
-owner = SSX
-controller = SSX
+owner = NRM
+controller = NRM
 culture = anglois
 religion = chalcedonism
 hre = no
@@ -11,6 +11,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Canterbury"
 is_city = yes
+add_core = NRM
 add_core = SSX
 seat_in_parliament = yes
 discovered_by = western

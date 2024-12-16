@@ -4,6 +4,7 @@ government_rank = 1
 technology_group = western
 primary_culture = gascon
 add_accepted_culture = cosmopolitan_french
+add_accepted_culture = basque
 religion = chalcedonism
 capital = 174 	# Bordeaux
 

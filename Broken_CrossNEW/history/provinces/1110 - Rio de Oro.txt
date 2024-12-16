@@ -1,7 +1,7 @@
 #1110 - Agadir
 
-owner = SKS
-controller = SKS
+owner = ALM
+controller = ALM
 culture = berber
 religion = sunni
 capital = "Agadir"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 estate = estate_nobles
-add_core = SKS
+add_core = ALM
 add_core = SOS
 discovered_by = western
 discovered_by = Dhimmi 

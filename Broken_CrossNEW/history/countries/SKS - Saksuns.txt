@@ -2,9 +2,9 @@ government = monarchy
 add_government_reform = iqta
 primary_culture = saksun
 religion = shiite
-add_accepted_culture = andalucian
+add_accepted_culture = anglosaxon
 technology_group = muslim
-capital = 348 # Sus
+capital = 234 # Hampshire
 religious_school = zaidi_school
 
 1444.1.1 = {

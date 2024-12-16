@@ -1,7 +1,7 @@
 #150 - Bulgaria
 
-owner = TRQ
-controller = TRQ
+owner = YNN
+controller = YNN
 culture = bulgarian
 religion = sunni
 capital = "Tarnovo"
@@ -12,6 +12,7 @@ base_production = 6
 base_manpower = 3
 estate = estate_nobles
 is_city = yes
+add_core = YNN
 add_core = TRQ
 discovered_by = western
 discovered_by = eastern

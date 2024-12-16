@@ -708,3 +708,11 @@ royal_marriage = {
 	start_date = 1810.3.11
 	end_date = 1814.4.6
 }
+
+# Normandy Gascony
+union = {
+	first = NRM
+	second = GUY
+	start_date = 1444.1.1
+	end_date = 1806.1.1
+}

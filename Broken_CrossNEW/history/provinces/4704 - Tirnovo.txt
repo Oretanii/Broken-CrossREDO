@@ -1,5 +1,5 @@
-owner = TRQ
-controller = TRQ
+owner = YNN
+controller = YNN
 culture = bulgarian
 religion = sunni
 capital = "Tarnovo"
@@ -9,6 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+add_core = YNN
 add_core = TRQ
 
 

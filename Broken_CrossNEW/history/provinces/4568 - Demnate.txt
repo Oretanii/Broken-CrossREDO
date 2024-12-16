@@ -1,8 +1,8 @@
 #Demnate
 
-owner = SKS
-controller = SKS
-add_core = SKS 
+owner = ALM
+controller = ALM
+add_core = ALM 
 culture = moroccan
 religion = sunni
 capital = "Demnate"

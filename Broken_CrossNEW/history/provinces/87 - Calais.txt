@@ -1,7 +1,7 @@
 # 87 Calais - Principal cities: Calais
 
-owner = PIC
-controller = PIC 
+owner = NRM
+controller = NRM 
 capital = "Calais"
 culture = wallonian
 religion = chalcedonism
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = fish
 base_manpower = 3
-add_core = PIC
+add_core = NRM
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi 

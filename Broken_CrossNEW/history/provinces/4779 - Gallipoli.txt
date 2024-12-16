@@ -1,5 +1,5 @@
-owner = HSN
-controller = HSN
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Gallipoli"
@@ -9,7 +9,8 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 is_city = yes
-add_core = HSN
+add_core = YNN
+add_core = TRQ
 fort_15th = yes #Fortress of Gallipoli
 
 

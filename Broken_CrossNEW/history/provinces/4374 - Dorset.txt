@@ -1,7 +1,7 @@
 #4374 - Dorset
 
-owner = CRN
-controller = CRN
+owner = SKS
+controller = SKS
 culture = saksun
 religion = shiite
 hre = no
@@ -11,7 +11,6 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Weymouth"
 is_city = yes
-add_core = CRN
 add_core = SKS
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
