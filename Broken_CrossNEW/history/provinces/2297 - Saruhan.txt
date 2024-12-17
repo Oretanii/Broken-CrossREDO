@@ -1,7 +1,7 @@
 #2297 - Saruhan
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Manisa"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SRU
+add_core = YNN
 add_core = NIQ
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,7 @@
 #319 - Mentese
 
-owner = MEN
-controller = MEN
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Mughla"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = MEN
+add_core = YNN
+add_core = NIQ
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

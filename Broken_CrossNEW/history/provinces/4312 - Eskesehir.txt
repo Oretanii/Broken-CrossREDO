@@ -1,7 +1,7 @@
 #4312 - Eskisehir
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Eskisehir"
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = YNN
 add_core = NIQ
-add_core = GRM
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

@@ -1,7 +1,7 @@
 #2302 - Içel
 
-owner = KAR
-controller = KAR
+owner = YNN
+controller = YNN
 culture = anadulian
 religion = sunni
 capital = "Ermenek"
@@ -12,7 +12,8 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = KAR
+add_core = YNN
+add_core = KAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

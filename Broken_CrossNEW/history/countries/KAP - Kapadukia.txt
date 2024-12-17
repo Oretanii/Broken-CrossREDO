@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = anadulian
+add_accepted_culture = pontic_greek
 religion = sunni
 technology_group = muslim
 historical_rival = NIQ

@@ -1,7 +1,7 @@
 #328 - Sinope
 
-owner = CND
-controller = CND
+owner = TRE
+controller = TRE
 culture = pontic_greek
 religion = sunni
 capital = "Sinop"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CND
+add_core = TRE
+add_core = KAP
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

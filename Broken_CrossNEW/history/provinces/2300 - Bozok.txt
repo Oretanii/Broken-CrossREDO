@@ -1,7 +1,7 @@
 #2300 - Bozok
 
-owner = ERE
-controller = ERE
+owner = YNN
+controller = YNN
 culture = anadulian
 religion = sunni
 capital = "Yozgat"
@@ -11,8 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = TUR
-add_core = ERE
+add_core = YNN
+add_core = KAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi 

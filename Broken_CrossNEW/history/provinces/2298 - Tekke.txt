@@ -1,7 +1,7 @@
 #2298 - Tekke
 
-owner = MEN
-controller = MEN
+owner = YNN
+controller = YNN
 culture = anadulian
 religion = sunni
 capital = "Adalia"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MEN
+add_core = YNN
+add_core = KAP
 
 
 

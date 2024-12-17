@@ -1,7 +1,7 @@
 #326 - Ankara
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Ankara"
@@ -13,8 +13,8 @@ base_manpower = 3
 is_city = yes
 fort_15th = yes
 estate = estate_nobles
+add_core = YNN
 add_core = NIQ
-add_core = GRM
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

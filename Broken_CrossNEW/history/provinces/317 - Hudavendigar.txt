@@ -1,7 +1,7 @@
 #317 - Bursa
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Bursa"
@@ -12,6 +12,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 estate = estate_burghers
+add_core = YNN
 add_core = NIQ
 discovered_by = western
 discovered_by = eastern

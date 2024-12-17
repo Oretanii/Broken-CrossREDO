@@ -1,7 +1,7 @@
 #316 - Izmit
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Izmit"
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 fort_15th = yes
+add_core = YNN
 add_core = NIQ
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,7 @@
 #322 - Küthaya
 
-owner = NIQ
-controller = NIQ
+owner = YNN
+controller = YNN
 culture = yunanian
 religion = sunni
 capital = "Kütahya"
@@ -11,8 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+add_core = YNN
 add_core = NIQ
-add_core = GRM
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim
