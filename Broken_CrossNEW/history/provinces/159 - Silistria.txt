@@ -1,7 +1,7 @@
 #159 - Silistria
 
-owner = TRQ
-controller = TRQ
+owner = YNN
+controller = YNN
 culture = aflaqian
 religion = sunni
 capital = "Silistra"
@@ -11,6 +11,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
+add_core = YNN
+add_core = DBR
 add_core = TRQ
 
 

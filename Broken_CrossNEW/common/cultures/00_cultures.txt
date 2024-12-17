@@ -3920,7 +3920,7 @@ byzantine = {
 		}
 	}
 	yunanian = {
-		primary = TRQ
+		primary = YNN
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -4106,7 +4106,7 @@ byzantine = {
 		}
 	}
 	bulgarian = {
-		primary = BUL
+		primary = TRQ
 		male_names = {
 			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" 
 			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" 
@@ -4145,6 +4145,7 @@ byzantine = {
 		}
 	}
 	anadulian = {
+		primary = KAP
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
@@ -4166,6 +4167,7 @@ byzantine = {
 		}
 	}
 	aflaqian = {
+		primary = DBR
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}

@@ -13,6 +13,7 @@ trade_goods = wool
 base_manpower = 2
 fort_15th = yes #Akkerman Fortress
 add_core = ZAZ
+add_core = DBR
 
 
 

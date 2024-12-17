@@ -15,6 +15,8 @@ ILY = "countries/Illyria.txt"
 NIQ = "countries/Niqya.txt"
 MAC = "countries/Maqdunia.txt"
 YNN = "countries/Yunania.txt"
+KAP = "countries/Kapadukia.txt"
+DBR = "countries/Dubruja.txt"
 
 #British Isles
 LNC = "countries/Lancaster.txt"

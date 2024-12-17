@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = anadulian
+religion = sunni
+technology_group = muslim
+historical_rival = NIQ
+capital = 323	# Konya (Iconion)
+
+1444.1.1 = {
+	monarch = {
+		name = "Theodor I"
+		dynasty = "Isaurid"
+		birth_date = 1400.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Al-Iskandar"
+		monarch_name = "Al-Iskandar I"
+		dynasty = "Isaurid"
+		birth_date = 1443.1.1
+		death_date = 1499.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
