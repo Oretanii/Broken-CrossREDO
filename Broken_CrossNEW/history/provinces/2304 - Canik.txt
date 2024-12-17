@@ -20,8 +20,8 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 1428.1.1 = { # Conquered by the Ottomans
-	owner = CND
-	controller = CND
+	owner = TRE
+	controller = TRE
 }
 1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Civil war, Bayezid & Jem
 1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes
