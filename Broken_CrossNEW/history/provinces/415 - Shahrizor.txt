@@ -1,7 +1,7 @@
 #415 - Sharazor
 
-owner = BHT
-controller = BHT
+owner = HSN
+controller = HSN
 culture = kurdish
 religion = sunni
 capital = "Kirkuk"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+add_core = HSN
 add_core = IRQ
 add_core = BHT
 add_core = ARD

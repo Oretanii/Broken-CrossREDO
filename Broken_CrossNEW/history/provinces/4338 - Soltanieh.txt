@@ -2,7 +2,7 @@
 
 owner = QAR
 controller = QAR
-culture = azerbaijani
+culture = turkish
 religion = sunni
 capital = "Soltanieh"
 trade_goods = wine #Grapes and Fruits
