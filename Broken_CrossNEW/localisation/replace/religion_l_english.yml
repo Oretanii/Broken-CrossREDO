@@ -1,6 +1,10 @@
 ﻿l_english:
  #
- ibadi:0 "Muhakkima"
+ ibadi: "Muhakkima"
+ ibadi_religion_desc: "The Muhakkima are a diverse set of Islamic branches which reject Ali's arbitration at the battle of Siffin. While there were many branches in the past, only the Ibadi and Sufri branches remain."
+ #
+ shiite: "Jafari"
+ shiite_religion_desc: "Jafari Shiism is named after Jaf'ar al-Sadiq, the sixth Imam, and its followers are 'Twelver' Shias. Twelvers believe that Ali, the successor of Muhammed, was followed by twelve infallible Imams chosen by divine decree. The last of the Imams, al-Mahdi, is expected to return as the savior of mankind, finally enforcing justice and peace in the world."
  #
  coptic:0 "Miaphysite"
  coptic_religion_desc:1 "Miaphysite Christianity is a branch of Christendom that believes in a single nature of Christ, both human and divine. Followers of Miaphysitism comprise the Armenian Apostolic Church and the Copts who answer to the Patriarch in Alexandria.\nWith the fall of Egypt to the Muslims hundreds of years ago the Patriarch is controlled by a non-Christian state with the Miaphysite religion surviving as the majority faith only in Ethiopia, Nubia and Africa."

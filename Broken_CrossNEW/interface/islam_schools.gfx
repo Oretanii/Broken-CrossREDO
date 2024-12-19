@@ -1,0 +1,38 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_icon_muslim_school_ibadi"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_ibadi.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_sufri"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_sufri.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_akhbari"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_akhbari.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_hadawi"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_hadawi.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_hafizi"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_hafizi.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_jarudi"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_jarudi.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_nizari"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_nizari.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_tayyibi"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_tayyibi.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_muslim_school_usuli"
+		texturefile = "gfx/interface/religious_schools/icon_muslim_school_usuli.dds"
+	}
+}

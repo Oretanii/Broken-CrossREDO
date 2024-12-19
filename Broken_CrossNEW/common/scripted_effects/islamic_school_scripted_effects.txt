@@ -1,0 +1,15 @@
+#Religious Schools:
+#Country Scope
+clear_religious_scholar_modifiers_effect = {
+	remove_country_modifier = hanafi_scholar_modifier
+	remove_country_modifier = hanbali_scholar_modifier
+	remove_country_modifier = maliki_scholar_modifier
+	remove_country_modifier = shafii_scholar_modifier
+	remove_country_modifier = nizari_scholar_modifier
+	remove_country_modifier = hafizi_scholar_modifier
+	remove_country_modifier = tayyibi_scholar_modifier
+	remove_country_modifier = usuli_scholar_modifier
+	remove_country_modifier = akhbari_scholar_modifier
+	remove_country_modifier = sufri_scholar_modifier
+	remove_country_modifier = ibadi_scholar_modifier
+}
