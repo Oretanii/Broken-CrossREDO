@@ -1,7 +1,7 @@
 # 4733 - Molise
 
-owner = NAB
-controller = NAB
+owner = RMA
+controller = RMA
 culture = nofsinhar
 religion = shiite
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = paper
 base_manpower = 2
 capital = "Campobasso"
 is_city = yes
-add_core = NAB
+add_core = RMA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim discovered_by = Dhimmi
