@@ -1,0 +1,20 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = tuareg
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 1112	# Trarza
+
+1434.1.1 = {
+	monarch = {
+		name = "Ishaq ibn Ali"
+		dynasty = "Almoravid"
+		dip = 2
+		adm = 1
+		mil = 4
+	}
+	add_piety = -0.15
+}
