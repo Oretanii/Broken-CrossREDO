@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 1132	# Niani
+add_accepted_culture = tuareg
+religious_school = maliki_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Judar I"
+		dynasty = "Almanzorid"
+		birth_date = 1424.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_piety = 0.5
+}

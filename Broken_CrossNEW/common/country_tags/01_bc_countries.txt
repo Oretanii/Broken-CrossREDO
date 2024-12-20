@@ -71,6 +71,7 @@ QUR = "countries/Qurais.txt"
 #North Africa
 IDS = "countries/Idrisids.txt"
 ALM = "countries/Almohads.txt"
+AMZ = "countries/Almanzorids.txt"
 
 #New World
 ABM = "countries/Al-Abama.txt"
