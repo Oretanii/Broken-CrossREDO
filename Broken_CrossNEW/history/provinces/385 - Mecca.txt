@@ -1,7 +1,7 @@
 #385 - Mecca
 
-owner = HED
-controller = HED
+owner = QUR
+controller = QUR
 culture = hejazi_culture
 religion = sunni
 capital = "Makkah"
@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
+add_core = QUR
 add_core = HED
 extra_cost = 10
 discovered_by = Dhimmi discovered_by = muslim

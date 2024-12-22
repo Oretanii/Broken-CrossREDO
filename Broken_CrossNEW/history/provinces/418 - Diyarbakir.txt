@@ -1,7 +1,7 @@
 #418 - Diyarbakir
 
-owner = ERE
-controller = ERE
+owner = MAM
+controller = MAM
 culture = jaziri
 religion = sunni
 capital = "Diyar Bekir"
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = ERE
+add_core = MAM
+add_core = DUL
 discovered_by = east_african
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

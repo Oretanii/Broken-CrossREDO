@@ -1,7 +1,7 @@
 #379 - Judea
 
-owner = MAM
-controller = MAM
+owner = QUR
+controller = QUR
 culture = al_suryah_arabic
 religion = sunni
 capital = "Al Quds"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MAM
+add_core = QUR
 estate = estate_church
 
 discovered_by = Dhimmi discovered_by = muslim

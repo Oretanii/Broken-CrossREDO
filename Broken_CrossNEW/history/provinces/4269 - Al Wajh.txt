@@ -1,7 +1,7 @@
 #4269 - Al Wajh
 
-owner = MAM
-controller = MAM
+owner = QUR
+controller = QUR
 culture = bedouin_arabic
 religion = sunni
 capital = "Al Wajh"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MAM
+add_core = QUR
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

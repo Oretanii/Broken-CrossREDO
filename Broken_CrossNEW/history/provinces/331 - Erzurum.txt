@@ -1,7 +1,7 @@
 #331 - Erserum
 
-owner = ERE
-controller = ERE
+owner = MAM
+controller = MAM
 culture = armenian
 religion = chalcedonism
 capital = "Erzurum"
@@ -11,7 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = ERE
+add_core = MAM
+add_core = DUL
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

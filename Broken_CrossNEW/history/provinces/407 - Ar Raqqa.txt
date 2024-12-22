@@ -1,7 +1,7 @@
 #407 - Ar-Raqqah
 
-owner = IRQ
-controller = IRQ
+owner = MAM
+controller = MAM
 culture = jaziri
 religion = sunni
 capital = "Ar Rakkah"
@@ -12,9 +12,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = SYR
-add_core = QAR
 add_core = MAM
-add_core = AKK
 discovered_by = east_african
 discovered_by = Dhimmi 
 discovered_by = muslim

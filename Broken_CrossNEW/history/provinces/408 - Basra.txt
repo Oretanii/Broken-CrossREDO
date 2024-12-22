@@ -1,7 +1,7 @@
 #408 - Basra
 
-owner = BSR
-controller = BSR
+owner = MAM
+controller = MAM
 culture = al_iraqiya_arabic
 religion = sunni
 capital = "Basra"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 5
 is_city = yes
+add_core = MAM
 add_core = BSR
 add_core = MSY
 discovered_by = east_african

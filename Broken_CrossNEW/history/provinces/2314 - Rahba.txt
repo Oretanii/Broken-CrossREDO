@@ -1,7 +1,7 @@
 #2314 - Rahba
 
-owner = IRQ
-controller = IRQ
+owner = MAM
+controller = MAM
 culture = al_iraqiya_arabic
 religion = sunni
 capital = "Deir ez-Zor"
@@ -14,7 +14,6 @@ is_city = yes
 add_core = FAD
 add_core = SYR
 add_core = MAM
-add_core = QAR
 discovered_by = Dhimmi 
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,7 +1,7 @@
 #2329 - Yanbu
 
-owner = MDA
-controller = MDA
+owner = QUR
+controller = QUR
 culture = hejazi_culture
 religion = sunni
 capital = "Yanbu"
@@ -11,6 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+add_core = QUR
 add_core = MDA
 fort_15th = yes
 discovered_by = Dhimmi discovered_by = muslim

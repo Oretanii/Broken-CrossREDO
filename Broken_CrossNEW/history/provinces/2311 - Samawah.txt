@@ -1,7 +1,7 @@
 #2311 - Samawah
 
-owner = IRQ
-controller = IRQ
+owner = MAM
+controller = MAM
 culture = al_iraqiya_arabic
 religion = sunni
 capital = "Najaf"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = BSR
-add_core = QAR
+add_core = MAM
 add_core = MSY
 add_core = IRQ
 discovered_by = Dhimmi 

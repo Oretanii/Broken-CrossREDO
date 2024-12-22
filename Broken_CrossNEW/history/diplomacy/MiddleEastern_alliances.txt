@@ -277,12 +277,12 @@ vassal = {
 }
 
 #Amir al Arab
-vassal = {
-	first = MAM
-	second = FAD
-	start_date = 1444.11.10
-	end_date = 1516.8.24
-}
+#vassal = {
+#	first = MAM
+#	second = FAD
+#	start_date = 1444.11.10
+#	end_date = 1516.8.24
+#}
 
 #Mikhlaf subservient to the Zaidi Imams
 

@@ -1,7 +1,7 @@
 #327 - Adana
 
-owner = DUL
-controller = DUL
+owner = QUR
+controller = QUR
 culture = jaziri
 religion = sunni
 capital = "Adana"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 is_city = yes
-add_core = RAM
+add_core = QUR
 add_core = DUL
 discovered_by = western
 discovered_by = eastern

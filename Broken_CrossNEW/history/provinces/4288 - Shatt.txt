@@ -1,7 +1,7 @@
 # - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya
 
-owner = BSR
-controller = BSR
+owner = MAM
+controller = MAM
 culture = al_iraqiya_arabic
 religion = sunni
 capital = "al-Qurna"
@@ -11,6 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
+add_core = MAM
 add_core = BSR
 add_core = MSY
 discovered_by = east_african

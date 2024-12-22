@@ -1,7 +1,7 @@
 #1854 - Negev
 
-owner = MAM
-controller = MAM
+owner = QUR
+controller = QUR
 culture = al_suryah_arabic
 religion = sunni
 capital = "Nablus"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 estate = estate_nobles
-add_core = MAM
+add_core = QUR
 
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

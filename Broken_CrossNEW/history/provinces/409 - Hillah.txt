@@ -1,7 +1,7 @@
 #409 - Karbala
 
-owner = IRQ
-controller = IRQ
+owner = MAM
+controller = MAM
 culture = al_iraqiya_arabic
 religion = sunni
 capital = "Karbala"
@@ -13,7 +13,7 @@ base_manpower = 2
 is_city = yes
 estate = estate_church
 add_core = IRQ
-add_core = QAR
+add_core = MAM
 discovered_by = Dhimmi 
 discovered_by = muslim
 discovered_by = ottoman

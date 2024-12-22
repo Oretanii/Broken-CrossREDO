@@ -1,7 +1,7 @@
 #411 - Mosul
 
-owner = IRQ
-controller = IRQ
+owner = MAM
+controller = MAM
 culture = kurdish
 religion = sunni
 capital = "Al Mawsil"
@@ -13,7 +13,7 @@ base_manpower = 4
 is_city = yes
 fort_15th = yes
 add_core = IRQ
-add_core = QAR
+add_core = MAM
 add_core = BHT
 discovered_by = east_african
 discovered_by = Dhimmi 

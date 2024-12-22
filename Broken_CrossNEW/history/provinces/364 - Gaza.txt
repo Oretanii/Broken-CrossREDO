@@ -1,7 +1,7 @@
 #364 - Gaza
 
-owner = MAM
-controller = MAM
+owner = QUR
+controller = QUR
 culture = al_suryah_arabic
 religion = sunni
 capital = "Gazzah"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 estate = estate_nobles
 is_city = yes
-add_core = MAM
+add_core = QUR
 
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
