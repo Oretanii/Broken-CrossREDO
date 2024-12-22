@@ -1,7 +1,7 @@
 # - Tajhari (Idehan Murzuq)
 
 culture = tuareg
-religion = ibadi
+religion = ismaili
 capital = "Tajhari"
 trade_goods = unknown
 hre = no

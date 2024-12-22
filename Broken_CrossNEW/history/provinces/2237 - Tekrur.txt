@@ -1,7 +1,11 @@
 # No previous file for Tekrur
 
+owner = AMV
+controller = AMV
+add_core = AMV
+is_city = yes
 culture = fulani
-religion = shamanism #Fetishism
+religion = ibadi
 capital = "Tekrur"
 trade_goods = unknown
 hre = no

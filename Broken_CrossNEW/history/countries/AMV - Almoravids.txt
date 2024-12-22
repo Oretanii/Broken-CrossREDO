@@ -1,11 +1,9 @@
 government = tribal
 add_government_reform = tribal_despotism
 primary_culture = tuareg
-religion = sunni
+religion = ibadi
 technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
+religious_school = sufri_school
 capital = 1112	# Trarza
 
 1434.1.1 = {

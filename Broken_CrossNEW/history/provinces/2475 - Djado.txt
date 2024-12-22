@@ -1,7 +1,7 @@
 # - Djado
 
 culture = tuareg
-religion = ibadi
+religion = ismaili
 capital = "Djado"
 trade_goods = unknown
 hre = no

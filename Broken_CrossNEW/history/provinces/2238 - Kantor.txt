@@ -1,13 +1,13 @@
 # No previous file for Kantor
 
-owner = MAL
-controller = MAL
+owner = KBU
+controller = KBU
 add_core = MAL
 add_core = KBU #Subjet province within the empire
 estate = estate_nobles
 is_city = yes
 culture = senegambian 
-religion = shamanism #Fetishism
+religion = ibadi
 capital = "Sutuco"
 trade_goods = ivory
 hre = no

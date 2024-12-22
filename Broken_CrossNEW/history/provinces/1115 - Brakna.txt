@@ -1,9 +1,13 @@
 #1115 - Brakna
 
+owner = AMV
+controller = AMV
+add_core = AMV
+is_city = yes
 culture = fulani
 capital = "Aligh"
-religion = shamanism #Fetishism
-trade_goods = unknown
+religion = ibadi 
+trade_goods = slaves
 hre = no
 base_tax = 1 
 base_production = 1

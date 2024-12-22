@@ -1,11 +1,10 @@
 # No previous file for Kotoko
 
-owner = YAO
-controller = YAO
-add_core = YAO
+owner = KBO
+controller = KBO
 add_core = KBO
 culture = kanuri 
-religion = ibadi
+religion = ismaili
 capital = "Kotoko"
 trade_goods = grain
 hre = no

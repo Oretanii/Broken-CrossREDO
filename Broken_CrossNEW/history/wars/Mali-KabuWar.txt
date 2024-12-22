@@ -1,0 +1,11 @@
+name = "Kabu War of Independence"
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+	tag = MAL
+}
+
+1443.1.1 = {
+	add_attacker = KBU
+	add_defender = MAL
+}

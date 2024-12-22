@@ -1,7 +1,11 @@
 # No previous file for Tagant
 
-culture = fulani 
-religion = shamanism #Fetishism
+owner = AMV
+controller = AMV
+add_core = AMV
+is_city = yes
+culture = fulani
+religion = ibadi
 capital = "Kiffa"
 trade_goods = unknown
 hre = no

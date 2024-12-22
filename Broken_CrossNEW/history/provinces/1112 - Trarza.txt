@@ -1,8 +1,8 @@
 #1112 - Trarza
 
-owner = JOL
-controller = JOL
-add_core = JOL
+owner = AMV
+controller = AMV
+add_core = AMV
 is_city = yes
 culture = senegambian
 capital = "Awlil"
@@ -20,7 +20,3 @@ native_hostileness = 9
 
 discovered_by = sub_saharan
 
-1445.1.1 = { discovered_by = POR }
-
-1490.1.1 = { owner = FUL controller = FUL add_core = FUL } #Rise of Great Fulo
-1600.1.1 = { discovered_by = MOR }
