@@ -1,9 +1,5 @@
 #1111 - Arguin
 
-owner = AMV
-controller = AMV
-add_core = AMV
-is_city = yes
 culture = berber
 religion = ibadi
 capital = "Arguin"
