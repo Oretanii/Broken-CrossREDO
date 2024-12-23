@@ -1,8 +1,8 @@
 #Semigallia, center at Mitau
 
-owner = LTG
-controller = LTG
-add_core = LTG
+owner = KUR
+controller = KUR
+add_core = KUR
 culture = latvian
 religion = chalcedonism
 hre = no

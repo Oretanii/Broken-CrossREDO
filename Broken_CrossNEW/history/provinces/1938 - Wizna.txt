@@ -1,7 +1,7 @@
 #Wizna
 
-owner = TEU
-controller = TEU
+owner = MAZ
+controller = MAZ
 capital = "Wizna"
 culture = polish
 religion = chalcedonism
@@ -12,7 +12,6 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 estate = estate_nobles
-add_core = TEU
 add_core = MAZ
 
 discovered_by = KAZ

@@ -1,7 +1,7 @@
 #Marienburg
 
-owner = TEU
-controller = TEU
+owner = DNZ
+controller = DNZ
 capital = "Marienburg"
 culture = prussian
 religion = chalcedonism
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = TEU
+add_core = DNZ
 
 
 

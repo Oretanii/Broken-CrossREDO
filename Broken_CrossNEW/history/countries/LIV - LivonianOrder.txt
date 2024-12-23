@@ -3,12 +3,12 @@ add_government_reform = monastic_order_reform
 government_rank = 1
 technology_group = western
 primary_culture = baltic_german
-add_accepted_culture = novgorodian
-add_accepted_culture = russian
+add_accepted_culture = latvian
+add_accepted_culture = estonian
 religion = chalcedonism
 historical_friend = TEU
-historical_friend = DSB
-capital = 310	# Novgorod
+historical_friend = RIG
+capital = 37	# Fellin
 add_army_professionalism = 0.1
 
 1389.1.1 = {

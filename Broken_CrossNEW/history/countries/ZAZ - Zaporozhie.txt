@@ -5,6 +5,10 @@ religion = sunni
 primary_culture = hungarian
 add_accepted_culture = romanian
 add_accepted_culture = ruthenian
+historical_rival = POL
+historical_rival = LIT
+historical_rival = GOL
+historical_rival = TEU
 capital = 280	# Zaporozhia
 
 

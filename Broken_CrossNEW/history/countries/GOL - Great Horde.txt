@@ -6,6 +6,9 @@ technology_group = nomad_group
 capital = 303	# Saratov
 historical_rival = TUR
 historical_rival = KAZ
+historical_rival = TEU
+historical_rival = ZAZ
+historical_rival = LIT
 religious_school = hanafi_school
 
 1425.1.1 = { 

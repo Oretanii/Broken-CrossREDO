@@ -1,8 +1,8 @@
 #311 - Kholm
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = TEU
+controller = TEU
+add_core = TEU
 culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no

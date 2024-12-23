@@ -1,7 +1,7 @@
 #2958 - Osterode
 
-owner = TEU
-controller = TEU
+owner = DNZ
+controller = DNZ
 capital = "Osterode"
 culture = prussian
 religion = chalcedonism
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 fort_15th = yes
-add_core = TEU
+add_core = DNZ
 
 
 

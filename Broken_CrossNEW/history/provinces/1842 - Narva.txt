@@ -1,7 +1,8 @@
 #Narva
 
-owner = EST
-controller = EST
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = EST
 culture = estonian
 religion = chalcedonism

@@ -1,7 +1,7 @@
 #256 - Plock
 
-owner = TEU
-controller = TEU
+owner = MAZ
+controller = MAZ
 capital = "Plock"
 is_city = yes
 culture = polish
@@ -12,7 +12,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 fort_15th = yes
-add_core = TEU
 add_core = MAZ
 discovered_by = KAZ
 discovered_by = CRI

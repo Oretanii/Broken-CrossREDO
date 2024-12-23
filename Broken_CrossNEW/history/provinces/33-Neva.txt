@@ -1,8 +1,8 @@
 #Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = TEU
+controller = TEU
+add_core = TEU
 add_core = NOV
 culture = baltic_german
 religion = chalcedonism

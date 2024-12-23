@@ -2,13 +2,12 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-primary_culture = prussian
+primary_culture = baltic_german
+add_accepted_culture = latvian
 religion = chalcedonism
 capital = 1935	# Mitau
 
-1561.11.28 = { religion = protestant}
-
-1561.11.28 = {
+1444.1.1 = {
 	monarch = {
 		name = "Gotthard"
 		dynasty = "Kettler"

@@ -1,17 +1,17 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
+owner = DNZ
+controller = DNZ
 culture = prussian
 religion = chalcedonism
 capital = "Memel"
 trade_goods = livestock
-hre = no
+hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TEU
+add_core = DNZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

@@ -554,3 +554,43 @@ FRX_ideas = {
 		
 	}
 }	
+
+PRS_ideas = {
+	start = {
+		land_forcelimit_modifier = 0.15
+		global_tax_modifier = 0.1
+	}
+
+	bonus = {
+		prestige = 1
+	}
+    
+	trigger = {
+		tag = PRS
+	}
+	free = yes        #will be added at load.
+    
+	prs_feudal_obligations = {
+		global_manpower_modifier = 0.1
+		vassal_income = 0.15
+	}
+	prs_elan = {
+		land_morale = 0.15 
+    }
+	prs_devout_believers = {
+		tolerance_own = 1
+		yearly_patriarch_authority = 0.005
+    }
+	prs_lex_salica = {
+		global_autonomy = -0.05
+	}
+	prs_rex_francorum_idea = {
+		core_creation = -0.1
+	}
+	prs_court_of_versailles_idea = {
+		diplomatic_reputation = 1
+	}
+	prs_refine_the_bombards = {
+		siege_ability = 0.1
+	}
+}

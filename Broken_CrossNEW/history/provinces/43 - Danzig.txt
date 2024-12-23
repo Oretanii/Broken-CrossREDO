@@ -1,8 +1,7 @@
 #43 - Danzig
 
-owner = TEU
-controller = TEU
-add_core = TEU
+owner = DNZ
+controller = DNZ
 add_core = DNZ
 capital = "Danzig"
 culture = prussian

@@ -1,9 +1,10 @@
 #Dorpat
 
-owner = EST
-controller = EST
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = EST
-add_core = LVA
+add_core = LTG
 culture = estonian
 religion = finnish_pagan_reformed
 hre = no

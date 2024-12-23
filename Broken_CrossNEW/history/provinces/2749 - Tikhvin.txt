@@ -1,8 +1,8 @@
 # 2749 - Tikhvin
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = TEU
+controller = TEU
+add_core = TEU
 culture = novgorodian
 religion = chalcedonism
 hre = no

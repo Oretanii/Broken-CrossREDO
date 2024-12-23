@@ -1,7 +1,7 @@
 #1859 - Torun
 
-owner = TEU
-controller = TEU
+owner = DNZ
+controller = DNZ
 capital = "Torun"
 is_city = yes
 estate = estate_burghers
@@ -12,7 +12,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 2
-add_core = TEU
+add_core = DNZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

@@ -1,8 +1,8 @@
 #309 - Olonets
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = TEU
+controller = TEU
+add_core = TEU
 culture = karelian
 religion = finnish_pagan_reformed
 hre = no

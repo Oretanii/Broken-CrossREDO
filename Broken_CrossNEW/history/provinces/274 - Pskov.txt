@@ -1,7 +1,7 @@
 #274 - Pskov
 
-owner = PSK
-controller = PSK
+owner = TEU
+controller = TEU
 culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
@@ -12,6 +12,7 @@ base_manpower = 4
 capital = "Pskov"
 is_city = yes
 fort_15th = yes
+add_core = TEU
 add_core = PSK
 discovered_by = KAZ
 discovered_by = CRI

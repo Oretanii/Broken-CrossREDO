@@ -5,6 +5,9 @@ primary_culture = lithuanian
 religion = baltic_pagan_reformed
 technology_group = eastern
 historical_friend = POL
+historical_rival = GOL
+historical_rival = ZAZ
+historical_rival = TEU
 capital = 272 # Vilnius
 
 

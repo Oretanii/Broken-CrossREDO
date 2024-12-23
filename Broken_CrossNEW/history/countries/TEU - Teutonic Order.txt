@@ -1,13 +1,30 @@
 government = theocracy
 add_government_reform = monastic_order_reform
 government_rank = 1
-primary_culture = prussian
+primary_culture = baltic_german
+add_accepted_culture = novgorodian
+add_accepted_culture = russian
 religion = chalcedonism
 technology_group = western
 historical_friend = LIV
-historical_rival = POL
-capital = 40	# Marienburg
+historical_rival = GOL
+historical_rival = ZAZ
+historical_rival = LIT
+capital = 33	# Neva
 add_army_professionalism = 0.1
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 25
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -15
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
 
 1393.1.1 = {
 	monarch = {

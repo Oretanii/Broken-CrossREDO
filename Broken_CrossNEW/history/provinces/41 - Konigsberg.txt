@@ -1,7 +1,7 @@
 #41 - Königsberg
 
-owner = TEU
-controller = TEU
+owner = DNZ
+controller = DNZ
 capital = "Königsberg"
 culture = prussian
 religion = chalcedonism
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = TEU
+add_core = DNZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
