@@ -1,9 +1,8 @@
 #44 - Hamburg
 
-owner = DSB
-controller = DSB
+owner = HAM
+controller = HAM
 add_core = HAM
-add_core = DSB
 culture = lower_saxon
 religion = chalcedonism
 hre = yes

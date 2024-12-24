@@ -1,7 +1,7 @@
 # 185 Nemours
 
-owner = FRA
-controller = FRA
+owner = CHP
+controller = CHP
 capital = "Nemours"
 is_city = yes
 culture = cosmopolitan_french
@@ -13,7 +13,6 @@ trade_goods = paper
 base_manpower = 5
 estate = estate_church
 add_core = CHP
-add_core = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

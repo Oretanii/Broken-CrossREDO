@@ -1,7 +1,7 @@
 # 4387 Angoulême
 
-owner = GUY
-controller = GUY
+owner = ORL
+controller = ORL
 capital = "Angoulême"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = livestock
 base_manpower = 2
-add_core = GUY
+add_core = ORL
 estate = estate_burghers
 discovered_by = eastern
 discovered_by = western

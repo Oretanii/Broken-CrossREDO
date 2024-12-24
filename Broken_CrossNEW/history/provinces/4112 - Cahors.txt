@@ -10,6 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
+add_core = GUY
 add_core = AMG
 discovered_by = eastern
 discovered_by = western

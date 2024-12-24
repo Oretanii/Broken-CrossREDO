@@ -31,11 +31,15 @@ SKS = "countries/Saksuns.txt"
 TUP = "countries/Minsk.txt"
 YER = "countries/Yerevan.txt"
 
+#Germany
+OST = "countries/Ostmark.txt"
+
 #France
 STG = "countries/Saintonge.txt"
 QST = "countries/Qastany.txt"
 TEM = "countries/Templar.txt"
 FRX = "countries/Fraxinetum.txt"
+PRS = "countries/Paris.txt"
 
 #Spain
 ALJ = "countries/Alentejo.txt"

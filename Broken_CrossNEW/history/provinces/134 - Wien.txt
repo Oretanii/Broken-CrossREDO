@@ -1,8 +1,8 @@
 #134 - Wien
 
-owner = STY
-controller = STY
-add_core = STY
+owner = OST
+controller = OST
+add_core = OST
 culture = austrian
 religion = chalcedonism
 base_tax = 7 
