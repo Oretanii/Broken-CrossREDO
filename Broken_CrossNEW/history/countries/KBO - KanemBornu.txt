@@ -1,5 +1,5 @@
 government = theocracy
-add_government_reform = leading_clergy_reform #Remember to go back and make a Da'i al-Mutlaq gov
+add_government_reform = dai_mutlaq_reform #Remember to go back and make a Da'i al-Mutlaq gov
 technology_group = sub_saharan
 unlock_cult = yemoja_cult
 unlock_cult = roog_cult
@@ -7,6 +7,7 @@ unlock_cult = nyame_cult
 religion = ismaili
 primary_culture = kanuri
 capital = 1157	# Gatiga, Gazargamu
+religious_school = hafizi_school
 
 
 #Sultans

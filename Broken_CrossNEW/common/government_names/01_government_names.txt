@@ -2210,3 +2210,98 @@ gov_jarldom = {
 		}
 	}
 }
+
+gov_dai_mutlaq = {
+	rank = {
+		1 = DAI_STATE
+		2 = DAI_STATE
+		3 = DAI_STATE
+	}
+
+	ruler_male = {
+		1 = DAI_MUTLAQ
+		2 = DAI_MUTLAQ
+		3 = DAI_MUTLAQ
+	}
+
+	ruler_female = {
+		1 = DAI_MUTLAQ_FEM
+		2 = DAI_MUTLAQ_FEM
+		3 = DAI_MUTLAQ_FEM
+	}
+	
+	heir_male = {
+		1 = MAZOON_DAWAH
+		2 = MAZOON_DAWAH
+		3 = MAZOON_DAWAH
+	}
+
+	heir_female = {
+		1 = MAZOON_DAWAH_FEM
+		2 = MAZOON_DAWAH_FEM
+		3 = MAZOON_DAWAH_FEM
+	}
+
+	consort_male = {
+		1 = MUKAASIR_DAWAH
+		2 = MUKAASIR_DAWAH
+		3 = MUKAASIR_DAWAH
+	}
+	consort_female = {
+		1 = MUKAASIR_DAWAH_FEM
+		2 = MUKAASIR_DAWAH_FEM
+		3 = MUKAASIR_DAWAH_FEM
+	}
+	
+	trigger = {
+		has_reform = dai_mutlaq_reform
+	}
+}
+
+gov_tribal_imamate = {
+	rank = {
+		1 = IMAMATE
+		2 = GREAT_IMAMATE
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = IMAM
+		2 = GREAT_IMAM
+		3 = HIGH_IMAM
+	}
+
+	ruler_female = {
+		1 = IMAM_fem
+		2 = GREAT_IMAM_fem
+		3 = HIGH_IMAM_fem
+	}
+
+	consort_male = {
+		1 = CONSORT
+		2 = CONSORT
+		3 = CONSORT
+	}
+
+	consort_female = {
+		1 = CONSORT
+		2 = CONSORT
+		3 = CONSORT
+	}
+
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+	
+	trigger = {
+		has_reform = tribal_imamate
+	}
+}

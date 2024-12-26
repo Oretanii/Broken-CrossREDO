@@ -2,6 +2,7 @@ government = tribal
 add_government_reform = tribal_kingdom
 primary_culture = bozo
 religion = ibadi
+religious_school = sufri_school
 technology_group = sub_saharan
 unlock_cult = yemoja_cult
 unlock_cult = roog_cult

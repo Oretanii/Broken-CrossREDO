@@ -1,7 +1,8 @@
 government = tribal
-add_government_reform = tribal_despotism
+add_government_reform = tribal_imamate
 primary_culture = soninke #Historically Fulbe, Soninke to distinguish from the other Fula/Fulbe groups
 religion = ibadi
+religious_school = sufri_school
 technology_group = sub_saharan
 unlock_cult = yemoja_cult
 unlock_cult = roog_cult

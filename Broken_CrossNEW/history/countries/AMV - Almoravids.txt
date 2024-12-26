@@ -2,6 +2,7 @@ government = tribal
 add_government_reform = tribal_despotism
 primary_culture = tuareg
 religion = ibadi
+religious_school = sufri_school
 technology_group = sub_saharan
 religious_school = sufri_school
 capital = 1112	# Trarza

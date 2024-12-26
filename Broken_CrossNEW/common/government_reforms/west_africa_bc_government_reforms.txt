@@ -1,0 +1,54 @@
+dai_mutlaq_reform = {
+	potential = {
+		religion = ismaili
+	}
+	allow_normal_conversion = no
+	allow_convert = no
+	valid_for_new_country = no
+	icon = "caliphate"
+	valid_for_nation_designer = no
+	religion = yes
+	lock_level_when_selected = yes
+	modifiers = {
+		church_loyalty_modifier = 0.05
+		missionaries = 1
+		global_missionary_strength = 0.01
+		tolerance_own = 2
+		church_privilege_slots = 1
+	}
+	conditional = {
+		allow = { has_dlc = "Cradle of Civilization" }
+		government_abilities = {
+			feudal_theocracy_mechanic
+		}
+	}
+}
+
+tribal_imamate = {
+	icon = "feudal_theocracy"
+	allow_normal_conversion = yes
+	potential = {
+		religion_group = muslim
+	}
+
+	valid_for_nation_designer = yes
+	nation_designer_cost = 30
+	legacy_equivalent = tribal_federation_legacy
+
+	lock_level_when_selected = yes
+
+	modifiers = {
+		tolerance_own = 2
+		manpower_in_true_faith_provinces= 0.10
+	}
+
+	conditional = {
+		allow = { has_dlc = "Cradle of Civilization" }
+		government_abilities = {
+			feudal_theocracy_mechanic
+		}
+	}
+	ai = {
+		factor = 1
+	}
+}

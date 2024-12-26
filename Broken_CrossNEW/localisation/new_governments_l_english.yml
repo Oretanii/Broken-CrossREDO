@@ -9,3 +9,17 @@
  BEYLERBEY:0 "Beylerbey"
  HANIM:0 "Hanim"
  KRALICE:0 "Kralice"
+ 
+ dai_mutlaq_reform:0 "Da'wah State"
+ dai_mutlaq_reform_desc:0 "The Da'wah State is a theocracy lead by the Da'i al-Mutlaq, the representative of the Fatimid Caliph-Imams. Currently the Hafizi and Tayyibi caliphs are in occultation, and their Shi'a follow the Da'i al-Mutlaq in their absence."
+ 
+ DAI_STATE:0 "Da'wah State"
+ DAI_MUTLAQ:0 "Da'i al-Mutlaq"
+ DAI_MUTLAQ_FEM:0 "Da'i al-Mutlaqah"
+ MAZOON_DAWAH:0 "Mazoon al-Da'wah"
+ MAZOON_DAWAH_FEM:0 "Mazoonah al-Da'wat"
+ MUKAASIR_DAWAH:0 "Mukaasir al-Da'wah"
+ MUKAASIR_DAWAH_FEM:0 "Mukaasirah al-Da'wat"
+ 
+ tribal_imamate:0 "Tribal Imamate"
+ tribal_imamate_desc:0 "A tribal imamate is a tribe lead by an Imam, a leader of a Muslim community."
