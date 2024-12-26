@@ -1,7 +1,7 @@
 #4361 - Central + East March (Roxburghshire+Berwickshire+Selkirkshire)
 
-owner = HSC
-controller = HSC
+owner = NOL
+controller = NOL
 culture = norsanglic
 religion = chalcedonism
 hre = no
@@ -11,7 +11,7 @@ trade_goods = iron
 base_manpower = 1
 capital = "Jedburgh"
 is_city = yes
-add_core = HSC
+add_core = NOL
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

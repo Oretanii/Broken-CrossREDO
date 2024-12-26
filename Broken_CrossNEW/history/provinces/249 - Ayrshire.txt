@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = HSC
-controller = HSC
+owner = NOL
+controller = NOL
 culture = norsanglic
 religion = insular
 hre = no
@@ -15,7 +15,7 @@ trade_goods = wool
 base_manpower = 2
 capital = "Ayr"
 is_city = yes
-add_core = HSC
+add_core = NOL
 discovered_by = western
 discovered_by = Dhimmi 
 discovered_by = muslim

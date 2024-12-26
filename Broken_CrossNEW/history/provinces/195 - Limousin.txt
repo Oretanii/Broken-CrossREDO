@@ -12,6 +12,7 @@ trade_goods = livestock
 base_manpower = 2
 add_core = GUY
 add_core = AUV
+hre = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

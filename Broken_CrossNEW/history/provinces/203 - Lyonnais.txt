@@ -11,6 +11,7 @@ base_production = 7
 trade_goods = paper #Great printing industry form the 15th century and french center of paperproduction in Ambert close by (even though not the main trade good for that province).
 base_manpower = 6
 add_core = DAU
+hre = yes
 fort_15th = yes
 estate = estate_burghers
 discovered_by = eastern

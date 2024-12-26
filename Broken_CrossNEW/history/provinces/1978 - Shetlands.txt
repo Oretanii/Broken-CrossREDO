@@ -1,7 +1,7 @@
 #1978 - Shetlands
 
-owner = HSC
-controller = HSC
+owner = NOR
+controller = NOR
 culture = norse
 religion = insular
 hre = no
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 1
 capital = "Lerwick"
 is_city = yes # Estimated
-add_core = HSC
+add_core = NOR
 
 
 
