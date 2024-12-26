@@ -12,6 +12,7 @@ trade_goods = wine
 base_manpower = 3
 add_core = GUY
 add_core = AMG
+hre = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

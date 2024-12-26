@@ -1,7 +1,7 @@
 #253 - Western Isles
 
-owner = LOI
-controller = LOI
+owner = NOR
+controller = NOR
 culture = norse
 religion = insular
 hre = no
@@ -11,8 +11,7 @@ trade_goods = grain
 base_manpower = 1
 capital = "Stornoway"
 is_city = yes
-add_core = SCO
-add_core = LOI
+add_core = NOR
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

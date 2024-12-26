@@ -1,7 +1,7 @@
 #4110 - Sutherland
 
-owner = HSC
-controller = HSC
+owner = NOR
+controller = NOR
 culture = norse
 religion = insular
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Dornoch"
 is_city = yes
-add_core = HSC
+add_core = NOR
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

@@ -12,6 +12,7 @@ trade_goods = wool
 base_manpower = 4
 add_core = FOI
 add_core = GUY
+hre = yes
 add_local_autonomy = 25
 estate = estate_nobles
 
