@@ -488,6 +488,21 @@ country_event = {
 					discount = yes
 				}
 			}
+			else_if = {
+				limit = {
+					religious_school = {
+						group = muslim
+						school = zahiri_school
+					}
+				}
+				define_advisor = {
+					type = inquisitor
+					skill = 2
+					culture = event_target:mufti_province
+					religion = sunni
+					discount = yes
+				}
+			}
 		}
 		else_if = {
 			limit = {
@@ -547,6 +562,21 @@ country_event = {
 				}
 				define_advisor = {
 					type = philosopher
+					skill = 3
+					culture = event_target:mufti_province
+					religion = sunni
+					discount = yes
+				}
+			}
+			else_if = {
+				limit = {
+					religious_school = {
+						group = muslim
+						school = zahiri_school
+					}
+				}
+				define_advisor = {
+					type = inquisitor
 					skill = 3
 					culture = event_target:mufti_province
 					religion = sunni
@@ -1829,6 +1859,7 @@ country_event = {
 				our_scholar_matches_their_school_trigger = { school=hanbali }
 				our_scholar_matches_their_school_trigger = { school=shafii }
 				our_scholar_matches_their_school_trigger = { school=maliki }
+				our_scholar_matches_their_school_trigger = { school=zahiri }
 				our_scholar_matches_their_school_trigger = { school=usuli }
 				our_scholar_matches_their_school_trigger = { school=akhbari }
 				our_scholar_matches_their_school_trigger = { school=hadawi }
@@ -1857,6 +1888,7 @@ country_event = {
 						our_scholar_matches_their_school_trigger = { school=hanbali }
 						our_scholar_matches_their_school_trigger = { school=shafii }
 						our_scholar_matches_their_school_trigger = { school=maliki }
+						our_scholar_matches_their_school_trigger = { school=zahiri }
 						our_scholar_matches_their_school_trigger = { school=usuli }
 						our_scholar_matches_their_school_trigger = { school=akhbari }
 						our_scholar_matches_their_school_trigger = { school=hadawi }
@@ -1899,6 +1931,7 @@ country_event = {
 					has_country_modifier = hanbali_scholar_modifier
 					has_country_modifier = maliki_scholar_modifier
 					has_country_modifier = shafii_scholar_modifier
+					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
 			add_piety = 0.15
@@ -1966,6 +1999,7 @@ country_event = {
 					has_country_modifier = hanbali_scholar_modifier
 					has_country_modifier = maliki_scholar_modifier
 					has_country_modifier = shafii_scholar_modifier
+					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
 			add_piety = 0.15
@@ -2038,6 +2072,7 @@ country_event = {
 				our_scholar_matches_their_school_trigger = { school=hanbali }
 				our_scholar_matches_their_school_trigger = { school=shafii }
 				our_scholar_matches_their_school_trigger = { school=maliki }
+				our_scholar_matches_their_school_trigger = { school=zahiri }
 				our_scholar_matches_their_school_trigger = { school=usuli }
 				our_scholar_matches_their_school_trigger = { school=akhbari }
 				our_scholar_matches_their_school_trigger = { school=hadawi }
@@ -2060,6 +2095,7 @@ country_event = {
 						our_scholar_matches_their_school_trigger = { school=hanbali }
 						our_scholar_matches_their_school_trigger = { school=shafii }
 						our_scholar_matches_their_school_trigger = { school=maliki }
+						our_scholar_matches_their_school_trigger = { school=zahiri }
 						our_scholar_matches_their_school_trigger = { school=usuli }
 						our_scholar_matches_their_school_trigger = { school=akhbari }
 						our_scholar_matches_their_school_trigger = { school=hadawi }
@@ -2091,6 +2127,7 @@ country_event = {
 					has_country_modifier = hanbali_scholar_modifier
 					has_country_modifier = maliki_scholar_modifier
 					has_country_modifier = shafii_scholar_modifier
+					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
 			add_piety = 0.15
@@ -2199,6 +2236,7 @@ country_event = {
 				has_country_modifier = hanbali_scholar_modifier
 				has_country_modifier = maliki_scholar_modifier
 				has_country_modifier = shafii_scholar_modifier
+				has_country_modifier = zahiri_scholar_modifier
 				has_country_modifier = nizari_scholar_modifier
 				has_country_modifier = hafizi_scholar_modifier
 				has_country_modifier = tayyibi_scholar_modifier
@@ -2216,6 +2254,7 @@ country_event = {
 				has_country_modifier = hanbali_scholar_modifier
 				has_country_modifier = maliki_scholar_modifier
 				has_country_modifier = shafii_scholar_modifier
+				has_country_modifier = zahiri_scholar_modifier
 				has_country_modifier = nizari_scholar_modifier
 				has_country_modifier = hafizi_scholar_modifier
 				has_country_modifier = tayyibi_scholar_modifier
@@ -2233,6 +2272,7 @@ country_event = {
 				has_country_modifier = hanbali_scholar_modifier
 				has_country_modifier = maliki_scholar_modifier
 				has_country_modifier = shafii_scholar_modifier
+				has_country_modifier = zahiri_scholar_modifier
 				has_country_modifier = nizari_scholar_modifier
 				has_country_modifier = hafizi_scholar_modifier
 				has_country_modifier = tayyibi_scholar_modifier
@@ -2250,6 +2290,7 @@ country_event = {
 				has_country_modifier = hanbali_scholar_modifier
 				has_country_modifier = maliki_scholar_modifier
 				has_country_modifier = shafii_scholar_modifier
+				has_country_modifier = zahiri_scholar_modifier
 				has_country_modifier = sufri_scholar_modifier
 				has_country_modifier = ibadi_scholar_modifier
 				has_country_modifier = usuli_scholar_modifier
@@ -3648,6 +3689,17 @@ country_event = {
 			school = ibadi_school
 		}
 	}
+	option = {
+		name = muslim_school_events.20.o #Ibadi
+		trigger = {
+			religion = sunni
+			ai = no
+		}
+		set_religious_school = {
+			group = muslim
+			school = zahiri_school
+		}
+	}
 }
 
 #Neo Sufism (Most likely going to trigger in India)
@@ -4055,6 +4107,23 @@ country_event = {
 				religious_school = {
 					group = muslim
 					school = sufri_school
+				}
+			}
+		}
+		allow_baseline_invite_scholar_privilege = {
+			religious_school = sufri_school
+		}
+	}
+	
+	option = {
+		name = muslim_school_events.24.o
+		trigger = {
+			NOT = { has_country_flag = can_always_invite_zahiri_school }
+			NOT = { has_country_flag = privilege_can_always_invite_zahiri_school }
+			NOT = {
+				religious_school = {
+					group = muslim
+					school = zahiri_school
 				}
 			}
 		}

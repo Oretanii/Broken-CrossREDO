@@ -1108,6 +1108,78 @@ muslim = {
 
 			merchants = 1
 		}
+		
+		zahiri_school = {
+			potential_invite_scholar = {
+				OR = {
+					knows_of_scholar_country_capital_trigger = yes
+					has_country_flag = can_always_invite_shafii_school
+					has_country_flag = privilege_can_always_invite_zahiri_school
+				}
+			}
+
+			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
+			can_invite_scholar = {
+				if = {
+					limit = {
+						NOT = { has_country_flag = no_scholar_adm_cost }
+					}
+					adm_power_cost = 50
+				}
+				if = {
+					limit = {
+						NOT = { religion = sunni }
+					}
+					NOT = { piety = -0.5 }
+				}
+				if = {
+					limit = {
+						NOT = { has_country_flag = can_always_invite_zahiri_school }
+						NOT = { has_country_flag = privilege_can_always_invite_zahiri_school }
+					}
+					reverse_has_opinion = { who = FROM value = 150 }
+					OR = {
+						alliance_with = FROM
+						is_subject_of = FROM
+						overlord_of = FROM
+					}
+					hidden_progressive_opinion_for_scholar_trigger = yes
+				}
+				if = {
+					limit = {
+						ai = yes
+					}
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
+				NOT = { has_country_modifier = zahiri_scholar_modifier }
+			}
+
+			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
+			on_invite_scholar = {
+				if = {
+					limit = {
+						NOT = { has_country_flag = no_scholar_adm_cost }
+					}
+					adm_power_cost = 50
+				}
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = zahiri_scholar_modifier duration = 7300 }
+				if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+					limit = {
+						ai = yes
+					}
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
+			}
+
+			# If you don't set this it will expand on_invite_scholar effect which might be super big
+			invite_scholar_modifier_display = zahiri_scholar_modifier
+
+			picture = "GFX_icon_muslim_school_zahiri"
+
+			morale_damage_received = -0.025
+		}
 		#Ismaili
 		nizari_school = {
 			potential_invite_scholar = {
@@ -1178,7 +1250,7 @@ muslim = {
 
 			picture = "GFX_icon_muslim_school_nizari"
 
-			monthly_piety = -0.01
+			monthly_karma_accelerator = -0.02
 		}
 		
 		hafizi_school = {
@@ -1250,7 +1322,7 @@ muslim = {
 
 			picture = "GFX_icon_muslim_school_hafizi"
 
-			tolerance_own = 1
+			tolerance_own = 2
 		}
 		
 		tayyibi_school = {
@@ -1687,7 +1759,7 @@ muslim = {
 
 			picture = "GFX_icon_muslim_school_sufri"
 
-			missionaries = 1
+			local_missionary_maintenance_cost = -0.1
 		}
 		
 		ibadi_school = {
