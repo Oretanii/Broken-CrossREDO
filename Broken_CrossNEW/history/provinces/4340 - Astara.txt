@@ -1,7 +1,7 @@
 #4340 - Astara
 
-owner = BPI
-controller = BPI
+owner = KIZ
+controller = KIZ
 culture = azerbaijani
 religion = shiite
 capital = "Astara"
@@ -13,6 +13,7 @@ base_manpower = 1
 is_city = yes
 add_core = BPI
 add_core = ARL
+add_core = KIZ
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

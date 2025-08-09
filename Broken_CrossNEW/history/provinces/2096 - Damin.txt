@@ -1,7 +1,7 @@
 #2096 - Damin
 
-owner = BNG
-controller = BNG
+owner = TIM
+controller = TIM
 culture = jharkhandi
 religion = hinduism
 capital = "Deogarh"
@@ -11,6 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+add_core = TIM
 add_core = NGP
 add_core = BNG
 add_brahmins_or_church_effect = yes

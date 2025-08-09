@@ -1,7 +1,7 @@
 #2215 - Qazvin
 
-owner = QAR
-controller = QAR
+owner = KIZ
+controller = KIZ
 culture = turkish
 religion = sunni
 capital = "Qazvin"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = QAR
+add_core = KIZ
 add_core = QOM
 discovered_by = Dhimmi 
 discovered_by = muslim

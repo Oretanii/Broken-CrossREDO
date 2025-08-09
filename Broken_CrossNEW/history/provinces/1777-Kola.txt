@@ -1,8 +1,9 @@
 #Kola
 
-owner = SMI
-controller = SMI
+owner = NID
+controller = NID
 add_core = SMI
+add_core = NID
 capital = "Kola"
 culture = sapmi
 religion = finnish_pagan_reformed

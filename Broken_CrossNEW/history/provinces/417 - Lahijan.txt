@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = KRY
-controller = KRY
+owner = KIZ
+controller = KIZ
 culture = turkish
 religion = shiite
 capital = "Lahijan"
@@ -16,6 +16,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 add_core = KRY
+add_core = KIZ
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

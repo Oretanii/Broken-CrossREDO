@@ -1,7 +1,7 @@
 #Åland
 
-owner = NRL
-controller = NRL
+owner = SWE
+controller = SWE
 add_core = SWE
 culture = swedish
 religion = norse_pagan_reformed

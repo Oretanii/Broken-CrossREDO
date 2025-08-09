@@ -1,7 +1,7 @@
 #2213 - Qom
 
-owner = QAR
-controller = QAR
+owner = KIZ
+controller = KIZ
 culture = turkish
 religion = sunni
 capital = "Qom"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = QAR
+add_core = KIZ
 add_core = QOM
 discovered_by = Dhimmi 
 discovered_by = muslim

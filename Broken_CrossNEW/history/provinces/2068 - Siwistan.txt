@@ -1,7 +1,7 @@
 #2068 - Siwistan
 
-owner = BAL
-controller = BAL
+owner = SND
+controller = SND
 culture = baluchi
 religion = sunni
 capital = "Siwi"

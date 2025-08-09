@@ -14,6 +14,7 @@ is_city = yes
 add_core = MAM
 add_core = BSR
 add_core = MSY
+add_core = IRQ
 discovered_by = east_african
 discovered_by = Dhimmi 
 discovered_by = muslim

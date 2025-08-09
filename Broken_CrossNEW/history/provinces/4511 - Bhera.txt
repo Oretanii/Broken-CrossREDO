@@ -1,7 +1,7 @@
 #4511 - Bhera
 
-owner = SRH
-controller = SRH
+owner = TIM
+controller = TIM
 culture = panjabi
 religion = hinduism
 capital = "Bhera"
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 estate = estate_nobles
+add_core = TIM
 add_core = DLH
 add_core = PUN
 add_core = SRH

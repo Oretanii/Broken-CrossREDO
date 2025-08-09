@@ -1,8 +1,8 @@
 #Bergslagen, contains Falun, Västerås etc.
 
-add_core = NRL
-owner = NRL
-controller = NRL
+add_core = SWE
+owner = SWE
+controller = SWE
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

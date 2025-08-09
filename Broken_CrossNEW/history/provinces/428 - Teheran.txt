@@ -1,7 +1,7 @@
 #428 - Rey
 
-owner = QAR
-controller = QAR
+owner = KIZ
+controller = KIZ
 culture = turkish
 religion = sunni
 capital = "Teheran"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = QAR
+add_core = KIZ
 add_core = QOM
 discovered_by = Dhimmi 
 discovered_by = muslim

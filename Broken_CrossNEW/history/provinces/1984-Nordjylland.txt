@@ -3,6 +3,7 @@
 owner = DSB
 controller = DSB
 add_core = DSB
+add_core = DAN
 culture = danish
 religion = chalcedonism
 hre = no

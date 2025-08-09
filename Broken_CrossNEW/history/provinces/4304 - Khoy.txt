@@ -1,7 +1,7 @@
 #2035 - Khoy
 
-owner = QAR
-controller = QAR
+owner = TBR
+controller = TBR
 culture = azerbaijani
 religion = sunni
 capital = "Khoy"

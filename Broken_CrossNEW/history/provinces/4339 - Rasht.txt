@@ -1,7 +1,7 @@
 #4339 - Rasht
 
-owner = BPI
-controller = BPI
+owner = KIZ
+controller = KIZ
 culture = turkish
 religion = sunni
 capital = "Rasht"
@@ -13,6 +13,7 @@ base_manpower = 2
 is_city = yes
 add_core = BPI
 add_core = KRY
+add_core = KIZ
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

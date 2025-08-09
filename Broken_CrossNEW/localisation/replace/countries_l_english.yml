@@ -1,8 +1,8 @@
 ﻿l_english:
- DAN: "Geatland"
- DAN_ADJ: "Geatlandic"
- NOR: "Vestland"
- NOR_ADJ: "Vestlandic"
+ DAN: "Danmark"
+ DAN_ADJ: "Danska"
+ NOR: "Noregsveldi"
+ NOR_ADJ: "Norska"
  AYD: "Smyrna"
  AYD_ADJ: "Smyrnan"
  CND: "Sinope"
@@ -25,3 +25,5 @@
  MFA_ADJ: "Aleramici"
  SZO: "Ivrea"
  SZO_ADJ: "Eporediesi"
+ SWE: "Svíaríki"
+ SWE_ADJ: "Sænska"

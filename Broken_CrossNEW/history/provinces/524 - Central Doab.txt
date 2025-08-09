@@ -12,6 +12,7 @@ base_production = 10
 base_manpower = 4
 add_brahmins_or_church_effect = yes
 is_city = yes
+add_core = TIM
 add_core = DLH
 add_core = JNP
 fort_15th = yes # Badalgarh
@@ -24,8 +25,8 @@ extra_cost = 16
 center_of_trade = 2
 
 1437.1.1 = {
-	owner = JNP
-	controller = JNP
+	owner = TIM
+	controller = TIM
 }
 1452.1.1 = {
 	owner = DLH

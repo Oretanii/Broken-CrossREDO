@@ -1,7 +1,7 @@
 #510 - Sirhind
 
-owner = SRH
-controller = SRH
+owner = TIM
+controller = TIM
 culture = panjabi
 religion = hinduism
 capital = "Sirhind"
@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = TIM
 add_core = DLH
 add_core = PUN
 add_core = SRH

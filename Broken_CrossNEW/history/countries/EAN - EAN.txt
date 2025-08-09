@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = western
 primary_culture = anglosaxon
-religion = norse_pagan_reformed
+religion = chalcedonism
 capital = 236	# London
 
 1441.8.15 = {

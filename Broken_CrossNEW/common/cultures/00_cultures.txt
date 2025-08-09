@@ -4288,7 +4288,7 @@ turko_semitic = { #Levantine
 		}
 	}
 	al_misr_arabic = { #Egyptian Arab
-		primary = MAM
+		primary = CAI
 		dynasty_names = {
 			"Burji" "Alawiyya" "Bahri"
 			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli Yakubid Hassanid
@@ -4344,7 +4344,7 @@ turko_semitic = { #Levantine
 		}
 	}
 	al_iraqiya_arabic = { #Mashriqi Arab
-		primary = IRQ
+		primary = MAM
 		dynasty_names = {
 			"Saadun" "Jalili" "Hasanid" "Sabah" Javid
 			"Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"

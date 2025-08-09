@@ -1,7 +1,7 @@
 #2060 - Upper Doab
 
-owner = DLH
-controller = DLH
+owner = TIM
+controller = TIM
 culture = kanauji
 religion = hinduism
 capital = "Meerut"
@@ -12,6 +12,7 @@ base_production = 6
 base_manpower = 4
 estate = estate_nobles
 is_city = yes
+add_core = TIM
 add_core = DLH
 add_core = MUL
 discovered_by = indian

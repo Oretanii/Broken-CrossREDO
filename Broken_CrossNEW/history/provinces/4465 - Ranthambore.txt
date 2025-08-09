@@ -1,7 +1,7 @@
 #4465 - Ranthambore
 
-owner = MER
-controller = MER
+owner = HAD
+controller = HAD
 culture = rajput
 religion = hinduism
 capital = "Ranthambore"

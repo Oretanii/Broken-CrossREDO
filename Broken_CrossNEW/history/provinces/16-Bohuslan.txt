@@ -1,8 +1,7 @@
 #Bohuslän, contains Marstrand, Uddevalla, Strömstad.
 
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = NOR
+controller = NOR
 add_core = NOR
 culture = norwegian
 religion = chalcedonism

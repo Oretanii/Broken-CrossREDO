@@ -1,8 +1,8 @@
 #Eastern and Northern Småland - Includes parts under Östgötalag
 
-add_core = NRL
-owner = NRL
-controller = NRL
+add_core = SWE
+owner = SWE
+controller = SWE
 culture = swedish
 religion = chalcedonism
 hre = no

@@ -1,7 +1,7 @@
 #567 - Sylhet
 
-owner = BNG
-controller = BNG
+owner = TIM
+controller = TIM
 culture = bengali
 religion = hinduism
 capital = "Sylhet"
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 estate = estate_dhimmi
+add_core = TIM
 add_core = BNG
 discovered_by = indian
 discovered_by = chinese

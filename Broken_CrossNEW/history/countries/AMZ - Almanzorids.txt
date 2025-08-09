@@ -11,6 +11,7 @@ religious_school = maliki_school
 	monarch = {
 		name = "Judar I"
 		dynasty = "Almanzorid"
+		culture = andalucian
 		birth_date = 1424.1.1
 		adm = 1
 		dip = 2

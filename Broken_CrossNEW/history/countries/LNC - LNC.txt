@@ -2,14 +2,14 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = western
 primary_culture = anglosaxon
-religion = norse_pagan_reformed
+religion = chalcedonism
 historical_rival = NOL
 capital = 244	# Lancaster
 
 1441.8.15 = {
 	monarch = {
 		name = "Harold II"
-		dynasty = "Ætheling"
+		dynasty = "AEtheling"
 		adm = 3
 		dip = 3
 		mil = 1

@@ -1,8 +1,8 @@
 #Romsdal
 
-owner = NID
-controller = NID
-add_core = NID
+owner = NOR
+controller = NOR
+add_core = NOR
 culture = norwegian
 religion = chalcedonism
 hre = no

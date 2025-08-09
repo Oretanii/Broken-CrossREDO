@@ -1,7 +1,7 @@
 #523 - Oudh
 
-owner = JNP
-controller = JNP
+owner = TIM
+controller = TIM
 culture = avadhi
 religion = hinduism
 capital = "Lucknow"
@@ -12,6 +12,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 estate = estate_nobles
+add_core = TIM
 add_core = JNP
 add_core = DLH
 add_core = ODH

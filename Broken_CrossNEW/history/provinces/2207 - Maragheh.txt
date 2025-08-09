@@ -1,7 +1,7 @@
 #2207 - Maragheh
 
-owner = QAR
-controller = QAR
+owner = TBR
+controller = TBR
 culture = azerbaijani
 religion = shiite
 capital = "Marageh"
@@ -13,6 +13,7 @@ base_manpower = 2
 is_city = yes
 add_core = QAR
 add_core = MGR
+add_core = TBR
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

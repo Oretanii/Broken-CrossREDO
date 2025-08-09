@@ -1,8 +1,9 @@
 #Finnish Lappland - Rovaniemi
 
-owner = SMI
-controller = SMI
+owner = NRL
+controller = NRL
 add_core = SMI
+add_core = NRL
 culture = finnish #Probably also a large Sami population.
 religion = finnish_pagan_reformed
 hre = no

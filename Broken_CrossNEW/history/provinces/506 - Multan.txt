@@ -1,7 +1,7 @@
 #506 - Multan
 
-owner = MUL
-controller = MUL
+owner = SND
+controller = SND
 culture = panjabi
 religion = sunni
 capital = "Multan"
@@ -13,6 +13,7 @@ base_manpower = 2
 is_city = yes
 add_core = DLH
 add_core = MUL
+add_core = SND
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = Dhimmi discovered_by = muslim

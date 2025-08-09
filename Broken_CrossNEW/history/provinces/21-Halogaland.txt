@@ -1,8 +1,8 @@
 #Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
 
-owner = NID
-controller = NID
-add_core = NID
+owner = NOR
+controller = NOR
+add_core = NOR
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

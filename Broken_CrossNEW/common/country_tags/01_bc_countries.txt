@@ -72,6 +72,9 @@ CAI = "countries/Qahirah.txt"
 SOQ = "countries/Socotra.txt"
 QUR = "countries/Qurais.txt"
 
+#Middle East
+KIZ = "countries/Kizilmans.txt"
+
 #North Africa
 IDS = "countries/Idrisids.txt"
 ALM = "countries/Almohads.txt"

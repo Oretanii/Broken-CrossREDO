@@ -1,7 +1,7 @@
 #2039 - Sunderbans
 
-owner = BNG
-controller = BNG
+owner = TIM
+controller = TIM
 culture = bengali
 religion = hinduism
 capital = "Bagerhat"
@@ -12,6 +12,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 estate = estate_church
+add_core = TIM
 add_core = BNG
 
 

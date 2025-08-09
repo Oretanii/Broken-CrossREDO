@@ -29,7 +29,7 @@ capital = 1863	# Graz
 
 1424.6.11 = {
 	monarch = {
-		name = "Friedrich III"
+		name = "Albrecht V"
 		dynasty = "von Habsburg"
 		adm = 2
 		dip = 5

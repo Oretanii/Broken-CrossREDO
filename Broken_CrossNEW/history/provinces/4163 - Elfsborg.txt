@@ -1,8 +1,8 @@
 #Elfsborgs Län
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = SWE
+owner = SWE
+controller = SWE
 culture = swedish
 religion = chalcedonism
 hre = no

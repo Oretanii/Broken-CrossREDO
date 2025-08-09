@@ -1,7 +1,7 @@
 #550 - Mahakoshal
 
-owner = GDW
-controller = GDW
+owner = MLW
+controller = MLW
 culture = gondi
 religion = hinduism
 capital = "Garha"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+add_core = MLW
 add_core = GDW
 discovered_by = indian
 discovered_by = nomad_group
@@ -19,7 +20,7 @@ discovered_by = ottoman
 discovered_by = chinese
 
 1439.1.1 = { controller = MLW }
-1441.1.1 = { controller = GDW }
+1441.1.1 = { controller = MLW }
 1467.1.1 = {
 	owner = BAH
 	controller = BAH
