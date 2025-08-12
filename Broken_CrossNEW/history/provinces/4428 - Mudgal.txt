@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+add_core = MAR
 add_core = BIJ
 add_core = VIJ
 fort_15th = yes #Mudgal
@@ -22,8 +23,8 @@ discovered_by = chinese
 
 
 1378.1.1 = {
-	controller = BAH
-	owner = BAH
+	controller = MAR
+	owner = MAR
 }
 1428.1.1 = { add_core = BAH }
 1493.1.1 = {

@@ -1,7 +1,7 @@
 #544 - Ahmednagar
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Ahmednagar"
@@ -12,6 +12,7 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 estate = estate_nobles
+add_core = MAR
 add_core = BAH
 add_core = AHM
 discovered_by = indian

@@ -1,7 +1,7 @@
 #540 - Coromandel 
 
-owner = VIJ
-controller = VIJ
+owner = MAD
+controller = MAD
 culture = tamil
 religion = hinduism
 capital = "Kuddaluru"

@@ -1,7 +1,7 @@
 #4431 - Kolhapur
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Kolhapur"
@@ -12,6 +12,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
+add_core = MAR
 add_core = BAH
 add_core = BIJ
 discovered_by = indian

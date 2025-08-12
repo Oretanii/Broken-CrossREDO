@@ -1,7 +1,7 @@
 #1949 - Penukonda
 
-owner = VIJ
-controller = VIJ
+owner = MAD
+controller = MAD
 culture = telegu
 religion = hinduism
 capital = "Chandragiri"
@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 is_city = yes
+add_core = MAD
 add_core = KRK
 add_core = VIJ
 add_core = YOR

@@ -1,7 +1,7 @@
 #527 - Khandesh
 
-owner = KHD
-controller = KHD
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Burhanpur"
@@ -12,6 +12,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 fort_15th = yes
+add_core = MAR
 add_core = KHD
 discovered_by = indian
 discovered_by = Dhimmi discovered_by = muslim

@@ -1,7 +1,7 @@
 #1948 - Bidar
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = kannada
 religion = hinduism
 capital = "Bidar"
@@ -11,6 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+add_core = MAR
 add_core = BAH
 fort_15th = yes #Bidar Fort
 discovered_by = indian

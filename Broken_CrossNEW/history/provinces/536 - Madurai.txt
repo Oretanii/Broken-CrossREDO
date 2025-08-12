@@ -24,8 +24,8 @@ extra_cost = 8
 center_of_trade = 1
 
 1378.1.1 = {
-	owner = VIJ
-	controller = VIJ
+	owner = MAD
+	controller = MAD
 }
 1405.1.1 = { discovered_by = chinese }
 1428.1.1 = { add_core = VIJ  }

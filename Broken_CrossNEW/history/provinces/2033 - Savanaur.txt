@@ -1,7 +1,7 @@
 #2033 - Savanaur+Hubli+Keladi+Dharwar
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = kannada
 religion = hinduism
 capital = "Dharwar"
@@ -12,6 +12,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 estate = estate_dhimmi
+add_core = MAR
 add_core = BAH
 add_core = BIJ
 add_core = KLN

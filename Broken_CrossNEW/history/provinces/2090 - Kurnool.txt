@@ -1,7 +1,7 @@
 #2090 - Kurnool, Srisailam
 
-owner = VIJ
-controller = VIJ
+owner = YOR
+controller = YOR
 culture = telegu
 religion = hinduism
 capital = "Srisailam"

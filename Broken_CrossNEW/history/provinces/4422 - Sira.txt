@@ -1,7 +1,7 @@
 #4422 - Sira
 
-owner = VIJ
-controller = VIJ
+owner = MYS
+controller = MYS
 culture = kannada
 religion = hinduism
 capital = "Sira"

@@ -1,7 +1,7 @@
 #538 - Karur
 
-owner = VIJ
-controller = VIJ
+owner = MYS
+controller = MYS
 capital = "Karur"
 culture = tamil
 religion = hinduism

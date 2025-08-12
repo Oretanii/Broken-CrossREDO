@@ -1,7 +1,7 @@
 #2083 - Kosta
 
-owner = VIJ
-controller = VIJ
+owner = MAD
+controller = MAD
 culture = telegu
 religion = hinduism
 capital = "Udayagiri"
@@ -11,6 +11,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = MAD
 add_core = YOR
 add_core = VIJ
 fort_15th = yes #The Great Forts of the East - Udayagiri fort

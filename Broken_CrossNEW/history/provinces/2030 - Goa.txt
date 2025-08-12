@@ -12,6 +12,7 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 estate = estate_maratha
+add_core = MAR
 add_core = BIJ
 add_core = BAH
 add_core = VIJ
@@ -26,8 +27,8 @@ extra_cost = 16
 center_of_trade = 2
 
 1380.1.1 = {
-	controller = VIJ
-	owner = VIJ
+	controller = MAR
+	owner = MAR
 } # Taken by Harihara II
 1469.1.1 = { controller = BAH } # Conquered by the Bahmani sultans
 1470.1.1 = { owner = BAH }

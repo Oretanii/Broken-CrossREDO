@@ -1,7 +1,7 @@
 #433 - Nasik
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Nasik"
@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 1
 add_brahmins_or_church_effect = yes
 is_city = yes
+add_core = MAR
 add_core = BAH
 add_core = AHM
 discovered_by = indian

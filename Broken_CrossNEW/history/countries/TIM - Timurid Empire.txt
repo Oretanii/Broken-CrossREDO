@@ -6,7 +6,7 @@ religion = sunni
 government = monarchy
 add_government_reform = iqta
 government_rank = 3
-capital = 522 # Delhi
+capital = 454 # Samarkand
 historical_rival = DLH
 historical_rival = MUL
 religious_school = hanafi_school
@@ -50,7 +50,7 @@ religious_school = hanafi_school
 }
 
 1409.1.1 = {
-	capital = 446
+	capital = 522 # Delhi
 	monarch = {
 		name = "Shah Rukh"
 		birth_date = 1377.8.20

@@ -1,7 +1,7 @@
 #527 - Khandesh
 
-owner = KHD
-controller = KHD
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Thalner"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+add_core = MAR
 add_core = KHD
 discovered_by = indian
 discovered_by = Dhimmi discovered_by = muslim

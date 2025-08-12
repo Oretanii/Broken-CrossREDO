@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = MAR
 add_core = BIJ
 add_core = VIJ
 add_local_autonomy = 75
@@ -22,8 +23,8 @@ discovered_by = chinese
 discovered_by = east_african
 
 1380.1.1 = {
-	controller = VIJ
-	owner = VIJ
+	controller = MAR
+	owner = MAR
 } # Taken by Harihara II
 1444.1.1 = { add_core = BAH }
 1469.1.1 = { controller = BAH } # Taken by Bahmanis

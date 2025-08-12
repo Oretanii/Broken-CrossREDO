@@ -23,9 +23,9 @@ extra_cost = 8
 center_of_trade = 1
 
 1432.1.1 = {
-	owner = GUJ
+	owner = AHM
 	add_core = GUJ
-	controller = GUJ
+	controller = AHM
 	add_core = BAH
 }
 1498.1.1 = { discovered_by = POR }

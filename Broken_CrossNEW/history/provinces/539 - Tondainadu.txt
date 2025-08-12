@@ -1,7 +1,7 @@
 #539 - Pulicat
 
-owner = VIJ
-controller = VIJ
+owner = MAD
+controller = MAD
 culture = tamil
 religion = hinduism
 capital = "Pulicat"
@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = MAD
 add_core = VIJ
 add_local_autonomy = 50
 discovered_by = indian

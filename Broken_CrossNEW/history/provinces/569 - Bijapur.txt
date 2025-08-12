@@ -1,7 +1,7 @@
 #569 - Bijapur
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = kannada
 religion = hinduism
 capital = "Bijapur"
@@ -12,6 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 estate = estate_nobles
+add_core = MAR
 add_core = BAH
 add_core = BIJ
 discovered_by = nomad_group

@@ -1,7 +1,7 @@
 #2036 - Baglana
 
-owner = BGA
-controller = BGA
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Mayuragiri"
@@ -11,6 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+add_core = MAR
 add_core = BGA
 discovered_by = indian
 discovered_by = Dhimmi discovered_by = muslim 

@@ -1,7 +1,7 @@
 #4437 - Paithre
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = marathi
 religion = hinduism
 capital = "Paithre"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+add_core = MAR
 add_core = BAH
 add_core = AHM
 discovered_by = indian

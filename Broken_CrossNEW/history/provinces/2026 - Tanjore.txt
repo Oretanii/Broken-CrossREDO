@@ -1,7 +1,7 @@
 #2026 - Tanjore 
 
-owner = VIJ
-controller = VIJ
+owner = MAD
+controller = MAD
 culture = tamil
 religion = hinduism
 capital = "Thanjavur"
