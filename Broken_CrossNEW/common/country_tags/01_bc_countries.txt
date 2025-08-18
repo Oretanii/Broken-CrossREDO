@@ -26,6 +26,7 @@ BRD = "countries/Bretland.txt"
 BRL = "countries/Celtica.txt"
 NSX = "countries/NewSaxony.txt"
 SKS = "countries/Saksuns.txt"
+LIL = "countries/LordshipOfIreland.txt"
 
 #Eastern Europe
 TUP = "countries/Minsk.txt"

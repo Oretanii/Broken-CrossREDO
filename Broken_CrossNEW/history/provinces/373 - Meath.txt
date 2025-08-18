@@ -1,10 +1,11 @@
 #373 - Meath
 
-owner = MTH
-controller = MTH
+owner = LIL
+controller = LIL
+add_core = LIL
 add_core = MTH
 culture = norsanglic
-religion = insular
+religion = norse_pagan_reformed
 hre = no
 base_tax = 3
 base_production = 3

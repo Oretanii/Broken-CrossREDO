@@ -1,7 +1,7 @@
 #4121 - Ulster
 
-owner = ULS
-controller = ULS
+owner = LIL
+controller = LIL
 culture = norsanglic
 religion = chalcedonism
 hre = no
@@ -11,6 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Carrickfergus"
 is_city = yes
+add_core = LIL
 add_core = ULS
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
