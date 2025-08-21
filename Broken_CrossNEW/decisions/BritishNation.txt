@@ -23,8 +23,8 @@ country_decisions = {
 			NOT = { tag = AVE }
 			NOT = { has_country_flag = eng_took_ave_branch }
 			OR = {
-				culture_group = british
-				primary_culture = highland_scottish
+				#culture_group = british 	#saxons will get a different formable
+				primary_culture = anglois
 				tag = ENG
 			}
 			OR = {

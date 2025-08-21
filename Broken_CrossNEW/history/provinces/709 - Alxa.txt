@@ -1,7 +1,8 @@
 #709 - Alxa
 
-owner = OIR
-controller = OIR
+owner = YUA
+controller = YUA
+add_core = YUA
 add_core = OIR
 culture = mongol
 religion = vajrayana

@@ -1,7 +1,7 @@
 #4261 - Ustyuzhna
 
-owner = BLO
-controller = BLO
+owner = TEU
+controller = TEU
 culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
@@ -11,6 +11,7 @@ trade_goods = naval_supplies
 base_manpower = 1
 capital = "Ustyuzhna"
 is_city = yes
+add_core = TEU
 add_core = BLO
 discovered_by = eastern
 discovered_by = western

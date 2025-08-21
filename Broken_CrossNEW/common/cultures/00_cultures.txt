@@ -731,6 +731,7 @@ british	= {
 		}
 	}
 	anglosaxon = { #CK2
+		primary = ANG
 		dynasty_names = {
 			Godhelming Beorming Eorling Æbbing Hæsting Ælling Eadricing Eadwulfing Leodwalding
 			Æthelfrithing Yffing Ingving Offing Oswalding Cerdicing Wiglafing Coenwalhing

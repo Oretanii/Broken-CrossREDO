@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal #Isfara
 }
 
-owner = TRS
-controller = TRS
+owner = ZUN
+controller = ZUN
 culture = kirgiz
 religion = sunni
 capital = "Uzkend"
@@ -16,7 +16,7 @@ base_production = 4
 base_manpower = 4
 add_core = KOK
 add_core = CHG
-add_core = TRS
+add_core = ZUN
 estate = estate_nobles
 is_city = yes
 discovered_by = Dhimmi 

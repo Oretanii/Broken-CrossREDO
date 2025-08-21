@@ -3,6 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = cosmopolitan_french
 religion = chalcedonism
 technology_group = western
+elector = yes
 capital = 183 # Paris
 national_focus = DIP
 

@@ -3,6 +3,10 @@ add_government_reform = feudalism_reform
 technology_group = western
 primary_culture = anglosaxon
 religion = chalcedonism
+historical_rival = NOL
+historical_rival = LNC
+historical_rival = SKS
+historical_rival = NRM
 capital = 236	# London
 
 1441.8.15 = {

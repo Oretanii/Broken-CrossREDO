@@ -1,8 +1,8 @@
 #2428 - Yugan
 
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = BLH
+controller = BLH
+add_core = BLH
 add_core = SHY
 culture = ostyaki
 religion = sunni

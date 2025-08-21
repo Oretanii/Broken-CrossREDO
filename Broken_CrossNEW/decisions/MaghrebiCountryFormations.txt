@@ -15,6 +15,9 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = CAF }
+			NOT = { tag = IDS }
+			NOT = { tag = ALM }
+			NOT = { tag = AMZ }
 			OR = {
 				primary_culture = moroccan
 				primary_culture = berber
@@ -297,6 +300,9 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = CAF }
+			NOT = { tag = IDS }
+			NOT = { tag = ALM }
+			NOT = { tag = AMZ }
 			OR = {
 				primary_culture = tunisian
 				primary_culture = berber

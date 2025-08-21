@@ -105,5 +105,5 @@ army_names = {
 }
 
 fleet_names = {
-	"Pontus Sea Squadron" Aegean Sea Squadron" "Jabal Tariq Squadron" 
+	"Pontus Sea Squadron" "Aegean Sea Squadron" "Jabal Tariq Squadron" 
 }

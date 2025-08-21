@@ -1,7 +1,8 @@
 # 2120 - Ili
 
-owner = CHG
-controller = CHG
+owner = ZUN
+controller = ZUN
+add_core = ZUN
 add_core = CHG
 culture = uyghur
 religion = sunni

@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+primary_culture = anglosaxon
+religion = chalcedonism
+historical_rival = NOL
+historical_rival = ENG
+historical_rival = SKS
+historical_rival = NRM
+capital = 236	# London
+
+1441.8.15 = {
+	monarch = {
+		name = "Harold III"
+		dynasty = "Godwinson"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -19,6 +19,7 @@ country_decisions = {
 			NOT = { tag = PRU }
 			NOT = { tag = ENG }
 			NOT = { tag = CAF }
+			NOT = { tag = YNN }
 			is_emperor_of_china = no
 			primary_culture = yunanian
 			is_colonial_nation = no
@@ -53,7 +54,6 @@ country_decisions = {
 			religion_group = muslim
 			NOT = { exists = RUM }
 			NOT = { exists = BYZ }
-			NOT = { exists = HSN }
 				owns_core_province = 151		# Constantinople
 				owns_core_province = 316		# Iznik
 				owns_core_province = 323		# Konya

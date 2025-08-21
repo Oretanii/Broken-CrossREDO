@@ -1,9 +1,9 @@
 # 2126 - Chuy
 
-owner = TRS
-controller = TRS
+owner = ZUN
+controller = ZUN
 add_core = CHG
-add_core = TRS
+add_core = ZUN
 culture = kirgiz
 religion = sunni
 capital = "Chuy"

@@ -4,29 +4,34 @@ graphical_culture = westerngfx
 
 color = { 131  138  116 }
 
+revolutionary_colors = { 5  13  0 }
+
+preferred_religion = protestant
+
 historical_idea_groups = {
-	defensive_ideas
-	trade_ideas
-	religious_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
 	maritime_ideas
-	spy_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
 }
 
 historical_units = {
 	western_medieval_infantry
 	chevauchee
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
 	french_caracolle
+	irish_charge
 	anglofrench_line
 	french_dragoon
-	french_bluecoat
-	french_cuirassier
-	french_impulse
+	british_redcoat
+	british_hussar
+	british_square
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square

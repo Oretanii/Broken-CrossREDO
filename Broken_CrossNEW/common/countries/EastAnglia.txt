@@ -5,24 +5,24 @@ graphical_culture = westerngfx
 color = { 0 0 230 }
 
 historical_idea_groups = {
-	maritime_ideas
-	aristocracy_ideas
-	trade_ideas
-	economic_ideas
-	religious_ideas
-	innovativeness_ideas
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
 	offensive_ideas
-	spy_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
-	western_longbow
+	gaelic_galloglaigh
 	gaelic_mercenary
 	gaelic_free_shooter
 	irish_charge
-	anglofrench_line
+	scottish_highlander
 	british_redcoat
 	british_hussar
 	british_square
@@ -32,53 +32,70 @@ historical_units = {
 	napoleonic_lancers
 }
 
-#Norsanglic Language names only!
+leader_names = {
+	Adam Alexander
+	Bruce Beaton Boyd
+	Cameron Campbell Cochrane Crichton Cunynghame Crawford Carnegie Colyear
+	Douglas Duncan "de Dunbar" Dalzell Drummond
+	Erskine
+	Forbes Ferguson Fletcher Fleming
+	Gordon Graham Gilchrist
+	Hume Hepburn Hamilton
+	Johnstone
+	Knox Keith Kerr
+	Law Leslie Livingston Lindsay
+	MacKenzie MacDonald MacGregor Malise MacTaggart Montgomerie Maxwell Murray Maitland
+	Nasmyth
+	Ogilvy
+	Playfair Paterson
+	Raeburn Randolph Ruthven
+	Selkirk Strathbogie Sinclair Stewart Seton
+	Wilkie Wishart Wemyss	
+}
+
 monarch_names = {
-	"Yohn #0" = 10
-	"Olav #0" = 10
-	"Erick #0" = 10
-	"Frederick #0" = 10
-	"Christoffer #0" = 10
-	"Egmund #0" = 10
-	"Harold #0" = 10
-	"Henrick #0" = 10
-	"Inge #0" = 5
-	"Sigurd #0" = 5
-	"Gisse #0" = 0
-	"Yacob #0" = 0
-	"Arie #0" = 0
-	"Anders #0" = 0
-	"Ansgard #0" = 0
-	"Arwid #0" = 0
-	"Bernt #0" = 0
-	"Birge #0" = 0
-	"Bern #0" = 0
-	"Daniel #0" = 0
-	"Edward #0" = 0
-	"Ilert #0" = 0
-	"Inar #0" = 0
-	"Elias #0" = 0
-	"Esben #0" = 0
-	"Gunnar #0" = 0
-	"Casper #0" = 0
-	"Kenneth #0" = 0
-	"Knuth #0" = 0
-	"Ludwig #0" = 0
-	"Michael #0" = 0
-	"Nord #0" = 0
-	"Oddmund #0" = 0
-	"Peter #0" = 0
-	"Ricard #0" = 0
-	"Simon #0" = 0
-	"Seren #0" = 0
-	"Tollack #0" = 0
-	"Torild #0" = 0
-	
-	"Margareth #0" = -5
-	"Christina #0" = -5
-	"Hedwig #0" = -5
-	"Sofie #0" = -5
-	"Selma #0" = -1
-	"Louise #0" = -1
-	"Anne #0" = -1
+	"James #0" = 120
+	"Robert #2" = 20
+	"Henry #0" = 20
+	"Alexander #3" = 10
+	"Arthur #0" = 10
+	"Walter #0" = 10
+	"John #1" = 5
+	"Charles #0" = 5
+	"Malcolm #4" = 1
+	"Donald #3" = 1
+	"David #2" = 1
+	"Duncan #2" = 1
+	"Andrea #0" = 0
+	"Alan #0" = 0
+	"Ailpein #0" = 0
+	"Archibald #0" = 0
+	"Barclay #0" = 0
+	"Beathan #0" = 0
+	"Bruce #0" = 0
+	"Cameron #0" = 0
+	"Cináed #0" = 0
+	"Conall #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Edan #0" = 0
+	"Evander #0" = 0
+	"Fraser #0" = 0
+	"Garry #0" = 0
+	"Glen #0" = 0
+	"Ian #0" = 0
+	"Keir #0" = 0
+	"Kennedy #0" = 0
+	"Lennox #0" = 0
+	"Logan #0" = 0
+	"Micheil #0" = 0
+	"Mungo #0" = 0
+	"Munroe #0" = 0
+	"Scott #0" = 0
+	"Wallace #0" = 0
+	"Mary #0" = -10
+	"Elizabeth #0" = -1
+	"Margaret  #0" = -1
+	"Euphemia #0" = -1
+	"Anabella  #0" = -1
 }

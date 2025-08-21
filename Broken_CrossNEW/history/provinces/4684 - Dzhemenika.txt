@@ -1,7 +1,8 @@
 # 4684 - Dzhemenika
 
-owner = OIR
-controller = OIR
+owner = BLH
+controller = BLH
+add_core = BLH
 add_core = OIR
 culture = oirats
 religion = sunni

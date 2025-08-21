@@ -1,7 +1,7 @@
 # 2369 - Lower Ishim
 
-owner = KZH
-controller = KZH
+owner = BLH
+controller = BLH
 culture = khazak
 religion = sunni
 capital = "Zhanibek"
@@ -11,6 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+add_core = BLH
 add_core = KZH
 add_core = SHY
 

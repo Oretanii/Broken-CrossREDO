@@ -1,7 +1,7 @@
 technology_group = muslim
 primary_culture = uzbehk
-add_accepted_culture = khorasani
-add_accepted_culture = persian
+add_accepted_culture = kanauji
+add_accepted_culture = panjabi
 religion = sunni
 government = monarchy
 add_government_reform = iqta

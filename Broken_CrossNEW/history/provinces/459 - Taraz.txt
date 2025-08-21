@@ -1,9 +1,9 @@
 #459 - Taraz
 
-owner = TRS
-controller = TRS
+owner = ZUN
+controller = ZUN
 add_core = CHG
-add_core = TRS
+add_core = ZUN
 culture = khazak
 religion = sunni
 capital = "Taraz"

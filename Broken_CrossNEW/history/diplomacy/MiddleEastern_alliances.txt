@@ -1,6 +1,6 @@
-#Babur bin Baysonqor
+Babur bin Baysonqor
 vassal = {
-	first = TRS
+	first = KIZ
 	second = KHO
 	start_date = 1444.1.1
 	end_date = 1447.3.13 #Death of Shah Rokh

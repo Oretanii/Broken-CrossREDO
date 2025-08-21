@@ -1,8 +1,8 @@
 #2429 - Agan
 
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = BLH
+controller = BLH
+add_core = BLH
 add_core = SIB
 culture = ostyaki
 religion = sunni

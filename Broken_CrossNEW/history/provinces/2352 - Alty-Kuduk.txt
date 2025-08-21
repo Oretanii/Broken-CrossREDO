@@ -1,7 +1,7 @@
 # 2352 - Alty-Kuduk
 
-owner = KZH
-controller = KZH
+owner = BLH
+controller = BLH
 culture = khazak
 religion = sunni
 capital = "Alty-Kuduk"
@@ -10,6 +10,8 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
+add_core = BLH
+add_core = KZH
 add_core = SHY
 
 

@@ -1,7 +1,7 @@
 #1970 - Syghnak
 
-owner = TRS
-controller = TRS
+owner = KZH
+controller = KZH
 culture = khazak
 religion = sunni
 capital = "Syghnak"
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 2
 hre = no
 add_core = SHY
-add_core = TRS
+add_core = KZH
 discovered_by = KAS
 discovered_by = Dhimmi
  discovered_by = muslim

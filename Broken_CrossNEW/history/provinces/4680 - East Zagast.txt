@@ -1,5 +1,6 @@
-owner = OIR
-controller = OIR
+owner = BLH
+controller = BLH
+add_core = BLH
 add_core = OIR
 culture = khalkha
 religion = tengri_pagan_reformed

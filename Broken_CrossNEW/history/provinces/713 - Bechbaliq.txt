@@ -1,7 +1,8 @@
 #713 - Kuruk Tag
 
-owner = CHG
-controller = CHG
+owner = ZUN
+controller = ZUN
+add_core = ZUN
 add_core = CHG
 culture = uyghur
 religion = tengri_pagan_reformed

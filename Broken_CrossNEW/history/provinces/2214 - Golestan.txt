@@ -1,7 +1,7 @@
 #2214 - Golestan
 
-owner = TRS # Babur Ibn-Baysunkur
-controller = TRS
+owner = TAB # Babur Ibn-Baysunkur
+controller = TAB
 culture = mazandarani
 religion = sunni
 capital = "Asatarabad"
@@ -12,7 +12,6 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = TRS
 add_core = KHO
 add_core = TAB
 discovered_by = Dhimmi discovered_by = muslim

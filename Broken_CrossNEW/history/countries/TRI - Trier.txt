@@ -1,7 +1,7 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
 technology_group = western
-elector = yes
+#elector = yes
 religion = chalcedonism
 primary_culture = hessian
 capital = 80	# Trier

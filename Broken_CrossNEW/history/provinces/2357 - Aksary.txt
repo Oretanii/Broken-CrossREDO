@@ -1,7 +1,7 @@
 # 2357 - Aksary
 
-owner = KZH
-controller = KZH
+owner = BLH
+controller = BLH
 culture = khazak
 religion = sunni
 capital = "Aksary"
@@ -11,6 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+add_core = BLH
 add_core = SHY
 add_core = KZH
 

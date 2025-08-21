@@ -17,8 +17,9 @@ country_decisions = {
 			NOT = { tag = PAP }
 			OR = {
 				primary_culture = english
-				primary_culture = anglosaxon
+				#primary_culture = anglosaxon	#they should get their own formable
 				primary_culture = anglois
+				primary_culture = normand
 				#primary_culture = saksun	#they should get their own formable
 				tag = NRM	#norman invasion
 				tag = KOI
@@ -67,11 +68,12 @@ country_decisions = {
 			swap_non_generic_missions = yes
 			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
-			primary_culture = english
+			change_primary_culture = anglois
+			add_accepted_culture = normand
 			if = {
 				limit = {
 					OR = { 
-						primary_culture = norman
+						primary_culture = normand
 						tag = NRM
 					}
 				}
@@ -79,7 +81,7 @@ country_decisions = {
 			}
 			if = {
 				limit = {
-					236 = { culture = norsanglic }
+					236 = { culture = anglosaxon }
 				}
 				236 = { change_culture = anglois }
 			}

@@ -1,7 +1,8 @@
 #4206 - Balikul
 
-owner = OIR		# The Oirads united much of Mongolia
-controller = OIR
+owner = ZUN		# The Oirads united much of Mongolia
+controller = ZUN
+add_core = ZUN
 add_core = OIR
 culture = oirats
 religion = tengri_pagan_reformed

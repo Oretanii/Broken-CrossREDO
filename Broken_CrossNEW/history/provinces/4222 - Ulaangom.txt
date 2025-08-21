@@ -1,7 +1,8 @@
 #4222 - Ulaangom
 
-owner = OIR		# The Oirads united much of Mongolia
-controller = OIR
+owner = BLH		# The Oirads united much of Mongolia
+controller = BLH
+add_core = BLH
 add_core = OIR
 culture = oirats
 religion = tengri_pagan_reformed

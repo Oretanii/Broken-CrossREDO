@@ -27,6 +27,7 @@ BRL = "countries/Celtica.txt"
 NSX = "countries/NewSaxony.txt"
 SKS = "countries/Saksuns.txt"
 LIL = "countries/LordshipOfIreland.txt"
+ANG = "countries/Saxland.txt"
 
 #Eastern Europe
 TUP = "countries/Minsk.txt"
@@ -75,6 +76,9 @@ QUR = "countries/Qurais.txt"
 
 #Middle East
 KIZ = "countries/Kizilmans.txt"
+
+#Central Asia
+BLH = "countries/BlackHorde.txt"
 
 #North Africa
 IDS = "countries/Idrisids.txt"

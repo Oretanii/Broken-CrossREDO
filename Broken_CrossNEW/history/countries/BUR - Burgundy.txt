@@ -5,6 +5,7 @@ primary_culture = burgundian
 add_accepted_culture = wallonian
 religion = chalcedonism
 technology_group = western
+elector = yes
 capital = 192	# Dijon
 add_army_professionalism = 0.1
 

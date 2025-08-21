@@ -1,7 +1,7 @@
 #479 - Kerey
 
-owner = KZH
-controller = KZH
+owner = BLH
+controller = BLH
 culture = khazak
 religion = sunni
 capital = "Kerey"
@@ -10,6 +10,8 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
+add_core = BLH
+add_core = KZH
 add_core = SHY
 
 

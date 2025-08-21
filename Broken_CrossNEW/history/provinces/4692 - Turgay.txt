@@ -1,7 +1,7 @@
 # 4692 - Turgay
 
-owner = KZH
-controller = KZH
+owner = BLH
+controller = BLH
 culture = khazak
 religion = sunni
 capital = "Zhakeikin"
@@ -10,7 +10,10 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
+add_core = BLH
+add_core = KZH
 add_core = SHY
+
 
 
 

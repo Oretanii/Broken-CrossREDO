@@ -1,7 +1,8 @@
 #X2 - Turpan
 
-owner = CHG		# ruled by a Chagataiid 
-controller = CHG
+owner = ZUN		# ruled by a Chagataiid 
+controller = ZUN
+add_core = ZUN
 add_core = CHG
 culture = uyghur
 religion = tengri_pagan_reformed

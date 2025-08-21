@@ -1,0 +1,44 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+secondary_religion = sunni
+primary_culture = oirats
+add_accepted_culture = khazak
+capital = 476 #Kypshak
+historical_rival = GOL
+historical_rival = YUA
+historical_rival = TRS
+historical_rival = KIZ
+historical_rival = NOG
+historical_rival = KAZ
+
+#set_country_flag = golden_strife_target
+
+1436.4.2 = { 
+	monarch = { 
+		name = "Kulug" 
+		dynasty = "Borjigin"
+		culture = mongol
+       		birth_date = 1403.8.6
+		death_date = 1453.4.13
+		dip = 3 
+		adm = 3
+		mil = 4
+	}
+}
+1441.4.2 = { 
+	heir = { 
+		name = "Jayaatu" 
+		dynasty = "Borjigin"
+		culture = mongol
+        	birth_date = 1440.7.16
+		death_date = 1501.2.25
+		claim = 80
+		dip = 2 
+		adm = 2
+		mil = 5
+	}
+}
+
