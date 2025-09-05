@@ -1,6 +1,6 @@
 government = theocracy
 add_government_reform = monastic_order_reform
-government_rank = 1
+government_rank = 2
 primary_culture = baltic_german
 add_accepted_culture = novgorodian
 add_accepted_culture = russian
