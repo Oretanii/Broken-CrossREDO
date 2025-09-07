@@ -2,7 +2,7 @@
 
 owner = LXA
 controller = LXA
-culture = khmer
+culture = kuy
 religion = buddhism
 capital = "Khukhan"
 trade_goods = grain
