@@ -1,7 +1,7 @@
 #341 - Tunis
 
-owner = TUN
-controller = TUN 
+owner = SQL
+controller = SQL 
 culture = tunisian
 religion =  shiite
 capital = "Tunis"
@@ -12,6 +12,7 @@ base_production = 6
 base_manpower = 2
 is_city = yes
 add_core = TUN
+add_core = SQL
 discovered_by = western
 discovered_by = eastern
 discovered_by = Dhimmi discovered_by = muslim

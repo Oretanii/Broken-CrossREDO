@@ -1,7 +1,7 @@
 # - Bizerte
 
-owner = TUN
-controller = TUN
+owner = SQL
+controller = SQL
 culture = tunisian
 religion =  shiite
 capital = "Bizerte"
@@ -13,7 +13,7 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 add_core = TUN
-
+add_core = SQL
 
 
 discovered_by = Dhimmi 

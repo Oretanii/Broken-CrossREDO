@@ -1,7 +1,7 @@
 #352 - Gafsa
 
-owner = GHD
-controller = GHD 
+owner = FZA
+controller = FZA 
 culture = tunisian
 religion = ibadi
 capital = "Gafsa"
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = GHD
-
+add_core = FZA
 
 
 discovered_by = western

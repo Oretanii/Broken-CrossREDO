@@ -1,17 +1,19 @@
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
-primary_culture = tunisian
+primary_culture = sahrawi
 religion = ibadi
+add_accepted_culture = tunisian
 technology_group = muslim
 capital = 2448	# Murzuk
 fixed_capital = 2448 # Cannot move capital away from this province & no power cost to move to it
 
+1400.1.1 = { capital = 354 } # Tripoli
 
 1440.1.1 = {
 	monarch = {
 		name = "Abdûlazzâ"
-		dynasty = "Banu Sulaym"
+		dynasty = "Banu Hilal"
 		adm = 0
 		dip = 0
 		mil = 1
@@ -21,7 +23,7 @@ fixed_capital = 2448 # Cannot move capital away from this province & no power co
 1480.1.1 = {
 	monarch = {
 		name = "Abdûlazzâ II"
-		dynasty = "Banu Sulaym"
+		dynasty = "Banu Hilal"
 		adm = 1
 		dip = 0
 		mil = 1
@@ -31,7 +33,7 @@ fixed_capital = 2448 # Cannot move capital away from this province & no power co
 1520.1.1 = {
 	monarch = {
 		name = "Abdûlazzâ III"
-		dynasty = "Banu Sulaym"
+		dynasty = "Banu Hilal"
 		adm = 1
 		dip = 0
 		mil = 1

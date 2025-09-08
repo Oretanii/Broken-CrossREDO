@@ -83,6 +83,7 @@ BLH = "countries/BlackHorde.txt"
 #North Africa
 IDS = "countries/Idrisids.txt"
 ALM = "countries/Almohads.txt"
+NMD = "countries/Numidia.txt"
 
 #West Africa
 AMZ = "countries/Almanzorids.txt"

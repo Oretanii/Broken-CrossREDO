@@ -18,6 +18,8 @@ country_decisions = {
 			NOT = { tag = IDS }
 			NOT = { tag = ALM }
 			NOT = { tag = AMZ }
+			NOT = { tag = TLC }
+			NOT = { tag = NMD }
 			OR = {
 				primary_culture = moroccan
 				primary_culture = berber
@@ -152,6 +154,7 @@ country_decisions = {
 			NOT = { tag = ALG }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = NMD }
 			OR = {
 				primary_culture = algerian
 				AND = {
@@ -303,6 +306,8 @@ country_decisions = {
 			NOT = { tag = IDS }
 			NOT = { tag = ALM }
 			NOT = { tag = AMZ }
+			NOT = { tag = TLC }
+			NOT = { tag = NMD }
 			OR = {
 				primary_culture = tunisian
 				primary_culture = berber
@@ -412,6 +417,8 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = CAF }
+			NOT = { tag = FZA }
+			NOT = { tag = NMD }
 			OR = {
 				primary_culture = tunisian
 				primary_culture = berber
