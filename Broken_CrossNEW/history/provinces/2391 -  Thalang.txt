@@ -2,7 +2,7 @@
 
 owner = LIG
 controller = LIG
-culture = malayan
+culture = dambro
 religion = sunni
 capital = "Thalang"
 trade_goods = fish

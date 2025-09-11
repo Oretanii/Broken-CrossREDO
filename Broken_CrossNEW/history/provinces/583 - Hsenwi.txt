@@ -2,7 +2,7 @@
 
 owner = HSE
 controller = HSE
-culture = shan
+culture = nakhi
 religion = buddhism
 capital = "Hsenwi"
 trade_goods = tropical_wood

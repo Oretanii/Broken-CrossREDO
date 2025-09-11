@@ -2,7 +2,7 @@
 
 owner = AYU
 controller = AYU
-culture = khmer
+culture = dvaravati
 religion = buddhism
 capital = "Khorat"
 trade_goods = silk

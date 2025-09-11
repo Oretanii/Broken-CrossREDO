@@ -2,7 +2,7 @@
 
 owner = HSI
 controller = HSI
-culture = shan
+culture = karen
 religion = buddhism
 capital = "Yawnghwe"
 trade_goods = cotton

@@ -2,7 +2,7 @@
 
 owner = MNI
 controller = MNI
-culture = shan
+culture = phu
 religion = buddhism
 capital = "Mong Nai"
 trade_goods = cotton

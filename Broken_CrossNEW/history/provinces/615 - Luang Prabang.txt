@@ -2,7 +2,7 @@
 
 owner = LXA
 controller = LXA
-culture = lao
+culture = phu
 religion = buddhism
 capital = "Xieng Tong"
 trade_goods = chinaware

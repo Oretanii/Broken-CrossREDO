@@ -2,7 +2,7 @@
 
 owner = DAI
 controller = DAI
-culture = lao
+culture = phu
 religion = mahayana
 capital = "Song La"
 trade_goods = tea

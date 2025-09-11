@@ -2,7 +2,7 @@
 
 owner = AVA
 controller = AVA
-culture = burmese
+culture = nakhi
 religion = buddhism
 capital = "Sagaing"
 trade_goods = cotton

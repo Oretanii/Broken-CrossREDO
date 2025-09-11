@@ -2,7 +2,7 @@
 
 owner = AVA
 controller = AVA
-culture = burmese
+culture = chin
 religion = buddhism
 capital = "Pagan"
 trade_goods = tropical_wood

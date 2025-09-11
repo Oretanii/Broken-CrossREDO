@@ -2,7 +2,7 @@
 
 owner = SUK
 controller = SUK
-culture = central_thai
+culture = yonok
 religion = buddhism
 capital = "Sukhothai"
 trade_goods = chinaware
