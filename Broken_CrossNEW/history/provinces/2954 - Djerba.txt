@@ -1,7 +1,7 @@
 #2954 - Djerba
 
-owner = TUN
-controller = TUN 
+owner = FZA
+controller = FZA 
 culture = tunisian
 religion = ibadi
 capital = "Djerba"
@@ -14,6 +14,7 @@ fort_15th = yes #Borj El K'bir
 is_city = yes
 add_core = TUN
 add_core = TRP
+add_core = FZA
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman

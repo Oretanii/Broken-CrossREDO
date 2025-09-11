@@ -4245,6 +4245,29 @@ turko_semitic = { #Levantine
 			Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
 		}
 	}
+	sahrawi = {
+		primary = FZA
+		dynasty_names = {
+			"Saadi" "al-Shabani" "Wattassid" "al-Dila'i" "al-Tadsi" "al-Ilighi" "Banu Muhammad" "Banu Rashid" "Banu Kinanah"
+		}
+		male_names = {
+			Muhammad Ahmad 'Abdallâh 'Abd al-Malik 'Alî 'Uthmân 'Abd al-Haqq Isma'îl Yahyâ 'al-Walîd al-Mustadî 
+			al-Rashîd Hishâm Idrîsid Sulaymân Zaydân Zayn 'Abd ar-Rahmân al-Yazîd Mansur Muhraz Nasir Abû Faris 
+			Abû Merwan al-Talib Hammada Hasam Hashim Ibrahim Ja'far Maimun Maslama Said Umar Yûsuf Ataullah 
+			Rasul Zulfiqar Abbas Jabril Abakada Abazza Abbas Abbas Abdul Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem 
+			Abdul-Rahman Abdullah Abdullah Abidin Adal Adam Adam Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas 
+			Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ahmad 
+			Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel Caecilius Aksil Caecilius Akutla Akzer Al'a'addin Ali Ali 
+			Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri
+		}
+		female_names = {
+			Thamina Widad Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha 
+			Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Ittû 
+			Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa 
+			Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica 
+			Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+		}
+	}
 	tunisian = {
 		primary = TUN
 		dynasty_names = {

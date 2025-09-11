@@ -1,7 +1,7 @@
 #353 - Tataouine
 
-owner = TUN
-controller = TUN 
+owner = FZA
+controller = FZA 
 culture = tunisian
 religion =  shiite
 capital = "Tataouine"
@@ -13,6 +13,7 @@ base_manpower = 1
 is_city = yes
 add_core = TUN
 add_core = TRP
+add_core = FZA
 
 
 

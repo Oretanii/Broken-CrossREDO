@@ -1,7 +1,7 @@
 # - Titteri
 
-owner = TLC
-controller = TLC
+owner = NMD
+controller = NMD
 culture = algerian
 religion = sunni
 capital = "Medea"
@@ -12,7 +12,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 estate = estate_nobles
-add_core = TLC
+add_core = NMD
 add_core = ALG
 
 

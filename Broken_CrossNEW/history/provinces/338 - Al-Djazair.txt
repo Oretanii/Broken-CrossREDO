@@ -1,7 +1,7 @@
 #338 - Al-Djazair
 
-owner = TUN
-controller = TUN 
+owner = NMD
+controller = NMD
 culture = algerian
 religion = sunni
 capital = "Al-Djazair"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = TUN
+add_core = NMD
 add_core = ALG
 discovered_by = western
 discovered_by = Dhimmi discovered_by = muslim

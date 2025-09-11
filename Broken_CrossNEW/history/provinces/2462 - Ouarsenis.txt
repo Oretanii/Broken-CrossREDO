@@ -1,7 +1,7 @@
 # - Ouarsenis
 
-owner = TLC
-controller = TLC
+owner = NMD
+controller = NMD
 culture = berber
 religion = sunni
 capital = "Ouarsenis"
@@ -12,7 +12,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = TLC
+add_core = NMD
 add_core = ALG
 discovered_by = Dhimmi 
 discovered_by = muslim

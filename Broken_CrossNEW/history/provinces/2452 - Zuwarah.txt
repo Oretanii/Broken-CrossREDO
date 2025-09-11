@@ -1,7 +1,7 @@
 # - Zuwarah
 
-owner = TUN
-controller = TUN 
+owner = FZA
+controller = FZA 
 culture = tunisian
 religion = ibadi
 capital = "Zuwarah"
@@ -13,7 +13,7 @@ base_manpower = 1
 is_city = yes
 add_core = TUN
 add_core = TRP
-
+add_core = FZA
 
 
 discovered_by = western

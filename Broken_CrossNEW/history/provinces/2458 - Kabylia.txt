@@ -1,7 +1,7 @@
 # - Hodna
 
-owner = TUN
-controller = TUN
+owner = NMD
+controller = NMD
 culture = algerian
 religion = sunni
 capital = "Msila"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
+add_core = NMD
 add_core = KBA
 
 

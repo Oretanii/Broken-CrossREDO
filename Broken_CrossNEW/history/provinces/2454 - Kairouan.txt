@@ -1,7 +1,7 @@
 # - El Kef
 
-owner = TUN
-controller = TUN 
+owner = FZA
+controller = FZA 
 culture = tunisian
 religion =   shiite
 capital = "El Kef"
@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = TUN
+add_core = FZA
 fort_15th = yes #El Kef fortifications
 
 
