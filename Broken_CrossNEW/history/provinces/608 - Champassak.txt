@@ -2,7 +2,7 @@
 
 owner = LXA
 controller = LXA
-culture = lao
+culture = kuy
 religion = buddhism
 capital = "Champasak"
 trade_goods = tea

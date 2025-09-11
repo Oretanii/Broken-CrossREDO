@@ -2,7 +2,7 @@
 
 owner = AVA
 controller = AVA
-culture = burmese
+culture = nakhi
 religion = buddhism
 capital = "Ava"
 trade_goods = gems #Burmese Emerald/Myanmar Jade

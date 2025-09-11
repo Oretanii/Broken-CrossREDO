@@ -2,7 +2,7 @@
 
 owner = AVA
 controller = AVA
-culture = burmese
+culture = karen
 religion = buddhism
 capital = "Yamethin"
 trade_goods = ivory

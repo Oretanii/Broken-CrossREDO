@@ -2,7 +2,7 @@
 
 owner = TAU
 controller = TAU
-culture = burmese
+culture = paoo
 religion = buddhism
 capital = "Toungoo"
 trade_goods = chinaware

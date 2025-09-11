@@ -2,7 +2,7 @@
 
 owner = LXA
 controller = LXA
-culture = lao
+culture = siem
 religion = buddhism
 capital = "Luang Namtha"
 trade_goods = copper

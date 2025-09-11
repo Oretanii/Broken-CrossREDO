@@ -2,7 +2,7 @@
 
 owner = LXA
 controller = LXA
-culture = lao
+culture = phu
 religion = buddhism
 capital = "Muang Khoun"
 trade_goods = grain

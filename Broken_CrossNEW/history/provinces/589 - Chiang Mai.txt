@@ -2,7 +2,7 @@
 
 owner = LNA
 controller = LNA
-culture = northern_thai
+culture = yonok
 religion = buddhism
 capital = "Chiang Mai"
 trade_goods = ivory 

@@ -2,7 +2,7 @@
 
 owner = AVA
 controller = AVA
-culture = burmese
+culture = chin
 religion = buddhism
 capital = "Tabayin"
 trade_goods = cotton

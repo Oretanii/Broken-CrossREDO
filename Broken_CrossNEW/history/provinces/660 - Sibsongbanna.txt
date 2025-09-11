@@ -3,7 +3,7 @@
 owner = MMA
 controller = MMA
 add_core = MMA
-culture = shan
+culture = phu
 religion = buddhism
 capital = "Sibsongbanna"
 trade_goods = tea

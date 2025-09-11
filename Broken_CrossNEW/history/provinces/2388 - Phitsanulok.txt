@@ -2,7 +2,7 @@
 
 owner = AYU 
 controller = AYU
-culture = central_thai
+culture = thai_khmer
 religion = buddhism
 capital = "Phitsanulok"
 trade_goods = livestock

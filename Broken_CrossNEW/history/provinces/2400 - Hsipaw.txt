@@ -2,7 +2,7 @@
 
 owner = HSI
 controller = HSI
-culture = shan
+culture = nakhi
 religion = buddhism
 capital = "Hsipaw"
 trade_goods = grain

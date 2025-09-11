@@ -2,7 +2,7 @@
 
 owner = AYU
 controller = AYU
-culture = mon
+culture = dambro
 religion = buddhism
 capital = "Mergui"
 trade_goods = chinaware

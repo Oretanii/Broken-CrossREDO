@@ -2,7 +2,7 @@
 
 owner = MPA
 controller = MPA
-culture = shan
+culture = phu
 religion = animism
 capital = "Mawkmai"
 trade_goods = grain
