@@ -1,0 +1,224 @@
+shijia = {
+	tolerance_heretic = 2
+	advisor_cost = -0.1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 1
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}		
+	}
+}
+
+amituofo = {
+	global_trade_power = 0.1
+	local_production_efficiency = 0.1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 2
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}		
+	}	
+}
+
+mile = {
+	reinforce_speed = 0.10
+	land_morale = 0.10
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 3
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+yaoshifo = {
+	global_unrest = 2
+	development_cost = -0.1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 4
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}		
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}					
+	}	
+}
+
+dari_rulai = {
+	tolerance_own = 1
+	idea_cost = -0.1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 5
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}		
+	}
+}
+
+guanyin = {
+	global_missionary_strength = 0.02
+	war_exhaustion = -0.03
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 6
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}		
+	}
+}
+
+puxian = {
+	missionaries = 1
+	stability_cost_modifier = -0.1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 7
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}		
+	}
+}
+
+wenshu = {
+	technology_cost = -0.05
+	institution_spread_from_true_faith = 0.15
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 8
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+wenshu = {
+	adm_tech_cost_modifier = -0.1
+	diplomatic_reputation = 1
+	
+	potential = { religion = fajiao }
+	
+	trigger = {}
+	sprite = 9
+	
+	effect = {}
+	removed_effect = {}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
