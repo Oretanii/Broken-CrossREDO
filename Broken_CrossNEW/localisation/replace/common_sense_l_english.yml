@@ -1,0 +1,8 @@
+﻿l_english:
+ karma_just_right:0 "Neutral Piety"
+ karma_too_high:0 "High Piety"
+ karma_too_low:0 "Low Piety"
+ KARMA_JUST_RIGHT_DESC:0 "Zahir between $LOW$ and $HIGH$"
+ KARMA_TOO_HIGH_DESC:0 "Zahir $HIGH$ or higher"
+ KARMA_TOO_LOW_DESC:0 "Zahir $LOW$ or lower"
+ KARMA_FOR_CTA:0 "We would gain $KARMA$ zahir, since this is the right thing to do."

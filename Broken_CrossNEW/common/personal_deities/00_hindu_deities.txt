@@ -219,7 +219,7 @@ krishna = {
 hanuman = {
 	# (Military - Defensive)
 	recover_army_morale_speed = 0.10
-	shock_damage_received = -0.10
+	discipline = 0.05
 	
 	potential = { religion = hinduism }
 	trigger = {}

@@ -74,7 +74,7 @@ mile = {
 }
 
 yaoshifo = {
-	global_unrest = 2
+	global_unrest = -2
 	development_cost = -0.1
 	
 	potential = { religion = fajiao }
@@ -198,7 +198,7 @@ wenshu = {
 	}
 }
 
-wenshu = {
+dizang = {
 	adm_tech_cost_modifier = -0.1
 	diplomatic_reputation = 1
 	

@@ -810,7 +810,7 @@ province_event = {
 	option = {
 		name = "EVTOPTA6175"
 		change_religion = shiite
-		owner = { add_piety = -0.10 }
+		owner = { add_karma = -0.10 }
 	}
 }
 
@@ -868,7 +868,7 @@ province_event = {
 	option = {
 		name = "EVTOPTA6176"
 		change_religion = sunni
-		owner = { add_piety = -0.10	}
+		owner = { add_karma = -0.10	}
 	}
 }
 
@@ -2016,7 +2016,7 @@ province_event = {
 	option = {
 		name = "religious_events.EVTOPTA1"
 		change_religion = ibadi
-		owner = { add_piety = -0.10 }
+		owner = { add_karma = -0.10 }
 	}
 }
 
@@ -2074,7 +2074,7 @@ province_event = {
 	option = {
 		name = "religious_events.EVTOPTA1"
 		change_religion = ibadi
-		owner = { add_piety = -0.10 }
+		owner = { add_karma = -0.10 }
 	}
 }
 
@@ -2132,7 +2132,7 @@ province_event = {
 	option = {
 		name = "religious_events.EVTOPTA1"
 		change_religion = sunni
-		owner = { add_piety = -0.10 }
+		owner = { add_karma = -0.10 }
 	}
 }
 
@@ -2190,7 +2190,7 @@ province_event = {
 	option = {
 		name = "religious_events.EVTOPTA1"
 		change_religion = shiite
-		owner = { add_piety = -0.10 }
+		owner = { add_karma = -0.10 }
 	}
 }
 

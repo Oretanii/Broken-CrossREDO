@@ -29,3 +29,13 @@
  anglican_religion_desc:0 "The Episcopal church is a form of Protestantism in which the head of state is also the Supreme Governor of the Church. Theologically and institutionally, the Episcopal church retains many elements of Catholicism while also being influenced by Reformed Puritans and continental Protestants."
  #
  zoroastrian_group:0 "Iranian"
+ #
+ hinduism: "Vaishnava"
+ hinduism_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ hinduism_rebels_demand: "Convert $COUNTRYNAME$"
+ hinduism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ hinduism_rebels_title: "Religious"
+ hinduism_rebels_name: "$RELIGION$ Zealots"
+ hinduism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ hinduism_rebels_army: "$RELIGION$ Army"
+ hinduism_religion_desc: "Vaishnavism is one of the major traditions of Hinduism which worships Vishnu as the Supreme Being (Brahman). Vaishnavism is followed all over India."
