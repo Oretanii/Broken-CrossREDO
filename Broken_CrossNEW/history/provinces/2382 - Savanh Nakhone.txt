@@ -1,7 +1,7 @@
 #2382 - Savanh Nakhone
 
-owner = LXA
-controller = LXA
+owner = TKM
+controller = TKM
 culture = siem
 religion = buddhism
 capital = "Luang Namtha"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LXA
+add_core = TKM
 
 
 

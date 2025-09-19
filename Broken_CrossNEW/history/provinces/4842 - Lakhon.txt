@@ -1,6 +1,6 @@
 
-owner = LNA
-controller = LNA
+owner = YNK
+controller = YNK
 culture = yonok
 religion = buddhism
 capital = "Lakhon"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LNA
+add_core = YNK
 discovered_by = chinese
 discovered_by = indian
 

@@ -1,7 +1,7 @@
 #582 - Mong Yang
 
-owner = MYA
-controller = MYA
+owner = JPH
+controller = JPH
 culture = kachin
 religion = buddhism
 capital = "Mong Yang"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 3
 fort_15th = yes
 is_city = yes
-add_core = MYA
+add_core = JPH
 
 
 

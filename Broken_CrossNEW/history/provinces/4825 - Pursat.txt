@@ -1,5 +1,5 @@
-owner = KHM
-controller = KHM
+owner = ANK
+controller = ANK
 culture = khmer
 religion = buddhism
 capital = "Pursat"
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KHM
+add_core = ANK
 
 
 

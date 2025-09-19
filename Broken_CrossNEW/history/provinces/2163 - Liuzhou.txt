@@ -1,8 +1,8 @@
 # 2163 - Liuzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = THL
+controller = THL
+add_core = THL
 culture = zhuang
 religion = confucianism
 capital = "Liuzhou"

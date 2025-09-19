@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = dambro
+religion = mahayana
+technology_group = chinese
+capital = 2387	# Phetchaburi
+
+1440.1.1 = {
+	monarch = {
+		name = "Watsant" # Fictional
+		dynasty = "Sridhamaraja"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

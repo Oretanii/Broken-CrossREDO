@@ -1,7 +1,7 @@
 #2394 - Kedah
 
-owner = KED
-controller = KED
+owner = TBL
+controller = TBL
 culture = malayan
 religion = sunni
 capital = "Kedah"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KED
+add_core = TBL
 
 
 

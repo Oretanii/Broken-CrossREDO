@@ -1,5 +1,5 @@
-owner = AYU
-controller = AYU
+owner = LAV
+controller = LAV
 culture = dvaravati
 religion = buddhism
 capital = "Lopburi"
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = AYU
+add_core = LAV
 
 
 
