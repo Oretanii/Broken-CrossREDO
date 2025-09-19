@@ -1,7 +1,7 @@
 #2380 - Phnom Penh
 
-owner = KHM
-controller = KHM
+owner = ANK
+controller = ANK
 culture = khmer
 religion = buddhism
 capital = "Phnom Penh"
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = KHM
+add_core = ANK
 discovered_by = chinese
 discovered_by = indian
 discovered_by = Dhimmi discovered_by = muslim

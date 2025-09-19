@@ -1,7 +1,7 @@
 #592 - Ratchaburi
 
-owner = AYU
-controller = AYU
+owner = SPH
+controller = SPH
 culture = mon
 religion = buddhism
 capital = "Ratchaburi"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = AYU
+add_core = SPH
 
 
 

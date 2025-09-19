@@ -1,7 +1,7 @@
 #2391 - Thalang
 
-owner = LIG
-controller = LIG
+owner = TBL
+controller = TBL
 culture = dambro
 religion = sunni
 capital = "Thalang"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = LIG
+add_core = TBL
 
 
 

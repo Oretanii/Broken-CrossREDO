@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = thai_khmer
+religion = buddhism
+technology_group = chinese
+capital = 2389	# Phra Bang

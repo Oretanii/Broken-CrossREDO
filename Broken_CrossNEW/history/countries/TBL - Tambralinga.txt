@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = mandala_reform
+primary_culture = dambro
+religion = mahayana
+technology_group = chinese
+capital = 593	# Nakhon Si Thammarat
+
+1440.1.1 = {
+	monarch = {
+		name = "Norabodi" # Fictional
+		dynasty = "Sridhamaraja"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

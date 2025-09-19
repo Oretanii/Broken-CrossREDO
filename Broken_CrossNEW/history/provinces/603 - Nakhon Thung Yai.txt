@@ -1,7 +1,7 @@
 #603 - Nakhon Thung Yai
 
-owner = AYU
-controller = AYU
+owner = ANK
+controller = ANK
 culture = khmer
 religion = buddhism
 capital = "Nakhon Thung Yai"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = AYU
+add_core = ANK
 discovered_by = chinese
 discovered_by = indian
 discovered_by = Dhimmi 

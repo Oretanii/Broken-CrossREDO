@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = mandala_reform
+primary_culture = khmer
+religion = buddhism
+technology_group = chinese
+capital = 604 # Phnom Penh
+
+
+1393.1.1 = {
+	monarch = {
+		name = "Barom Reachea V"
+		dynasty = "Angkor"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

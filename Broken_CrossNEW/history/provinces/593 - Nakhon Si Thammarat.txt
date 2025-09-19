@@ -1,7 +1,7 @@
 #593 - Nakhon Si Thammarat
 
-owner = LIG
-controller = LIG
+owner = TBL
+controller = TBL
 culture = dambro
 religion = sunni
 capital = "Nakhon Si Thammarat"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 add_core = LIG
-add_core = AYU
+add_core = TBL
 
 
 

@@ -1,7 +1,7 @@
 #590 - Moulmein
 
-owner = PEG
-controller = PEG
+owner = THT
+controller = THT
 culture = mon
 religion = buddhism
 capital = "Martaban"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = PEG
+add_core = THT
 
 
 

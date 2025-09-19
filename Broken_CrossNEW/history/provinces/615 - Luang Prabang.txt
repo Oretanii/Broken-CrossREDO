@@ -1,7 +1,7 @@
 #615 - Luang Prabang
 
-owner = LXA
-controller = LXA
+owner = MSU
+controller = MSU
 culture = phu
 religion = buddhism
 capital = "Xieng Tong"
@@ -11,8 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = LXA
-add_core = LUA
+add_core = MSU
 discovered_by = chinese
 discovered_by = indian
 
