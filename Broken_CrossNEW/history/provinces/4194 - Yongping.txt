@@ -4,9 +4,9 @@ latent_trade_goods = {
 	coal
 }
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = MIN
+controller = MIN
+add_core = MIN
 culture = chihan
 religion = confucianism
 capital = "Yongping"

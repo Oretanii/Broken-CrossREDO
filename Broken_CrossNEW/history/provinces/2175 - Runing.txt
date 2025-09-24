@@ -1,8 +1,8 @@
 # 2175 - Runing
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
+add_core = SHU
 culture = zhongyuan
 religion = confucianism
 capital = "Runing"

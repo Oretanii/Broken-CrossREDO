@@ -1,8 +1,8 @@
 # 4211 - Dazhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
+add_core = SHU
 culture = sichuanese
 religion = confucianism
 capital = "Dazhou"

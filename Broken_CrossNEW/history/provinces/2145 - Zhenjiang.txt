@@ -1,8 +1,7 @@
 # 2145 - Zhenjiang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = jianghuai
 religion = confucianism
 capital = "Zhenjiang"

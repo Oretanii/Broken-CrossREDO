@@ -1,8 +1,8 @@
 #703 - Chengde
 
-owner = KRC
-controller = KRC
-add_core = KRC
+owner = MIN
+controller = MIN
+add_core = MIN
 culture = chahar
 religion = vajrayana
 capital = "Chengde"

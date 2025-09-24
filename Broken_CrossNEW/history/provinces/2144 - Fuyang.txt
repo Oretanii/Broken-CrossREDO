@@ -1,8 +1,7 @@
 # 2144 - Fuyang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = zhongyuan
 religion = confucianism
 capital = "Fuyang"
