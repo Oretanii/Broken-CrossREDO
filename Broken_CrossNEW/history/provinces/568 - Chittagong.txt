@@ -1,7 +1,7 @@
 #568 - Chittagong
 
-owner = TIM
-controller = TIM
+owner = DYD
+controller = DYD
 culture = bengali
 religion = hinduism #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"
@@ -12,8 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = TIM
-add_core = BNG
-add_core = ARK
+add_core = DYD
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese

@@ -1,8 +1,8 @@
 #660 - Xishuan Banna
 
-owner = MMA
-controller = MMA
-add_core = MMA
+owner = CDL
+controller = CDL
+add_core = CDL
 culture = phu
 religion = buddhism
 capital = "Sibsongbanna"

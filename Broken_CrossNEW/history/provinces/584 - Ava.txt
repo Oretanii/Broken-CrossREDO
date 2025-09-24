@@ -1,10 +1,10 @@
 #584 - Ava
 
-owner = AVA
-controller = AVA
+owner = HLN
+controller = HLN
 culture = nakhi
 religion = buddhism
-capital = "Ava"
+capital = "Halin"
 trade_goods = gems #Burmese Emerald/Myanmar Jade
 hre = no
 base_tax = 6
@@ -12,7 +12,7 @@ base_production = 6
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-add_core = AVA
+add_core = HLN
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16

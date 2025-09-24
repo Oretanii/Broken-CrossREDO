@@ -1,17 +1,17 @@
 #581 - Sagaing
 
-owner = AVA
-controller = AVA
+owner = TGU
+controller = TGU
 culture = nakhi
 religion = buddhism
-capital = "Sagaing"
+capital = "Taguang"
 trade_goods = cotton
 hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = AVA
+add_core = TGU
 
 
 

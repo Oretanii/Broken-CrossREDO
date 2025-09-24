@@ -1,7 +1,7 @@
 #585 - Toungoo
 
-owner = TAU
-controller = TAU
+owner = TGH
+controller = TGH
 culture = paoo
 religion = buddhism
 capital = "Toungoo"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = TAU
+add_core = TGH
 
 
 

@@ -1,7 +1,7 @@
 #4399 - Dagon
 
-owner = PEG
-controller = PEG
+owner = PGN
+controller = PGN
 culture = mon
 religion = buddhism
 capital = "Dagon"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = PEG
+add_core = PGN
 
 
 
