@@ -1,8 +1,8 @@
 #699 - Lanzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = MIN
+controller = MIN
+add_core = MIN
 culture = xibei
 religion = confucianism
 capital = "Lanzhou"
