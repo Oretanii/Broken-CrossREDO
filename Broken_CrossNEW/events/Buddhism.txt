@@ -75,14 +75,12 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism ##Theravada 
-			religion = mahayana
-		}
+		uses_piety = yes
 		owner = {
 			OR = {
 				religion = buddhism ##Theravada 
 				religion = mahayana
+				religion = vajrayana
 			}
 			has_regency = no
 			NOT = { piety = -0.50 }
@@ -171,10 +169,7 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism ##Theravada 
-			religion = mahayana
-		}
+		uses_piety = yes
 		is_capital = no
 		NOT = { has_province_modifier = lacking_monastic_discipline }
 		NOT = { has_province_modifier = strict_punishment_of_monks }
@@ -419,10 +414,7 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism ##Theravada 
-			religion = mahayana
-		}
+		uses_piety = yes
 		is_capital = no
 		NOT = { has_province_modifier = lacking_monastic_discipline }
 		NOT = { has_province_modifier = strict_punishment_of_monks }
@@ -432,6 +424,7 @@ province_event = {
 			OR = {
 				religion = buddhism ##Theravada 
 				religion = mahayana
+				reactions = vajrayana
 			}
 			has_regency = no
 			piety = 0.50
@@ -573,21 +566,12 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		trade_goods = grain
 		is_capital = no
 		NOT = { has_province_modifier = wedge_throw }
 		NOT = { has_province_modifier = poor_rice_harvests }
-		owner = {
-			OR = {
-				religion = buddhism #Theravada
-				religion = mahayana
-			}
-			has_regency = no
-		}
+		has_regency = no
 	}
 	
 	is_mtth_scaled_to_size = 1
@@ -645,12 +629,7 @@ province_event = {
 	trigger = {
 		has_dlc = "Common Sense"
 		has_province_modifier = wedge_throw
-		owner = {
-			OR = {
-				religion = buddhism #Theravada
-				religion = mahayana
-			}
-		}
+		uses_piety = yes
 	}
 	
 	mean_time_to_happen = {
@@ -678,13 +657,8 @@ province_event = {
 		has_dlc = "Common Sense"
 		NOT = { has_province_modifier = wedge_throw }
 		has_province_flag = borrowed_money
-		owner = {
-			OR = {
-				religion = buddhism #Theravada
-				religion = mahayana
-			}
-			has_regency = no
-		}
+		uses_piety = yes
+		has_regency = no
 	}
 	
 	mean_time_to_happen = {
@@ -730,20 +704,11 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		is_capital = no
 		NOT = { has_province_modifier = wedge_throw }
 		NOT = { has_province_modifier = poor_rice_harvests }
-		owner = {
-			has_regency = no
-			OR = {
-				religion = buddhism #Theravada
-				religion = mahayana
-			}
-		}
+		has_regency = no
 	}
 	
 	is_mtth_scaled_to_size = 1
@@ -810,10 +775,7 @@ country_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		has_regency = no
 	}
 	
@@ -1004,10 +966,7 @@ country_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		has_regency = no
 		NOT = { has_ruler_flag = had_tapa }
 	}
@@ -1234,10 +1193,7 @@ country_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		has_regency = no
 		any_owned_province = {
 			is_capital = no
@@ -1337,10 +1293,7 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		is_capital = no
 		is_state = yes
 		NOT = {
@@ -1452,10 +1405,7 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		is_capital = no
 		local_autonomy = 25
 		NOT = { has_province_modifier = social_bandit }
@@ -1471,13 +1421,7 @@ province_event = {
 				is_capital = yes
 			}
 		}
-		owner = {
-			OR = {
-				religion = buddhism #Theravada
-				religion = mahayana
-			}
-			has_regency = no
-		}
+		has_regency = no
 	}
 	
 	is_mtth_scaled_to_size = 1
@@ -1818,10 +1762,7 @@ country_event = {
 	
 	trigger = {
 		has_dlc = "Common Sense"
-		OR = {
-			religion = buddhism #Theravada
-			religion = mahayana
-		}
+		uses_piety = yes
 		OR = {
 			piety = 0.25
 			NOT = { piety = -0.25 }

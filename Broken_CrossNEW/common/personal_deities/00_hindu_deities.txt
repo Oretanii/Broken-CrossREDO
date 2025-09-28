@@ -43,7 +43,7 @@ shiva = {
 		}
 	}
 	trigger = {}
-	sprite = 1
+	sprite = 8
 	
 	effect = {}
 	removed_effect = {}
@@ -72,7 +72,7 @@ ganesha = {
 		}
 	}
 	trigger = {}
-	sprite = 2
+	sprite = 1
 	
 	effect = {}
 	removed_effect = {}
@@ -92,7 +92,7 @@ ganesha = {
 shakti = { 
 	#(Military - Offensive) 
 	siege_ability = 0.05
-	discipline = 0.05
+	movement_speed = 0.10 
 	
 	potential = { 
 		OR = {
@@ -101,7 +101,7 @@ shakti = {
 		}
 	}
 	trigger = {}
-	sprite = 5
+	sprite = 7
 	
 	effect = {}
 	removed_effect = {}
@@ -125,7 +125,7 @@ kartikeya = {
 	
 	potential = { religion = shaivite }
 	trigger = {}
-	sprite = 5
+	sprite = 4
 	
 	effect = {}
 	removed_effect = {}
@@ -145,11 +145,11 @@ kartikeya = {
 kali = { 
 	#(Military - Offensive) 
 	morale_damage = 0.025
-	shock_damage_received = -0.10
+	prestige_from_land = 0.10
 	
 	potential = { religion = shaivite }
 	trigger = {}
-	sprite = 5
+	sprite = 3
 	
 	effect = {}
 	removed_effect = {}
@@ -178,7 +178,7 @@ vishnu = {
 		}
 	}
 	trigger = {}
-	sprite = 6
+	sprite = 10
 	
 	effect = {}
 	removed_effect = {}
@@ -202,6 +202,9 @@ krishna = {
 	
 	potential = { religion = hinduism }
 	trigger = {}
+	sprite = 5
+	effect = {}
+	
 	removed_effect = {}
 	ai_will_do = {
 		factor = 1
@@ -223,7 +226,7 @@ hanuman = {
 	
 	potential = { religion = hinduism }
 	trigger = {}
-	sprite = 6
+	sprite = 2
 	
 	effect = {}
 	removed_effect = {}
@@ -247,7 +250,7 @@ rama = {
 	
 	potential = { religion = hinduism }
 	trigger = {}
-	sprite = 6
+	sprite = 11
 	
 	effect = {}
 	removed_effect = {}
@@ -271,7 +274,7 @@ lakshmi = {
 	
 	potential = { religion = hinduism }
 	trigger = {}
-	sprite = 4
+	sprite = 6
 	
 	effect = {}
 	removed_effect = {}
@@ -295,7 +298,7 @@ surya = {
 	
 	potential = { religion = smarta }
 	trigger = {}
-	sprite = 3
+	sprite = 9
 	
 	effect = {}
 	removed_effect = {}

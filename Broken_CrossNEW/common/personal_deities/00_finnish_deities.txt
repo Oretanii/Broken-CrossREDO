@@ -6,7 +6,7 @@ tapio = {
 	development_cost = -0.05
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 27
 	
 	ai_will_do = {
 		factor = 1	
@@ -27,7 +27,7 @@ jumi = {
     republican_tradition = 0.25
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 28
 	
 	ai_will_do = {
 		factor = 1	
@@ -47,7 +47,7 @@ kuu = {
 	prestige_decay = -0.01
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 29
 	
 	ai_will_do = {
 		factor = 1	
@@ -63,7 +63,7 @@ ahti = {
 	global_ship_cost = -0.05
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 30
 	
 	ai_will_do = {
 		factor = 1
@@ -83,7 +83,7 @@ ukko = {
 	reinforce_speed = 0.05
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 31
 	
 	ai_will_do = {
 		factor = 1	
@@ -104,7 +104,7 @@ ilmarinen = {
 	global_tax_modifier = 0.1
 	
 	potential = { religion = finnish_pagan_reformed }
-	sprite = 14
+	sprite = 32
 	
 	ai_will_do = {
 		factor = 1	

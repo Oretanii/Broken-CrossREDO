@@ -2490,6 +2490,14 @@ province_is_buddhist_or_accepts_buddhism = {
 						owner = { secondary_religion = mahayana }
 					}
 				}
+				AND = {
+					religion = fajiao
+					OR = {
+						has_owner_religion = yes
+						owner = { has_harmonized_with = fajiao }
+						owner = { secondary_religion = fajiao }
+					}
+				}
 			}
 		}
 		custom_trigger_tooltip = {
@@ -2499,6 +2507,7 @@ province_is_buddhist_or_accepts_buddhism = {
 					has_harmonized_with = buddhism
 					has_harmonized_with = vajrayana
 					has_harmonized_with = mahayana
+					has_harmonized_with = fajiao
 				}
 			}
 			has_owner_religion = yes
@@ -2510,6 +2519,7 @@ province_is_buddhist_or_accepts_buddhism = {
 					secondary_religion = buddhism
 					secondary_religion = vajrayana
 					secondary_religion = mahayana
+					has_harmonized_with = fajiao
 				}
 			}
 			has_owner_religion = yes
@@ -2537,6 +2547,7 @@ province_is_buddhist_or_accepts_buddhism = {
 					has_harmonized_with = buddhism
 					has_harmonized_with = vajrayana
 					has_harmonized_with = mahayana
+					has_harmonized_with = fajiao
 				}
 				has_harmonized_with = ROOT
 			}
@@ -2574,6 +2585,14 @@ province_is_buddhist_or_accepts_buddhism_or_is_dharmic = {
 						owner = { secondary_religion = mahayana }
 					}
 				}
+				AND = {
+					religion = fajiao
+					OR = {
+						has_owner_religion = yes
+						owner = { has_harmonized_with = fajiao }
+						owner = { secondary_religion = fajiao }
+					}
+				}
 			}
 		}
 		custom_trigger_tooltip = {
@@ -2583,6 +2602,7 @@ province_is_buddhist_or_accepts_buddhism_or_is_dharmic = {
 					has_harmonized_with = buddhism
 					has_harmonized_with = vajrayana
 					has_harmonized_with = mahayana
+					has_harmonized_with = fajiao
 				}
 			}
 			has_owner_religion = yes
@@ -2594,6 +2614,7 @@ province_is_buddhist_or_accepts_buddhism_or_is_dharmic = {
 					secondary_religion = buddhism
 					secondary_religion = vajrayana
 					secondary_religion = mahayana
+					has_harmonized_with = fajiao
 				}
 			}
 			has_owner_religion = yes
@@ -2601,11 +2622,6 @@ province_is_buddhist_or_accepts_buddhism_or_is_dharmic = {
 		custom_trigger_tooltip = {
 			tooltip = province_is_buddhist_or_accepts_buddhism_dt
 			religion = shinto
-			has_owner_religion = yes
-		}
-		custom_trigger_tooltip = {
-			tooltip = province_is_buddhist_or_accepts_buddhism_et
-			owner = { has_personal_deity = buddha }
 			has_owner_religion = yes
 		}
 		custom_trigger_tooltip = {
@@ -2621,12 +2637,10 @@ province_is_buddhist_or_accepts_buddhism_or_is_dharmic = {
 					has_harmonized_with = buddhism
 					has_harmonized_with = vajrayana
 					has_harmonized_with = mahayana
+					has_harmonized_with = fajiao
 				}
 				has_harmonized_with = ROOT
 			}
-		}
-		province_is_or_accepts_religion_group = {
-			religion_group = dharmic
 		}
 	}
 }

@@ -1267,7 +1267,7 @@ guiTypes = {
 			{
 				name ="deity_icon"
 				spriteType = "GFX_hindu_deities_strip"
-				position = { x= 25 y = -41 }
+				position = { x= 25 y = -64 }
 			}
 			
 			instantTextBoxType = {

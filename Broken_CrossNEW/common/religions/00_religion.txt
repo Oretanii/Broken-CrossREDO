@@ -1978,6 +1978,7 @@ eastern = {
 			global_unrest = -2
 			culture_conversion_cost = -0.1
 		}
+		harmonized_daoism
 		heretic = { WHITE-LOTUS}
 		ancestors = yes
 	}
@@ -2001,6 +2002,129 @@ eastern = {
 		
 		harmonized_modifier = harmonized_shinto
 		
+	}
+	
+	fajiao = { #Chinese Mahayana
+		color = { 245 230 20 }
+		icon = 23
+		allowed_conversion = {
+			vajrayana
+			buddhism
+		}
+		country = {
+			religious_unity = 0.25
+			stability_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			institution_spread_from_true_faith = 0.15
+			advisor_pool = 1
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		harmonized_modifier = harmonized_fajiao
+
+		heretic = { WHITE-LOTUS }
+		
+		personal_deity = yes
+	}
+
+	buddhism = { #Theravada
+		color = { 204 76 0 }
+		icon = 24
+		allowed_conversion = {
+			vajrayana
+			mahayana
+		}
+		country = {
+			tolerance_heretic = 2
+			advisor_cost = -0.1
+		}
+		country_as_secondary = {
+			development_cost = -0.1
+			diplomats = 1
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		harmonized_modifier = harmonized_buddhism
+		
+		heretic = { WHITE-LOTUS }
+		
+		uses_piety = yes
+	}
+	
+	vajrayana = {
+		color = { 204 76 76 }
+		icon = 25
+		allowed_conversion = {
+			mahayana
+			buddhism #Theravada
+		}
+		country = {
+			tolerance_heretic = 1
+			land_morale = 0.05
+		}
+		country_as_secondary = {
+			horde_unity = 1
+			tolerance_own = 1
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		harmonized_modifier = harmonized_vajrayana
+		
+		heretic = { WHITE-LOTUS }
+		
+		uses_piety = yes
+		
+	
+	}
+	
+	mahayana = { #Indian Mahayana
+		color = { 204 76 127 }
+		icon = 7
+		allowed_conversion = {
+			vajrayana
+			buddhism #Theravada
+		}
+		country = {
+			tolerance_heretic = 2
+			idea_cost = -0.05
+		}
+		country_as_secondary = {
+			global_tax_modifier = 0.1
+			tolerance_heathen = 2
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		harmonized_modifier = harmonized_mahayana
+		
+		heretic = { WHITE-LOTUS }
+		
+		uses_piety = yes
 	}
 	
 	crusade_name = GREATPACIFICATION
@@ -2156,133 +2280,6 @@ jain_dharma = {
 	}
 	
 	harmonized_modifier = harmonized_jain
-	
-	crusade_name = DHARMAYUDDHA
-}
-
-buddha_dharma = {
-
-	flags_with_emblem_percentage = 33
-	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
-
-	buddhism = { #Theravada
-		color = { 204 76 0 }
-		icon = 24
-		allowed_conversion = {
-			vajrayana
-			mahayana
-		}
-		country = {
-			tolerance_heretic = 2
-			advisor_cost = -0.1
-		}
-		country_as_secondary = {
-			development_cost = -0.1
-			diplomats = 1
-		}
-		on_convert = {
-			add_prestige = -100
-			add_stability = -1
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { WHITE-LOTUS }
-		
-		uses_piety = yes
-	}
-	
-	vajrayana = {
-		color = { 204 76 76 }
-		icon = 25
-		allowed_conversion = {
-			mahayana
-			buddhism #Theravada
-		}
-		country = {
-			tolerance_heretic = 1
-			land_morale = 0.05
-		}
-		country_as_secondary = {
-			horde_unity = 1
-			tolerance_own = 1
-		}
-		on_convert = {
-			add_prestige = -100
-			add_stability = -1
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { WHITE-LOTUS }
-		
-		uses_piety = yes
-	
-	}
-	
-	mahayana = { #Indian Mahayana
-		color = { 204 76 127 }
-		icon = 7
-		allowed_conversion = {
-			vajrayana
-			buddhism #Theravada
-		}
-		country = {
-			tolerance_heretic = 2
-			idea_cost = -0.05
-		}
-		country_as_secondary = {
-			global_tax_modifier = 0.1
-			tolerance_heathen = 2
-		}
-		on_convert = {
-			add_prestige = -100
-			add_stability = -1
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { WHITE-LOTUS }
-		
-		uses_piety = yes
-	}
-	
-	fajiao = {
-		color = { 245 230 20 }
-		icon = 23
-		allowed_conversion = {
-			vajrayana
-			buddhism
-		}
-		country = {
-			religious_unity = 0.25
-			stability_cost_modifier = -0.1
-		}
-		country_as_secondary = {
-			institution_spread_from_true_faith = 0.15
-			advisor_pool = 1
-		}
-		on_convert = {
-			add_prestige = -100
-			add_stability = -1
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { WHITE-LOTUS }
-		
-		personal_deity = yes
-	}
-	
-	harmonized_modifier = harmonized_mahayana
 	
 	crusade_name = DHARMAYUDDHA
 }
