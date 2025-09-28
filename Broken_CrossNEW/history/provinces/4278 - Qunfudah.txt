@@ -3,7 +3,7 @@
 owner = QUR
 controller = QUR
 culture = hejazi_culture
-religion = shiite
+religion = zaydi
 capital = "Qunfudhah"
 trade_goods = incense
 hre = no

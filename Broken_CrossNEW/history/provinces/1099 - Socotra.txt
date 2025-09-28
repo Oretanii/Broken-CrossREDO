@@ -1,9 +1,9 @@
 #1099 - Socotra
 
-owner = SOQ
-controller = SOQ
+owner = OMA
+controller = OMA
 culture = mahri_culture
-religion = nestorian
+religion = coptic
 capital = "Suqutra"
 trade_goods = fish
 hre = no
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SOQ
+add_core = OMA
 discovered_by = Dhimmi 
 discovered_by = muslim
 discovered_by = ottoman

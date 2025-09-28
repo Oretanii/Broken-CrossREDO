@@ -1,7 +1,7 @@
 #402 - Qishn
 
-owner = MHR
-controller = MHR
+owner = OMA
+controller = OMA
 culture = mahri_culture
 religion = sunni
 capital = "Qishn"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MHR
+add_core = OMA
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

@@ -1,9 +1,9 @@
 #2346 - Jazan
 
-owner = MFL
-controller = MFL
+owner = RAS
+controller = RAS
 culture = hejazi_culture
-religion = shiite
+religion = zaydi
 capital = "Jazan"
 trade_goods = fish
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = MFL
+add_core = RAS
 add_core = YEM
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
