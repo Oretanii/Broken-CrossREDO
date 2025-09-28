@@ -6,7 +6,7 @@ ausrine = {
 	naval_attrition = -0.1
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 34
 	
 	ai_will_do = {
 		factor = 1
@@ -26,7 +26,7 @@ laima = {
 	advisor_pool = 1
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 35
 	
 	ai_will_do = {
 		factor = 1	
@@ -46,7 +46,7 @@ milda = {
 	technology_cost = -0.05
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 36
 	
 	ai_will_do = {
 		factor = 1	
@@ -66,7 +66,7 @@ perkunas = {
 	land_forcelimit_modifier = 0.05
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 37
 	
 	ai_will_do = {
 		factor = 1	
@@ -88,7 +88,7 @@ saule = {
 	devotion = 0.5
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 38
 	
 	ai_will_do = {
 		factor = 1	
@@ -109,7 +109,7 @@ zemyna = {
 	enemy_core_creation = 0.2
 	
 	potential = { religion = baltic_pagan_reformed }
-	sprite = 13
+	sprite = 39
 	
 	ai_will_do = {
 		factor = 1	

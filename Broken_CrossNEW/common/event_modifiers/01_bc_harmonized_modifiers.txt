@@ -1,0 +1,15 @@
+harmonized_fajiao = {
+	technology_cost = -0.1
+}
+
+harmonized_daoism = {
+	tolerance_own = 2
+}
+
+harmonized_sikh = {
+	land_morale = 0.10
+}
+
+harmonized_jain = {
+	merchants = 1
+}

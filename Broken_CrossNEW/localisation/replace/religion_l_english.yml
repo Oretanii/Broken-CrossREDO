@@ -6,6 +6,8 @@
  shiite: "Jafari"
  shiite_religion_desc: "Jafari Shiism is named after Jaf'ar al-Sadiq, the sixth Imam, and its followers are 'Twelver' Shias. Twelvers believe that Ali, the successor of Muhammed, was followed by twelve infallible Imams chosen by divine decree. The last of the Imams, al-Mahdi, is expected to return as the savior of mankind, finally enforcing justice and peace in the world."
  #
+ mahayana_religion_desc: "Mahayana is the most widely practiced branch of Buddhism. Mahayana Buddhists emphasize the Bodhisattva path and strive to awaken as Buddhas to bring enlightenment to all beings. In this mod, Mahayana is separated from its East Asian expression, Fajiao, to differentiate the more Sinicized form from its Indian counterpart. In the mod, Mahayana is mostly practiced in Southeast Asia, with followers in India."
+ #
  coptic:0 "Miaphysite"
  coptic_religion_desc:1 "Miaphysite Christianity is a branch of Christendom that believes in a single nature of Christ, both human and divine. Followers of Miaphysitism comprise the Armenian Apostolic Church and the Copts who answer to the Patriarch in Alexandria.\nWith the fall of Egypt to the Muslims hundreds of years ago the Patriarch is controlled by a non-Christian state with the Miaphysite religion surviving as the majority faith only in Ethiopia, Nubia and Africa."
  HINT_RELIGION_TEXT:0 "A major cause of division, other than cultural differences, are religious differences. A Catholic country, for example, will consider other countries that are Protestant, Reformed, Miaphysite or Orthodox as heretics, while it would consider other religions to be heathens. All the provinces in your country affect your Religious Unity. You can convert provinces to your religion with a Missionary."
@@ -27,3 +29,13 @@
  anglican_religion_desc:0 "The Episcopal church is a form of Protestantism in which the head of state is also the Supreme Governor of the Church. Theologically and institutionally, the Episcopal church retains many elements of Catholicism while also being influenced by Reformed Puritans and continental Protestants."
  #
  zoroastrian_group:0 "Iranian"
+ #
+ hinduism: "Vaishnava"
+ hinduism_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ hinduism_rebels_demand: "Convert $COUNTRYNAME$"
+ hinduism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ hinduism_rebels_title: "Religious"
+ hinduism_rebels_name: "$RELIGION$ Zealots"
+ hinduism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ hinduism_rebels_army: "$RELIGION$ Army"
+ hinduism_religion_desc: "Vaishnavism is one of the major traditions of Hinduism which worships Vishnu as the Supreme Being (Brahman). Vaishnavism is followed all over India."

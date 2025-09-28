@@ -1,0 +1,18 @@
+﻿l_english:
+ MODIFIER_MONTHLY_KARMA:0 "Monthly Zahir"
+ positive_piety:1 "Universal Rulership"
+ negative_piety:1 "Worldly Rulership"
+ PIETY_BAD_WAR_EFF:3 "Declaring war on a fellow $REL$ will move us towards Worldly Rulership by §Y$VAL$§!."
+ PIETY_GOOD_WAR_EFF:2 "Declaring war on the $REL$ will move us towards Universal Rulership by §Y$VAL$§!."
+ KARMA_FROM_CONV:1 "This increases our zahir by §G+$VAL$§!."
+ KARMA_FROM_CONV_CONFIRM:0 "Converting this province will increase our zahir by §G+$VAL$§!."
+ KARMA_OFFENSIVE_WAR_EFF:0 "Declaring war is an inherently immoral action, and it will decrease our zahir by §Y$VAL$§!. "
+ KARMA_INCREASE:0 "This will give us §Y$VAL$§! zahir."
+ KARMA_DECREASE:0 "This will cost us §Y$VAL$§! zahir."
+ KARMA_INCREASE_FOR_COUNTRY:0 "This will give $COUNTRY$ §Y$VAL$§! zahir."
+ KARMA_DECREASE_FOR_COUNTRY:0 "This will cost $COUNTRY$ §Y$VAL$§! zahir."
+ USES_KARMA:0 "$COUNTRY|Y$ uses Zahir."
+ USES_NOT_KARMA:0 "$COUNTRY|Y$ does NOT use Zahir."
+ CURRENT_KARMA:0 "Current Zahir"
+ 
+

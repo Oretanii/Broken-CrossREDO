@@ -669,7 +669,7 @@ country_event = {
 			factor = 33
 		}
 		custom_tooltip = muslim_school_events.2.b.tt
-		add_piety = 0.2
+		add_karma = 20
 		trigger_switch = {
 			on_trigger = has_country_flag
 			bad_pious_mufti = {
@@ -717,7 +717,7 @@ country_event = {
 			}
 		}
 		custom_tooltip = muslim_school_events.2.c.tt
-		add_piety = -0.2
+		add_karma = -20
 		trigger_switch = {
 			on_trigger = has_country_flag
 			bad_sufi = {
@@ -786,18 +786,18 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 			NOT = { has_global_flag = neo_sufism } #After this you have to be more pious for bonus.
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 1.0
+			karma = 100
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		#Support of Religious Establishment under loyal Sheik-ul-Islam:
@@ -814,18 +814,18 @@ country_event = {
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
@@ -886,35 +886,35 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 			NOT = { has_global_flag = neo_sufism } #After this you have to be more pious for bonus.
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 1.0
+			karma = 100
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 	}
@@ -1175,35 +1175,35 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 			NOT = { has_global_flag = neo_sufism } #After this you have to be more pious for bonus.
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 1.0
+			karma = 100
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 	}
@@ -1608,7 +1608,7 @@ country_event = {
 			religion = ismaili
 		}
 		is_free_or_tributary_trigger = yes
-		piety = 0.75
+		karma = 75
 		OR = {
 			any_owned_province = {
 				is_state = yes
@@ -1627,35 +1627,35 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 			NOT = { has_global_flag = neo_sufism } #After this you have to be more pious for bonus.
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 1.0
+			karma = 100
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 	}
@@ -1771,37 +1771,37 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 1.1
-			piety = 0.7
+			karma = 70
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 1.1
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 1.1
 			OR = {
-				piety = 1.0
+				karma = 100
 				has_pious_sheikh_ul_islam_trigger = yes
 			}
 		}
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
 			OR = {
-				NOT = { piety = 0.1 }
+				NOT = { karma = 10 }
 				has_sufi_sheikh_ul_islam_trigger = yes
 			}
 		}
@@ -1809,7 +1809,7 @@ country_event = {
 
 	option = {
 		name = muslim_school_events.7.a #He is doing God's work.
-		add_piety = -0.15
+		add_karma = -15
 		reduce_estate_church_loyalty_effect = yes
 		event_target:sufi_province = {
 			area = {
@@ -1826,7 +1826,7 @@ country_event = {
 	}
 	option = {
 		name = muslim_school_events.7.b #He will have to do his preaching elsewhere.
-		add_piety = 0.1
+		add_karma = 10
 		add_estate_church_loyalty_effect = yes
 		event_target:sufi_province = {
 			area = {
@@ -1934,7 +1934,7 @@ country_event = {
 					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -1944,7 +1944,7 @@ country_event = {
 					has_country_modifier = akhbari_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -1954,7 +1954,7 @@ country_event = {
 					has_country_modifier = ibadi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -1964,7 +1964,7 @@ country_event = {
 					has_country_modifier = jarudi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -1975,10 +1975,10 @@ country_event = {
 					has_country_modifier = tayyibi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else = { #We have invited scholars from another religion.
-			add_piety = -0.15
+			add_karma = -15
 		}
 		define_advisor = {
 			type = theologian
@@ -2002,7 +2002,7 @@ country_event = {
 					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2012,7 +2012,7 @@ country_event = {
 					has_country_modifier = akhbari_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2022,7 +2022,7 @@ country_event = {
 					has_country_modifier = ibadi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2032,7 +2032,7 @@ country_event = {
 					has_country_modifier = jarudi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2043,10 +2043,10 @@ country_event = {
 					has_country_modifier = tayyibi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else = { #We have invited scholars from another religion.
-			add_piety = -0.15
+			add_karma = -15
 		}
 		add_adm_power = 25
 	}
@@ -2130,7 +2130,7 @@ country_event = {
 					has_country_modifier = zahiri_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2140,7 +2140,7 @@ country_event = {
 					has_country_modifier = akhbari_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2150,7 +2150,7 @@ country_event = {
 					has_country_modifier = ibadi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2160,7 +2160,7 @@ country_event = {
 					has_country_modifier = jarudi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else_if = {
 			limit = {
@@ -2171,10 +2171,10 @@ country_event = {
 					has_country_modifier = tayyibi_scholar_modifier
 				}
 			}
-			add_piety = 0.15
+			add_karma = 15
 		}
 		else = { #We have invited scholars from another religion.
-			add_piety = -0.15
+			add_karma = -15
 		}
 		event_target:scholar_country = {
 			add_opinion = {
@@ -2305,7 +2305,7 @@ country_event = {
 				has_pious_sheikh_ul_islam_trigger = yes
 				has_global_flag = neo_sufism
 			}
-			piety = 0.5
+			karma = 50
 		}
 		modifier = {
 			factor = 0.9
@@ -2313,7 +2313,7 @@ country_event = {
 				has_pious_sheikh_ul_islam_trigger = yes
 				has_global_flag = neo_sufism
 			}
-			piety = 0.8
+			karma = 80
 		}
 	}
 
@@ -2394,7 +2394,7 @@ country_event = {
 
 	option = {
 		name = muslim_school_events.11.a #Let us just ensure that this man is dealt with.
-		add_piety = 0.25
+		add_karma = 25
 		add_estate_church_loyalty_effect = yes
 		event_target:shiites_here = {
 			area = {
@@ -2407,7 +2407,7 @@ country_event = {
 	}
 	option = {
 		name = muslim_school_events.11.b #Pragmatism must come before theology.
-		add_piety = -0.25
+		add_karma = -25
 		reduce_estate_church_loyalty_effect = yes
 		event_target:shiites_here = {
 			area = {
@@ -2489,7 +2489,7 @@ country_event = {
 		ai_chance = {
 			factor = 75
 		}
-		add_piety = 0.15
+		add_karma = 15
 		add_prestige = -10
 		add_estate_church_loyalty_effect = yes
 		event_target:shiites_here = {
@@ -2507,7 +2507,7 @@ country_event = {
 		ai_chance = {
 			factor = 25
 		}
-		add_piety = -0.1
+		add_karma = -10
 		reduce_estate_church_loyalty_effect = yes
 		event_target:shiites_here = {
 			every_province = {
@@ -2602,7 +2602,7 @@ country_event = {
 		ai_chance = {
 			factor = 75
 		}
-		add_piety = 0.15
+		add_karma = 15
 		add_prestige = -10
 		add_estate_church_loyalty_effect = yes
 		event_target:protest_province = {
@@ -2619,7 +2619,7 @@ country_event = {
 		ai_chance = {
 			factor = 25
 		}
-		add_piety = -0.1
+		add_karma = -10
 		reduce_estate_church_loyalty_effect = yes
 		event_target:protest_province = {
 			area = {
@@ -2958,35 +2958,35 @@ country_event = {
 		#Support of Religious Establishment for Righteous Rule:
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 			NOT = { has_global_flag = neo_sufism } #After this you have to be more pious for bonus.
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.8
+			karma = 80
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			piety = 1.0
+			karma = 100
 			has_pious_sheikh_ul_islam_trigger = yes
 		}
 		#Support of Religious Establishment under Sufi leader:
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
@@ -3131,12 +3131,12 @@ country_event = {
 		months = 600
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 		modifier = {
 			factor = 0.9
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 			has_sufi_sheikh_ul_islam_trigger = yes
 		}
 	}
@@ -3157,7 +3157,7 @@ country_event = {
 				has_global_flag = neo_sufism
 			}
 		}
-		add_piety = -0.15
+		add_karma = -15
 		add_ruler_modifier = {
 			name = "sought_sufi_sheikh"
 			duration = 9125
@@ -3178,7 +3178,7 @@ country_event = {
 				has_global_flag = neo_sufism
 			}
 		}
-		add_piety = 0.15
+		add_karma = 15
 		add_country_modifier = {
 			name = "ruler_not_favoring_sufis"
 			duration = 9125
@@ -3715,8 +3715,8 @@ country_event = {
 		has_dlc = "Cradle of Civilization"
 		is_year = 1600
 		NOT = { has_global_flag = neo_sufism }
-		uses_piety = yes
-		NOT = { piety = 0.3 }
+		uses_karma = yes
+		NOT = { karma = 30 }
 		NOT = { dominant_religion = ROOT }
 		any_owned_province = {
 			NOT = { religion_group = muslim }
@@ -3772,12 +3772,12 @@ country_event = {
 					has_global_flag = neo_sufism
 					is_year = 1780
 				}
-				uses_piety = yes
+				uses_karma = yes
 				religious_school = {
 					group = muslim
 					school = hanbali_school
 				}
-				piety = 0.65
+				karma = 65
 			}
 			has_country_flag = ARB_may_fire_wahabism
 		}	
@@ -3824,27 +3824,27 @@ country_event = {
 		months = 560
 		modifier = {
 			factor = 1.1
-			NOT = { piety = 0.1 }
+			NOT = { karma = 10 }
 		}
 		modifier = {
 			factor = 1.1
-			NOT = { piety = 0.3 }
+			NOT = { karma = 30 }
 		}
 		modifier = {
 			factor = 1.1
-			NOT = { piety = 0.5 }
+			NOT = { karma = 50 }
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.6
+			karma = 60
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.7
+			karma = 70
 		}
 		modifier = {
 			factor = 0.9
-			piety = 0.9
+			karma = 90
 		}
 	}
 
@@ -3854,10 +3854,10 @@ country_event = {
 			factor = 50
 			modifier = {	
 				factor = 0.5
-				NOT = { piety = 0.5 }
+				NOT = { karma = 50 }
 			}
 		}
-		add_piety = 0.1
+		add_karma = 10
 		random_owned_province = {
 			limit = { has_province_modifier = sufi_shrine }
 			remove_province_modifier = sufi_shrine
@@ -3873,10 +3873,10 @@ country_event = {
 			factor = 50
 			modifier = {	
 				factor = 0.5
-				piety = 0.5
+				karma = 50
 			}
 		}
-		add_piety = -0.1
+		add_karma = -10
 		add_legitimacy = 10
 	}
 }

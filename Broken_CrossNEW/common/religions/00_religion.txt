@@ -1853,7 +1853,7 @@ muslim = {
 		
 		heretic = { JAHMI }
 		
-		uses_piety = yes				# Uses piety mechanics
+		uses_karma = yes				# Uses piety mechanics
 	}
 
 	shiite = { #Jafari
@@ -1873,7 +1873,7 @@ muslim = {
 		
 		heretic = { ALAWI SAFAWI }
 		
-		uses_piety = yes				# Uses piety mechanics
+		uses_karma = yes				# Uses piety mechanics
 	}
 	
 	ibadi = { #Muhakkima
@@ -1893,7 +1893,51 @@ muslim = {
 		
 		heretic = { NAJADAT AZRAQI }
 		
-		uses_piety = yes				# Uses piety mechanics
+		uses_karma = yes				# Uses piety mechanics
+	}
+	
+	zaydi = { 
+		color = { 195 245 145 } 
+		icon = 36
+		country = {
+			heir_chance = 1.0
+			shock_damage_received = -0.1
+		}
+		country_as_secondary = {
+			global_manpower_modifier = 0.1 
+			advisor_cost = -0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { BATRI }
+		
+		uses_karma = yes				# Uses piety mechanics
+	}
+	
+	ismaili = {
+		color = { 50 175 105 } 
+		icon = 37
+		country = {
+			heir_chance = 1.0
+			horde_unity = 1
+			legitimacy = 1
+			republican_tradition = 0.2
+			devotion = 1
+ 
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+			advisor_cost = -0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { KHATTABI }
+		
+		uses_karma = yes				# Uses piety mechanics
 	}
 	
 	harmonized_modifier = harmonized_muslim
@@ -1908,10 +1952,10 @@ eastern = {
 
 
 	confucianism = {
-		color = { 214 229 140 }
-		icon = 9
+		color = { 245 20 40 }
+		icon = 39
 		country = {
-			tolerance_heretic = 2
+			administrative_efficiency = 0.025
 			adm_tech_cost_modifier = -0.1
 		}
 		country_as_secondary = {
@@ -1920,6 +1964,23 @@ eastern = {
 		}
 		heretic = { TAOIST }
 		uses_harmony = yes
+	}
+	
+	daoism = {
+		color = { 20 120 245 }
+		icon = 9
+		country = {
+			global_unrest = -2
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		country_as_secondary = {
+			global_unrest = -2
+			culture_conversion_cost = -0.1
+		}
+		harmonized_daoism
+		heretic = { WHITE-LOTUS}
+		ancestors = yes
 	}
 
 	shinto = {
@@ -1943,65 +2004,36 @@ eastern = {
 		
 	}
 	
-	crusade_name = CRUSADE
-	
-}
-
-dharmic = {
-
-	flags_with_emblem_percentage = 33
-	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
-
-	hinduism = {
-		color = { 0 175 202 } #0 204 204
-		icon = 8
+	fajiao = { #Chinese Mahayana
+		color = { 245 230 20 }
+		icon = 23
 		allowed_conversion = {
-			sikhism
+			vajrayana
+			buddhism
 		}
 		country = {
-			tolerance_heathen = 1
-			tolerance_own = 1
-			brahmins_hindu_influence_modifier = 0.2
+			religious_unity = 0.25
+			stability_cost_modifier = -0.1
 		}
 		country_as_secondary = {
-			tolerance_heretic = 1
-			tolerance_heathen = 2
+			institution_spread_from_true_faith = 0.15
+			advisor_pool = 1
 		}
-		
-		personal_deity = yes
-		
 		on_convert = {
-			change_religion = hinduism
 			add_prestige = -100
-			
+			add_stability = -1
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
 		}
-		
-		heretic = { BHAKTI }
-	}
-	
-	jain = {
-		color = { 45 57 158 }
-		icon = 4
+		harmonized_modifier = harmonized_fajiao
 
-		country = {
-			tolerance_heathen = 2
-			tolerance_heretic = 2
-			religious_unity = 0.5
-		}
-		country_as_secondary = {
-			tolerance_heretic = 1
-			religious_unity = 0.25
-		}
+		heretic = { WHITE-LOTUS }
 		
-		heretic = { TERAPANTHA }
-		
-		uses_karma = yes
+		personal_deity = yes
 	}
-	
+
 	buddhism = { #Theravada
 		color = { 204 76 0 }
 		icon = 24
@@ -2026,11 +2058,11 @@ dharmic = {
 			}
 		}
 		
-		heretic = { ZEN }
-		
 		harmonized_modifier = harmonized_buddhism
 		
-		uses_karma = yes
+		heretic = { WHITE-LOTUS }
+		
+		uses_piety = yes
 	}
 	
 	vajrayana = {
@@ -2056,17 +2088,18 @@ dharmic = {
 				duration = 3650
 			}
 		}
-		
-		heretic = { ZEN }
-		
-		uses_karma = yes
-	
 		harmonized_modifier = harmonized_vajrayana
+		
+		heretic = { WHITE-LOTUS }
+		
+		uses_piety = yes
+		
+	
 	}
 	
-	mahayana = {
+	mahayana = { #Indian Mahayana
 		color = { 204 76 127 }
-		icon = 23
+		icon = 7
 		allowed_conversion = {
 			vajrayana
 			buddhism #Theravada
@@ -2087,13 +2120,174 @@ dharmic = {
 				duration = 3650
 			}
 		}
-		
 		harmonized_modifier = harmonized_mahayana
 		
-		heretic = { ZEN }
+		heretic = { WHITE-LOTUS }
 		
-		uses_karma = yes
+		uses_piety = yes
 	}
+	
+	crusade_name = GREATPACIFICATION
+	
+}
+
+sanatana_dharma = {
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
+
+	hinduism = { #Vaishnavism
+		color = { 0 175 202 } #0 204 204
+		icon = 40
+		allowed_conversion = {
+			shaivite
+			smarta
+		}
+		country = {
+			tolerance_heathen = 1
+			development_cost = -0.1
+			brahmins_hindu_influence_modifier = 0.2
+		}
+		country_as_secondary = {
+			development_cost = -0.1
+			tolerance_heathen = 2
+		}
+		
+		personal_deity = yes
+		
+		on_convert = {
+			change_religion = hinduism
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { NASTIKA }
+	}
+	
+	shaivite = { #Shaivism
+		color = { 80 190 205 }
+		icon = 41
+		allowed_conversion = {
+			hinduism
+			smarta
+		}
+		country = {
+			tolerance_heathen = 1
+			shock_damage = 0.10
+			brahmins_hindu_influence_modifier = 0.2
+		}
+		country_as_secondary = {
+			cavalry_power = 0.10
+			tolerance_heathen = 2
+		}
+		
+		personal_deity = yes
+		
+		on_convert = {
+			change_religion = shaivite
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { NASTIKA }
+	}
+	
+	smarta = { #Smarta
+		color = { 190 250 255 }
+		icon = 8
+		allowed_conversion = {
+			hinduism
+			shaivite
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+			brahmins_hindu_influence_modifier = 0.2
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+			tolerance_heathen = 2
+		}
+		
+		personal_deity = yes
+		
+		on_convert = {
+			change_religion = smarta
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { NASTIKA }
+	}
+	
+	harmonized_modifier = harmonized_dharmic
+	
+	crusade_name = DHARMAYUDDHA
+}
+
+jain_dharma = {
+	
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
+	
+	svetambara = {
+		color = { 45 57 158 }
+		icon = 4
+
+		country = {
+			diplomatic_reputation = 1
+			merchants = 1
+			female_advisor_chance = 0.1
+		}
+		country_as_secondary = {
+			global_trade_power = 0.1
+			religious_unity = 0.25
+		}
+		
+		heretic = { TERAPANTHA }
+		
+		uses_piety = yes
+	}
+	
+	digambara = {
+		color = { 103 45 158 }
+		icon = 38
+
+		country = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		country_as_secondary = {
+			same_religion_advisor_cost = -0.15
+			religious_unity = 0.25
+		}
+		
+		heretic = { TERAPANTHA }
+		
+		uses_piety = yes
+	}
+	
+	harmonized_modifier = harmonized_jain
+	
+	crusade_name = DHARMAYUDDHA
+}
+
+sikhi = {
+
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
 
 	sikhism = {
 		color = { 0 153 153 }
@@ -2699,9 +2893,8 @@ dharmic = {
 		}
 	}
 	
-	harmonized_modifier = harmonized_dharmic
-	
-	crusade_name = CRUSADE
+	harmonized_modifier = harmonized_sikh
+	crusade_name = DHARMAYUDDHA
 }
 
 pagan = {

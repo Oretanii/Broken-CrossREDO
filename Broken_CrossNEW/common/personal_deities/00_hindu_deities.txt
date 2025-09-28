@@ -1,0 +1,317 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+#buddha = {
+	#sprite = 6
+	#potential = { 
+		#religion = hinduism
+		#OR = {
+			#mission_completed = mnd_maj_candi_shrines
+			#mission_completed = sun_candi_temples
+			#mission_completed = mnd_khm_religion
+		#}
+	#}
+	#trigger = {}
+	#tolerance_heathen = 2
+	#advisor_cost = -0.1
+	#effect = {}
+	#removed_effect = {}
+	#ai_will_do = {
+		#factor = 1
+		#modifier = {
+			#factor = 3
+			#any_owned_province = {
+				#OR = {
+					#religion = buddhism
+					#religion = mahayana
+					#religion = vajrayana
+				#}
+			#}
+		#}
+	#}
+#}
+
+shiva = { 
+	# (Diplomatic - War)
+	ae_impact = -0.05
+	core_creation = -0.10
+	
+	potential = { 
+		OR = {
+			religion = shaivite 
+			religion = smarta
+		}
+	}
+	trigger = {}
+	sprite = 8
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+
+ganesha = {
+	#(Diplomatic - Peace)
+	diplomatic_reputation = 1
+	improve_relation_modifier = 0.20
+	
+	potential = { 
+		OR = {
+			religion = shaivite 
+			religion = smarta
+		}
+	}
+	trigger = {}
+	sprite = 1
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}			
+	}	
+}
+
+shakti = { 
+	#(Military - Offensive) 
+	siege_ability = 0.05
+	movement_speed = 0.10 
+	
+	potential = { 
+		OR = {
+			religion = shaivite 
+			religion = smarta
+		}
+	}
+	trigger = {}
+	sprite = 7
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}	
+}
+
+kartikeya = { 
+	#(Military - Offensive) 
+	manpower_in_true_faith_provinces = 0.15
+	drill_gain_modifier = 0.5
+	
+	potential = { religion = shaivite }
+	trigger = {}
+	sprite = 4
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}	
+}
+
+kali = { 
+	#(Military - Offensive) 
+	morale_damage = 0.025
+	prestige_from_land = 0.10
+	
+	potential = { religion = shaivite }
+	trigger = {}
+	sprite = 3
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}	
+}
+
+vishnu = {
+	# (Military - Defensive)
+	defensiveness = 0.2
+	stability_cost_modifier = -0.1
+	
+	potential = { 
+		OR = {
+			religion = hinduism 
+			religion = smarta
+		}
+	}
+	trigger = {}
+	sprite = 10
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}		
+	}	
+}
+
+krishna = {
+	# (Diplomatic - Missionary)
+	diplomatic_reputation = 1
+	global_missionary_strength = 0.02
+	
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 5
+	effect = {}
+	
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_balanced
+		}		
+	}
+}
+
+hanuman = {
+	# (Military - Defensive)
+	recover_army_morale_speed = 0.10
+	discipline = 0.05
+	
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 2
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}	
+}
+
+rama = {
+	# (Economic - Income)
+	global_tax_modifier = 0.10
+	interest = -0.25
+	
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 11
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}		
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}					
+	}	
+}
+
+lakshmi = {
+	#(Economic - Trade)
+	global_trade_power = 0.1
+	global_trade_goods_size_modifier = 0.1
+	
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 6
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}		
+	}	
+}
+
+surya = {
+	#(Economic - Income)
+	global_tax_modifier = 0.10
+	trade_efficiency = 0.10
+	
+	potential = { religion = smarta }
+	trigger = {}
+	sprite = 9
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}		
+		modifier = {
+			factor = 2
+			personality = ai_administrator
+		}			
+	}	
+}
+
