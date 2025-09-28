@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = moroccan
-religion = shiite
+religion = zaydi
 technology_group = muslim
 capital = 344 # Marrakech
 add_accepted_culture = berber
-religious_school = zaidi_school
+religious_school = jarudi_school
 
 1399.1.1 = {
 	monarch = {

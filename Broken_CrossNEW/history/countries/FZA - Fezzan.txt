@@ -2,11 +2,12 @@ government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
 primary_culture = sahrawi
-religion = ibadi
+religion = ismaili
 add_accepted_culture = tunisian
 technology_group = muslim
 capital = 2448	# Murzuk
 fixed_capital = 2448 # Cannot move capital away from this province & no power cost to move to it
+religious_school = nizari_school
 
 1400.1.1 = { capital = 354 } # Tripoli
 

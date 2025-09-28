@@ -3,7 +3,7 @@
 owner = IDS
 controller = IDS
 culture = berber
-religion = sunni
+religion = zaydi
 capital = "Oujda"
 trade_goods = wool
 hre = no

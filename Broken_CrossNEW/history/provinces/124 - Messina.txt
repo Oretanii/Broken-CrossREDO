@@ -3,7 +3,7 @@
 owner = SQL
 controller = SQL
 culture = siqilyian
-religion = shiite 
+religion = ismaili 
 hre = no 
 base_tax = 3 
 base_production = 3

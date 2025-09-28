@@ -2,7 +2,7 @@
 owner = FZA
 controller = FZA 
 culture = tunisian
-religion = shiite
+religion = ismaili
 capital = "Kairwan"
 trade_goods = grain
 hre = no

@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA 
 culture = tunisian
-religion = ibadi
+religion = ismaili
 capital = "Gafsa"
 trade_goods = salt
 hre = no

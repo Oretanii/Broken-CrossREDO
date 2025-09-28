@@ -3,7 +3,7 @@
 owner = ALM
 controller = ALM
 culture = berber
-religion = shiite
+religion = ibadi
 capital = "Figuig"
 trade_goods = livestock
 hre = no

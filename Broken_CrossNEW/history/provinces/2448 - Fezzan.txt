@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA 
 culture = sahrawi
-religion = ibadi
+religion = ismaili
 capital = "Murzuk"
 trade_goods = ivory
 hre = no

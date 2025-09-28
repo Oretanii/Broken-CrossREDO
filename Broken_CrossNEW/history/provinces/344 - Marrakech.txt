@@ -3,7 +3,7 @@
 owner = IDS
 controller = IDS
 culture = moroccan
-religion = shiite
+religion = zaydi
 capital = "Marrakech"
 trade_goods = sugar
 hre = no

@@ -1,7 +1,7 @@
 #1228 - Dongola
 
 culture = nubian 
-religion = shiite
+religion = ismaili
 capital = "Dunqula"
 owner = ABB
 controller = ABB

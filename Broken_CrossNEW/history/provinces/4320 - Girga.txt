@@ -3,7 +3,7 @@
 owner = CAI
 controller = CAI
 culture = al_misr_arabic
-religion = shiite
+religion = ismaili
 capital = "Girga"
 trade_goods = grain
 hre = no

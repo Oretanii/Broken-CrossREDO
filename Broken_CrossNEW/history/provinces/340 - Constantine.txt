@@ -3,7 +3,7 @@
 owner = NMD
 controller = NMD 
 culture = berber
-religion = shiite
+religion = ismaili
 capital = "Constantine"
 trade_goods = grain
 hre = no

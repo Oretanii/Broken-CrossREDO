@@ -1897,7 +1897,7 @@ muslim = {
 	}
 	
 	zaydi = { 
-		color = { 195 245 145 } 
+		color = { 90 170 10 } 
 		icon = 36
 		country = {
 			heir_chance = 1.0

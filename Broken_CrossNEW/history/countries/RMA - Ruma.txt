@@ -1,13 +1,13 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = italiu
-religion = shiite
+religion = ismaili
 historical_rival = NAB
 historical_rival = SQL
 technology_group = muslim
 capital = 118
 government_rank = 1
-religious_school = maliki_school
+religious_school = nizari_school
 
 1438.1.1 = {
 	monarch = {

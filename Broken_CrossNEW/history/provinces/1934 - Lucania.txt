@@ -3,7 +3,7 @@
 owner = NAB
 controller = NAB
 culture = nofsinhar
-religion = shiite 
+religion = ismaili 
 hre = no 
 base_tax = 2 
 base_production = 2

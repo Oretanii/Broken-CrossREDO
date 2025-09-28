@@ -3,7 +3,7 @@
 owner = SBY
 controller = SBY
 culture = serbian
-religion = shiite
+religion = ismaili
 capital = "Zabljak"
 trade_goods = fish
 hre = no

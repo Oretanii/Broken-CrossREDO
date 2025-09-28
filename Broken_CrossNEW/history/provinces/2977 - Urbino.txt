@@ -3,7 +3,7 @@
 owner = RMA
 controller = RMA
 culture = italiu 
-religion = shiite 
+religion = ismaili 
 hre = no 
 base_tax = 5
 base_production = 5

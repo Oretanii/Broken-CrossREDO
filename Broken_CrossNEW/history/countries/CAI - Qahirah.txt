@@ -1,14 +1,14 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = al_misr_arabic
-religion = shiite
+religion = ismaili
 technology_group = muslim
 historical_rival = HSN
 historical_rival = MAM
 capital = 361
 fixed_capital = 361 # Fayyyum
 add_army_professionalism = 0.1
-religious_school = ismaili_school
+religious_school = hafizi_school
 
 1438.6.8 = {
 	monarch = {

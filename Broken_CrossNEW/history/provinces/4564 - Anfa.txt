@@ -3,7 +3,7 @@
 owner = IDS
 controller = IDS
 culture = moroccan
-religion = shiite
+religion = zaydi
 capital = "Anfa"
 trade_goods = grain
 hre = no

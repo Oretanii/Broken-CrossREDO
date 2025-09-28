@@ -3,7 +3,7 @@
 owner = NMD
 controller = NMD
 culture = berber
-religion =  shiite
+religion =  ismaili
 capital = "Annaba"
 trade_goods = naval_supplies
 hre = no

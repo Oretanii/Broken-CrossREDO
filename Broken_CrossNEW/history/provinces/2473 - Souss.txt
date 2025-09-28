@@ -3,7 +3,7 @@
 owner = SQL
 controller = SQL
 culture = tunisian
-religion =  shiite
+religion =  ismaili
 capital = "Susa"
 trade_goods = sugar
 hre = no

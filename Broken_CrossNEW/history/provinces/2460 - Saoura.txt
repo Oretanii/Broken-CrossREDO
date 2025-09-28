@@ -3,7 +3,7 @@
 owner = ALM
 controller = ALM
 culture = moroccan
-religion = shiite
+religion = ibadi
 capital = "Oulad Mhedi"
 trade_goods = livestock
 hre = no

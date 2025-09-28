@@ -1,13 +1,13 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = nofsinhar
-religion = shiite
+religion = ismaili
 historical_rival = RMA
 historical_rival = SQL
 technology_group = muslim
 capital = 121
 government_rank = 1
-religious_school = ismaili_school
+religious_school = nizari_school
 
 1440.1.1 = {
 	monarch = {

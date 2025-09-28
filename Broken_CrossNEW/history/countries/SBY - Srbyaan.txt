@@ -1,10 +1,10 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = serbian
-religion = shiite
+religion = ismaili
 technology_group = muslim
 capital = 4239	# Belgrade
-religious_school = ismaili_school
+religious_school = nizari_school
 
 1389.1.1 = {
 	government_rank = 1

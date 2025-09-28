@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA 
 culture = tunisian
-religion =   shiite
+religion =   ismaili
 capital = "El Kef"
 trade_goods = wool
 hre = no

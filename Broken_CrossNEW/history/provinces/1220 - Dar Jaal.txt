@@ -1,7 +1,7 @@
 #1220 - Dar Ja'al
 
 culture = nubian 
-religion = sunni
+religion = ismaili
 capital = "Bayuda"
 owner = ABB
 controller = ABB

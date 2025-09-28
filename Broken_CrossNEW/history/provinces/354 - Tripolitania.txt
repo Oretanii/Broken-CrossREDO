@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA
 culture = tunisian
-religion = ibadi
+religion = ismaili
 capital = "Tripoli" #Tripoli in the West.
 estate = estate_nobles
 trade_goods = cloth
