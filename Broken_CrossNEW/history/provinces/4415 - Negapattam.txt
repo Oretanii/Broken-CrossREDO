@@ -3,7 +3,7 @@
 owner = MAD
 controller = MAD
 culture = tamil
-religion = hinduism
+religion = shaivite
 capital = "Negapatam"
 trade_goods = cloth
 hre = no

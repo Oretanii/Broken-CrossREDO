@@ -3,7 +3,7 @@
 owner = KRK
 controller = KRK
 culture = tamil
-religion = hinduism
+religion = shaivite
 capital = "Arcot"
 trade_goods = iron
 hre = no

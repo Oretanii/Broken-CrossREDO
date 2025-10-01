@@ -3,7 +3,7 @@
 owner = ORI
 controller = ORI
 culture = oriya
-religion = hinduism
+religion = vajrayana
 capital = "Cuttack"
 trade_goods = cloth
 hre = no

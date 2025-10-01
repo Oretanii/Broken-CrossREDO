@@ -2,7 +2,8 @@ government = monarchy
 add_government_reform = nayankara_reform
 government_rank = 1
 technology_group = indian
-religion = hinduism
+religion = ibadi
+religious_school = ibadi_school
 primary_culture = malayalam
 capital = 537	# Padmanabhapuram
 

@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = marathi
-religion = hinduism
+religion = digambara
 capital = "Daulatabad"
 trade_goods = paper
 hre = no

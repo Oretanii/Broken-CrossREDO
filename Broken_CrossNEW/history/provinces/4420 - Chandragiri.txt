@@ -3,7 +3,7 @@
 owner = MAD
 controller = MAD
 culture = telegu
-religion = hinduism
+religion = shaivite
 capital = "Chandragiri"
 trade_goods = cotton
 hre = no

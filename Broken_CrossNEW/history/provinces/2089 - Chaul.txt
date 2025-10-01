@@ -1,9 +1,9 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 
-owner = BAH
-controller = BAH
+owner = MAR
+controller = MAR
 culture = marathi
-religion = hinduism
+religion = digambara
 capital = "Chaul"
 trade_goods = cloth
 hre = no

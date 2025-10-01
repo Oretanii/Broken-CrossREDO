@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = marathi
-religion = hinduism
+religion = digambara
 capital = "Junir"
 trade_goods = cotton
 hre = no

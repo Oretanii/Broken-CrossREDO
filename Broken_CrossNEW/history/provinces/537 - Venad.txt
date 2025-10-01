@@ -3,7 +3,7 @@
 owner = VND
 controller = VND
 culture = malayalam
-religion = hinduism
+religion = ibadi
 capital = "Quilon"
 trade_goods = spices
 hre = no
