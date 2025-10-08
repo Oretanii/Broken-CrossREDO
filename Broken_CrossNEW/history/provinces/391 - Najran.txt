@@ -1,9 +1,9 @@
 #391 - Najran
 
-owner = NJR
-controller = NJR
+owner = RAS
+controller = RAS
 culture = yemeni_culture
-religion = shiite
+religion = zaydi
 capital = "Najran"
 trade_goods = cloth
 hre = no
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = NJR
+add_core = RAS
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

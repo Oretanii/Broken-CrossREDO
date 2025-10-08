@@ -1,9 +1,9 @@
 #404 - Liwa
 
-owner = YAS
-controller = YAS
+owner = OMA
+controller = OMA
 culture = gulf_arabic
-religion = sunni
+religion = ibadi
 capital = "Liwa"
 trade_goods = spices #Dates
 hre = no
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = YAS
+add_core = OMA
 discovered_by = Dhimmi discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

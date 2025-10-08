@@ -1,7 +1,12 @@
 #1100 - Mahe
 
+culture = omani_culture
+religion = ibadi
+owner = OMA
+controller = OMA
+add_core = OMA
 capital = "Mahe"
-trade_goods = unknown
+trade_goods = sugar
 hre = no
 base_tax = 2 
 base_production = 2

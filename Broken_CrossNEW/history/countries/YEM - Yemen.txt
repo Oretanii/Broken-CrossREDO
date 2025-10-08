@@ -1,10 +1,10 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = yemeni_culture
-religion = sunni
+religion = ismaili
 technology_group = muslim
 capital = 4280	# Taiz
-religious_school = shafii_school
+religious_school = hafizi_school
 
 #Rasulids
 1377.1.1 = {

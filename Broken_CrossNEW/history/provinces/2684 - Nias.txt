@@ -1,9 +1,12 @@
 #2684 - Nias
 
 culture = sumatran
-religion = hinduism
+religion = ibadi
+owner = OMA
+controller = OMA
+add_core = OMA
 capital = "Nias"
-trade_goods = unknown
+trade_goods = spices
 hre = no
 base_tax = 1 
 base_production = 1

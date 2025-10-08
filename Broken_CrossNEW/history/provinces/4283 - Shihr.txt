@@ -3,7 +3,7 @@
 owner = HDR
 controller = HDR
 culture = yemeni_culture
-religion = sunni
+religion = ismaili
 capital = "As Shihr"
 trade_goods = incense
 hre = no

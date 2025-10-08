@@ -1,7 +1,7 @@
 #397 - Abu Dhabi
 
-owner = ORM
-controller = ORM
+owner = ALH
+controller = ALH
 culture = gulf_arabic
 religion = shiite
 capital = "Abu Dhabi"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ORM
+add_core = ALH
 add_core = SHR
 add_core = YAS
 discovered_by = Dhimmi discovered_by = muslim

@@ -12,7 +12,7 @@ historical_rival = TIM
 capital = 428 # Tehran
 national_focus = MIL
 add_army_professionalism = 0.1
-religious_school = hanafi_school
+religious_school = usuli_school
 
 change_estate_land_share = {
 	estate = estate_church

@@ -1,10 +1,13 @@
 #4020 - Comoros
 
-culture = madagasque #Malagasy
-religion = sunni
+culture = omani_culture
+religion = ibadi
+owner = OMA
+controller = OMA
+add_core = OMA
 capital = "Ndzuwani"
 native_size = 40
-trade_goods = unknown
+trade_goods = sugar
 hre = no
 base_tax = 1 
 base_production = 1

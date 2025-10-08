@@ -1,7 +1,12 @@
 #1101 - Diego Garcia
 
+culture = omani_culture
+religion = ibadi
+owner = OMA
+controller = OMA
+add_core = OMA
 capital = "Diego Garcia"
-trade_goods = unknown
+trade_goods = naval_supplies
 hre = no
 base_tax = 1 
 base_production = 1
