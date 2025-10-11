@@ -1,8 +1,8 @@
 #Haicheng
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = shandong_culture # check
 religion = fajiao
 capital = "Haicheng"

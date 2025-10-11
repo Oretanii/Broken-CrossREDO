@@ -1,8 +1,8 @@
 #726 - Liaodong
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = manchu
 religion = vajrayana
 capital = "Shenyang"
