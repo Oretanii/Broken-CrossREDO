@@ -118,3 +118,7 @@ AMV = "countries/Almoravids.txt"
 
 #New World
 ABM = "countries/Al-Abama.txt"
+
+#East Asia
+GOR = "countries/Goryeo.txt"
+JOS = "countries/Joseon.txt"

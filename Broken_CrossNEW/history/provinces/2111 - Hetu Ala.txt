@@ -1,10 +1,10 @@
 # 2111 - Hetu Ala
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = manchu
-religion = confucianism
+religion = fajiao
 capital = "Hetu Ala"
 trade_goods = iron
 hre = no
@@ -12,7 +12,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 5
 is_city = yes
-estate = estate_nomadic_tribes
 discovered_by = chinese
 discovered_by = nomad_group
 

@@ -1,10 +1,10 @@
 # 2110 - Yehe
 
-owner = MHX
-controller = MHX
-add_core = MHX
+owner = MJZ
+controller = MJZ
+add_core = MJZ
 culture = manchu
-religion = confucianism
+religion = vajrayana
 capital = "Yehe"
 trade_goods = fur
 hre = no

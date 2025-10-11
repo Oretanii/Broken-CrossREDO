@@ -1,9 +1,9 @@
 #732 - Hamgyeong
 
-owner = KOR
-controller = KOR
+owner = GOR
+controller = GOR
 culture = korean
-religion = confucianism
+religion = daoism
 capital = "Hamgyeong"
 trade_goods = fish
 hre = no
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = KOR
+add_core = GOR
 add_local_autonomy = 35
 discovered_by = chinese
 discovered_by = nomad_group

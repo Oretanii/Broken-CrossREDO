@@ -1,10 +1,10 @@
 #726 - Liaodong
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = MJZ
+controller = MJZ
+add_core = MJZ
 culture = manchu
-religion = confucianism
+religion = vajrayana
 capital = "Shenyang"
 trade_goods = gems #Youyan Jade
 hre = no

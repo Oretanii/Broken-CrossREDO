@@ -39,3 +39,6 @@
  hinduism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  hinduism_rebels_army: "$RELIGION$ Army"
  hinduism_religion_desc: "Vaishnavism is one of the major traditions of Hinduism which worships Vishnu as the Supreme Being (Brahman). Vaishnavism is followed all over India."
+ #
+ confucianism: "Xinxue"
+ confucianism_religion_desc: "Xinxue is one of the major schools of Neo-Confucianism. The Heart School, belief that Li can be found from the mind is a central tenet of this school.

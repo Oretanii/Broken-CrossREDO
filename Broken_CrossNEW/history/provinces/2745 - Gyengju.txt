@@ -1,9 +1,9 @@
 #2744 - Gyeongsang
 
-owner = KOR
-controller = KOR
+owner = JOS
+controller = JOS
 culture = korean
-religion = confucianism
+religion = cheng_zhu
 capital = "Gyeongju"
 trade_goods = tea
 hre = no
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = KOR
+add_core = JOS
 fort_15th = yes
 discovered_by = chinese
 discovered_by = nomad_group

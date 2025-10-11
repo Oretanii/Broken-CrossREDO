@@ -1,9 +1,9 @@
 #4228 - Naju
 
-owner = KOR
-controller = KOR
+owner = JOS
+controller = JOS
 culture = korean
-religion = confucianism
+religion = fajiao
 capital = "Naju"
 trade_goods = paper #And Silk
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KOR
+add_core = JOS
 discovered_by = chinese
 discovered_by = nomad_group
 estate = estate_church

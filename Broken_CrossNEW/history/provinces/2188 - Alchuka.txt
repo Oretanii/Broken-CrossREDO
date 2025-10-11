@@ -1,10 +1,10 @@
 # 2188 - Alchuka
 
-owner = MHX
-controller = MHX
-add_core = MHX
+owner = MJZ
+controller = MJZ
+add_core = MJZ
 culture = manchu
-religion = tengri_pagan_reformed
+religion = vajrayana
 capital = "Alchuka"
 trade_goods = grain
 hre = no

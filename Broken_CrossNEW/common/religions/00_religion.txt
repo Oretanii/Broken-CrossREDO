@@ -1951,12 +1951,12 @@ eastern = {
 	flag_emblem_index_range = { 58 80 }
 
 
-	confucianism = {
+	confucianism = { #Yangmingism
 		color = { 245 20 40 }
-		icon = 39
+		icon = 42
 		country = {
+			tolerance_heathen = 2
 			administrative_efficiency = 0.025
-			adm_tech_cost_modifier = -0.1
 		}
 		country_as_secondary = {
 			adm_tech_cost_modifier = -0.1
@@ -1981,6 +1981,21 @@ eastern = {
 		harmonized_daoism
 		heretic = { WHITE-LOTUS}
 		ancestors = yes
+	}
+	
+	cheng_zhu = { #Cheng-Zhu
+		color = { 160 5 5 }
+		icon = 39
+		country = {
+			administrative_efficiency = 0.025
+			adm_tech_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			culture_conversion_cost = -0.1
+			stability_cost_modifier = -0.1
+		}
+		heretic = { TAOIST }
+		uses_harmony = yes
 	}
 
 	shinto = {
