@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = bengali
-religion = hinduism
+religion = shaivite
 capital = "Satgaon"
 trade_goods = spices
 hre = no

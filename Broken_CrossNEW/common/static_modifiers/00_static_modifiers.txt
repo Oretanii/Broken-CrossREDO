@@ -879,7 +879,7 @@ navy_tradition = {
 
 positive_piety = { #Positive Karma for Buddhist and Jain
 	idea_cost = -0.1
-	global_missionary_strength = 0.03
+	global_missionary_strength = 0.015
 	accept_vassalization_reasons = 15
 	stability_cost_modifier = -0.1
 	church_loyalty_modifier = 0.1

@@ -3,7 +3,7 @@
 owner = GOC
 controller = GOC
 culture = telegu
-religion = hinduism
+religion = smarta
 capital = "Golconda"
 trade_goods = gems #Diamonds
 #trade_goods = silk

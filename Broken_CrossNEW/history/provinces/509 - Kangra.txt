@@ -3,7 +3,7 @@
 owner = KGR
 controller = KGR
 culture = pahari
-religion = hinduism
+religion = vajrayana
 capital = "Kangra"
 trade_goods = cotton
 hre = no

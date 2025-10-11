@@ -3,7 +3,7 @@
 owner = GHR
 controller = GHR
 culture = pahari
-religion = hinduism
+religion = vajrayana
 capital = "Devalgarh"
 trade_goods = cotton
 hre = no

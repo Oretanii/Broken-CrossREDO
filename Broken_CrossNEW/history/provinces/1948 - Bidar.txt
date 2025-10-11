@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = kannada
-religion = hinduism
+religion = shaivite
 capital = "Bidar"
 trade_goods = silk
 hre = no

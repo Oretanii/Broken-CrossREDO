@@ -3,7 +3,7 @@
 owner = DYD
 controller = DYD
 culture = bengali
-religion = hinduism #A good case could be made that this province was atleast 50% buddhist
+religion = vajrayana #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"
 trade_goods = cotton
 hre = no

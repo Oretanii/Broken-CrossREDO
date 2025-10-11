@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = avadhi
-religion = hinduism
+religion = shaivite
 capital = "Allahabad"
 trade_goods = cloth
 hre = no

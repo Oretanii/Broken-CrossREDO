@@ -3,7 +3,7 @@
 owner = MAM
 controller = MAM
 culture = al_iraqiya_arabic
-religion = sunni
+religion = shiite
 capital = "Najaf"
 trade_goods = spices #Dates
 hre = no

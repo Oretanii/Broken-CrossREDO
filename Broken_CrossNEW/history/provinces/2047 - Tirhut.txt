@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = bihari
-religion = hinduism
+religion = vajrayana
 capital = "Sugauna"
 trade_goods = dyes
 hre = no

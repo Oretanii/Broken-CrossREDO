@@ -2,7 +2,7 @@
 
 owner = BAH
 controller = BAH
-culture = marathi
+culture = parsi
 religion = zoroastrian
 capital = "Thana"
 trade_goods = cloth

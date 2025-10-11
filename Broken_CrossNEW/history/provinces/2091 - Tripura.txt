@@ -3,7 +3,7 @@
 owner = DYD
 controller = DYD
 culture = chin
-religion = hinduism
+religion = vajrayana
 capital = "Udaipur"
 trade_goods = tropical_wood
 hre = no

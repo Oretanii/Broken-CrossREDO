@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = kannada
-religion = hinduism
+religion = shaivite
 capital = "Bijapur"
 trade_goods = cotton
 hre = no

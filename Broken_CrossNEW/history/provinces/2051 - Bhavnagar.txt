@@ -1,7 +1,7 @@
 #2051 - Bhavnagar
 
-owner = PTL
-controller = PTL
+owner = JGD
+controller = JGD
 culture = saurashtri
 religion = hinduism
 capital = "Bhavnagar"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = PTL
+add_core = JGD
 discovered_by = chinese
 discovered_by = indian
 discovered_by = Dhimmi discovered_by = muslim 

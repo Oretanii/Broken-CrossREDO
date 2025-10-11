@@ -2,8 +2,8 @@
 
 owner = TIM
 controller = TIM
-culture = bengali
-religion = hinduism
+culture = vajrayana
+religion = shaivite
 capital = "Howrah"
 trade_goods = silk
 hre = no

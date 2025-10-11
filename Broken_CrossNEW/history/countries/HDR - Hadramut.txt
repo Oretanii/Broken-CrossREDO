@@ -4,7 +4,7 @@ primary_culture = yemeni_culture
 religion = ismaili
 technology_group = muslim
 capital = 4283	# Shihr
-religious_school = hafizi_school
+religious_school = tayyibi_school
 
 #Sultans of Al-Kathiri
 1435.1.1 = {

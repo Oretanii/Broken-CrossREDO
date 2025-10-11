@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = kochi
-religion = hinduism
+religion = vajrayana
 capital = "Rangpur"
 trade_goods = cloth
 hre = no

@@ -9417,7 +9417,7 @@ western_aryan = {
 		}
 	}
 	parsi = {
-		primary = GUJ
+		primary = AHM
 		dynasty_names = {
 			"Vakil" "Wadia" "Pithawala" "Subedar" "Sanjana" "Surti" "Bulsara" "Damania" "Gandhi" "Marzban"
 			"Jejeebhoy" "Tata"  

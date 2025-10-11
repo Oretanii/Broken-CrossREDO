@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = bengali
-religion = hinduism
+religion = vajrayana
 capital = "Fathabad"
 trade_goods = grain #Rice
 hre = no
