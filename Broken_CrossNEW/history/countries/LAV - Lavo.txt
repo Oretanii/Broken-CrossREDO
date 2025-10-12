@@ -3,6 +3,7 @@ add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = dvaravati
 religion = mahayana
+secondary_religion = buddhism
 technology_group = chinese
 capital = 4832 # Lopburi
 

@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = nayankara_reform
 technology_group = indian
 religion = shaivite
+secondary_religion = buddhism
 primary_culture = tamil
 capital = 2101 #Tirunelveli
 #capital = 536 #Madurai

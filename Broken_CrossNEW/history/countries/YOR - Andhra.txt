@@ -4,6 +4,7 @@ government_rank = 1
 technology_group = indian
 primary_culture = telegu
 religion = smarta
+secondary_religion = vajrayana
 capital = 2084	# Rajahmundry
 
 #Reddi Dynasty

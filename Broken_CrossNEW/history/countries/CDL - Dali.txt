@@ -5,4 +5,5 @@ religion = vajrayana
 technology_group = chinese
 capital = 661	# Dali
 secondary_religion = sunni
-
+add_accepted_culture = phu
+add_accepted_culture = nakhi

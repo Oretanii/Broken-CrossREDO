@@ -1993,7 +1993,7 @@ eastern = {
 		}
 		country_as_secondary = {
 			culture_conversion_cost = -0.1
-			stability_cost_modifier = -0.1
+			missionaries = 1
 		}
 		heretic = { TAOIST }
 		uses_harmony = yes
@@ -2033,7 +2033,7 @@ eastern = {
 			stability_cost_modifier = -0.1
 		}
 		country_as_secondary = {
-			institution_spread_from_true_faith = 0.15
+			yearly_innovativeness = 0.25
 			advisor_pool = 1
 		}
 		on_convert = {
@@ -2096,8 +2096,12 @@ eastern = {
 			land_morale = 0.05
 		}
 		country_as_secondary = {
-			horde_unity = 1
 			tolerance_own = 1
+			legitimacy = 1
+			republican_tradition = 0.5
+			devotion = 1
+			horde_unity = 1
+			meritocracy = 1
 		}
 		on_convert = {
 			add_prestige = -100
@@ -2150,7 +2154,7 @@ eastern = {
 	
 }
 
-sanatana_dharma = {
+dharmic = {
 
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
@@ -2168,7 +2172,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			development_cost = -0.1
+			production_efficiency = 0.1
 			tolerance_heathen = 2
 		}
 		
@@ -2201,7 +2205,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			cavalry_power = 0.10
+			global_manpower_modifier = 0.10
 			tolerance_heathen = 2
 		}
 		
@@ -2234,7 +2238,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			stability_cost_modifier = -0.1
+			prestige_decay = -0.01
 			tolerance_heathen = 2
 		}
 		
@@ -2274,7 +2278,7 @@ jain_dharma = {
 			female_advisor_chance = 0.1
 		}
 		country_as_secondary = {
-			global_trade_power = 0.1
+			global_trade_power = 0.2
 			religious_unity = 0.25
 		}
 		

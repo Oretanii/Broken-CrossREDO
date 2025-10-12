@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = nayankara_reform
 primary_culture = oriya
 religion = vajrayana
+secondary_religion = mahayana
 technology_group = indian
 capital = 552	# Cuttack
 

@@ -39,6 +39,7 @@
  hinduism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  hinduism_rebels_army: "$RELIGION$ Army"
  hinduism_religion_desc: "Vaishnavism is one of the major traditions of Hinduism which worships Vishnu as the Supreme Being (Brahman). Vaishnavism is followed all over India."
+ dharmic: "Hindu"
  #
  confucianism: "Xinxue"
  confucianism_religion_desc: "While Xinxue, the Heart School, did not exist at the start of the game, Xinxue as it stands in this mod is an abstraction for a more tolerant and syncretic form of Neo-Confucianism practiced in China and Vietnam. Xinxue was chosen to represent this current of Neo-Confucianism which would become influential/popular over the course of the game."
