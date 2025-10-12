@@ -2,7 +2,7 @@
 owner = ANK
 controller = ANK
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Rayong"
 trade_goods = grain
 hre = no

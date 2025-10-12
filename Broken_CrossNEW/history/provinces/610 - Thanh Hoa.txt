@@ -3,7 +3,7 @@
 owner = HUK
 controller = HUK
 culture = vietnamese
-religion = mahayana
+religion = fajiao
 capital = "Thanh Hoa"
 trade_goods = grain
 hre = no

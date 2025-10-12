@@ -1,7 +1,7 @@
 owner = TKM
 controller = TKM
 culture = kuy
-religion = buddhism
+religion = mahayana
 capital = "Sip Et"
 trade_goods = ivory
 hre = no

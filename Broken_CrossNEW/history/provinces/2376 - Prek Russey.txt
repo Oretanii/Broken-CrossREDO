@@ -3,7 +3,7 @@
 owner = CHA
 controller = CHA
 culture = khmer
-religion = hinduism
+religion = ismaili
 capital = "Prek Russey"
 trade_goods = grain
 hre = no
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = CHA
+center_of_trade = 2
 
 
 

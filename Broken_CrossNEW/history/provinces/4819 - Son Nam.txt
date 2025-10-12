@@ -1,7 +1,7 @@
 owner = THL
 controller = THL
 culture = vietnamese
-religion = mahayana
+religion = fajiao
 capital = "Son Nam"
 trade_goods = grain
 hre = no

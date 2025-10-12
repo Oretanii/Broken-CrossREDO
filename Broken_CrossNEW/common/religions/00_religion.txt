@@ -1981,6 +1981,7 @@ eastern = {
 		harmonized_daoism
 		heretic = { WHITE-LOTUS}
 		ancestors = yes
+		can_have_secondary_religion = yes
 	}
 	
 	cheng_zhu = { #Cheng-Zhu
@@ -1996,6 +1997,7 @@ eastern = {
 		}
 		heretic = { TAOIST }
 		uses_harmony = yes
+		can_have_secondary_religion = yes
 	}
 
 	shinto = {
@@ -2014,7 +2016,7 @@ eastern = {
 		}
 		heretic = { SHUGENDO }
 		uses_isolationism = yes
-		
+		can_have_secondary_religion = yes
 		harmonized_modifier = harmonized_shinto
 		
 	}
@@ -2047,6 +2049,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		personal_deity = yes
+		can_have_secondary_religion = yes
 	}
 
 	buddhism = { #Theravada
@@ -2078,6 +2081,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	vajrayana = {
@@ -2108,8 +2112,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
-		
-	
+		can_have_secondary_religion = yes
 	}
 	
 	mahayana = { #Indian Mahayana
@@ -2140,6 +2143,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	crusade_name = GREATPACIFICATION
@@ -2181,6 +2185,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	shaivite = { #Shaivism
@@ -2213,6 +2218,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	smarta = { #Smarta
@@ -2245,6 +2251,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	harmonized_modifier = harmonized_dharmic
@@ -2274,6 +2281,7 @@ jain_dharma = {
 		heretic = { TERAPANTHA }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	digambara = {
@@ -2292,6 +2300,7 @@ jain_dharma = {
 		heretic = { TERAPANTHA }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	harmonized_modifier = harmonized_jain

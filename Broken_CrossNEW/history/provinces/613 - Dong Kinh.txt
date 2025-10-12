@@ -3,7 +3,7 @@
 owner = THL
 controller = THL
 culture = vietnamese
-religion = mahayana
+religion = fajiao
 capital = "Dong Kinh"
 trade_goods = chinaware
 hre = no

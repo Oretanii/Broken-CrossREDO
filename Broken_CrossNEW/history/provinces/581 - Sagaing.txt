@@ -2,7 +2,7 @@
 
 owner = TGU
 controller = TGU
-culture = nakhi
+culture = pyu
 religion = buddhism
 capital = "Taguang"
 trade_goods = cotton

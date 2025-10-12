@@ -3,7 +3,7 @@
 owner = TBL
 controller = TBL
 culture = malayan
-religion = sunni
+religion = ismaili
 capital = "Kedah"
 trade_goods = grain
 hre = no

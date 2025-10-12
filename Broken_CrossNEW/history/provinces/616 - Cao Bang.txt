@@ -3,7 +3,7 @@
 owner = THL
 controller = THL
 culture = zhuang
-religion = mahayana
+religion = daoism
 capital = "Cao Bang"
 trade_goods = grain
 hre = no

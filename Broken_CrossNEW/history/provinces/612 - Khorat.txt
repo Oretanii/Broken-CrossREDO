@@ -3,7 +3,7 @@
 owner = ANK
 controller = ANK
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Khorat"
 trade_goods = silk
 hre = no

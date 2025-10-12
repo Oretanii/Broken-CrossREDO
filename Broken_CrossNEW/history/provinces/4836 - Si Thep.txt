@@ -3,7 +3,7 @@
 owner = PHM
 controller = PHM
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Si Thep"
 trade_goods = grain
 hre = no

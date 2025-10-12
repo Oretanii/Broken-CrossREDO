@@ -2,7 +2,7 @@
 
 owner = HLN
 controller = HLN
-culture = nakhi
+culture = pyu
 religion = buddhism
 capital = "Halin"
 trade_goods = gems #Burmese Emerald/Myanmar Jade

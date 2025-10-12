@@ -3,7 +3,7 @@
 owner = CDL
 controller = CDL
 culture = bai
-religion = buddhism
+religion = vajrayana
 capital = "Guangnan"
 trade_goods = copper
 hre = no

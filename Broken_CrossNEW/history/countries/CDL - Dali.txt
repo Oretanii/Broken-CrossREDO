@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = bai
-religion = buddhism
+religion = vajrayana
 technology_group = chinese
 capital = 661	# Dali
+secondary_religion = sunni
 

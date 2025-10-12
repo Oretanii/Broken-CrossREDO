@@ -3,7 +3,7 @@
 owner = MSU
 controller = MSU
 culture = phu
-religion = buddhism
+religion = mahayana
 capital = "Muang Khoun"
 trade_goods = grain
 hre = no

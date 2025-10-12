@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = panjabi
-religion = hinduism
+religion = sunni
 capital = "Samana"
 trade_goods = cloth #Samianas
 hre = no

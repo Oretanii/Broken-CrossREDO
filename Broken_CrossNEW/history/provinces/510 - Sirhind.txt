@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = panjabi
-religion = hinduism
+religion = sunni
 capital = "Sirhind"
 trade_goods = cotton
 hre = no

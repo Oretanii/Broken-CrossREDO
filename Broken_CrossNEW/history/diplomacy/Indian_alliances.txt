@@ -1,0 +1,6 @@
+vassal = {
+	first = TIM
+	second = DYD
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}

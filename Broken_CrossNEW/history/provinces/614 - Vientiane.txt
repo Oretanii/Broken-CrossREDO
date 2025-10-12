@@ -3,7 +3,7 @@
 owner = MSU
 controller = MSU
 culture = siem
-religion = buddhism
+religion = mahayana
 capital = "Vientiane"
 trade_goods = grain
 hre = no

@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = mandala_reform
 primary_culture = khmer
-religion = buddhism
+religion = mahayana
+secondary_religion = shaivite
 technology_group = chinese
 capital = 604 # Phnom Penh
 

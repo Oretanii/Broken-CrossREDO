@@ -3,7 +3,7 @@
 owner = PIB 
 controller = PIB
 culture = dambro
-religion = buddhism
+religion = mahayana
 capital = "Phetchaburi"
 trade_goods = tropical_wood
 hre = no

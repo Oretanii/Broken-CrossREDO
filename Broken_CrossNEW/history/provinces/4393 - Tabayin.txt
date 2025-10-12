@@ -2,7 +2,7 @@
 
 owner = TGU
 controller = TGU
-culture = chin
+culture = pyu
 religion = buddhism
 capital = "Tabayin"
 trade_goods = cotton

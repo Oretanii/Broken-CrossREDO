@@ -1,7 +1,7 @@
 owner = LAV
 controller = LAV
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Lopburi"
 trade_goods = grain
 hre = no

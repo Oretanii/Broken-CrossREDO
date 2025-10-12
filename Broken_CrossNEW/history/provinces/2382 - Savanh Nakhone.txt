@@ -3,7 +3,7 @@
 owner = TKM
 controller = TKM
 culture = siem
-religion = buddhism
+religion = mahayana
 capital = "Luang Namtha"
 trade_goods = copper
 hre = no

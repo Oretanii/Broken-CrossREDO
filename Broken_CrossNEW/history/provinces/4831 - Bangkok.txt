@@ -2,7 +2,7 @@
 owner = NKP
 controller = NKP
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Bangkok"
 trade_goods = grain
 hre = no

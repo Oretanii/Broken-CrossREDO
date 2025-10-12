@@ -3,7 +3,7 @@
 owner = NKP 
 controller = NKP
 culture = dvaravati
-religion = buddhism
+religion = mahayana
 capital = "Ayutthaya"
 trade_goods = ivory
 hre = no

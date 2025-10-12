@@ -3,7 +3,7 @@
 owner = ANK
 controller = ANK
 culture = khmer
-religion = buddhism
+religion = mahayana
 capital = "Nakhon Thung Yai"
 trade_goods = gems #Rubies etc
 hre = no

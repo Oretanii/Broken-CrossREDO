@@ -3,7 +3,7 @@
 owner = TBL
 controller = TBL
 culture = dambro
-religion = sunni
+religion = buddhism
 capital = "Nakhon Si Thammarat"
 trade_goods = tropical_wood
 hre = no

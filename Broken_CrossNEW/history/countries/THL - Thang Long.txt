@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = confucian_bureaucracy
 primary_culture = vietnamese
 religion = fajiao
+secondary_religion = daoism
 technology_group = chinese
 capital = 613	# Hanoi
 

@@ -3,8 +3,8 @@
 owner = CHA
 controller = CHA
 culture = cham
-religion = hinduism
-capital = "Hue"
+religion = fajiao
+capital = "Kandurapura"
 trade_goods = incense
 hre = no
 base_tax = 5 

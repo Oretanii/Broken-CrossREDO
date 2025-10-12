@@ -2,7 +2,7 @@
 
 owner = KEI
 controller = KEI
-culture = chin
+culture = pyu
 religion = buddhism
 capital = "Pagan"
 trade_goods = tropical_wood

@@ -2,7 +2,7 @@
 
 owner = MIG
 controller = MIG
-culture = karen
+culture = pyu
 religion = buddhism
 capital = "Yamethin"
 trade_goods = ivory

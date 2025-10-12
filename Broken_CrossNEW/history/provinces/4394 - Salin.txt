@@ -2,7 +2,7 @@
 
 owner = TGH
 controller = TGH
-culture = paoo
+culture = pyu
 religion = buddhism
 capital = "Salin"
 trade_goods = grain

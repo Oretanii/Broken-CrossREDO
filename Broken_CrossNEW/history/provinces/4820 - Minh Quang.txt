@@ -2,8 +2,8 @@
 
 owner = THL
 controller = THL
-culture = vietnamese
-religion = mahayana
+culture = zhuang
+religion = daoism
 capital = "Minh Quang"
 trade_goods = grain
 hre = no

@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = mandala_reform
 government_rank = 1
 primary_culture = phu
-religion = buddhism
+religion = vajrayana
 technology_group = chinese
 capital = 4837 # Muang Ngoi

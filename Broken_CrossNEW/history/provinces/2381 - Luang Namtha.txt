@@ -3,7 +3,7 @@
 owner = MTA
 controller = MTA
 culture = phu
-religion = buddhism
+religion = vajrayana
 capital = "Luang Namtha"
 trade_goods = tea
 hre = no
