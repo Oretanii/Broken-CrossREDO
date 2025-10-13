@@ -641,9 +641,7 @@ east_siberia_region = {
 		kolyma_area
 		heilongjiang_area
 		east_heilongjiang_area
-		central_jilin_area
 		ilan_hala_area
-		central_heilongjiang_area
 		sakhalin_area
 	}
 }
@@ -656,14 +654,11 @@ mongolia_region = {
 		zungaria_area
 		north_zungaria
 		altai_sayan_area
-		eastern_mongolia
 		central_mongolia_area
 		uliastai_area
 		turpan_kumul_area
 		tannu_uriankhai_area
 		xilin_gol_area
-		chahar_area
-		cicigar_area
 	}
 }
 
@@ -678,6 +673,11 @@ korea_region = {
 		liaoning_area
 		ningguta_area
 		furdan_area
+		central_jilin_area
+		central_heilongjiang_area
+		chahar_area
+		cicigar_area
+		eastern_mongolia
 	}
 	monsoon = {
 		00.06.01

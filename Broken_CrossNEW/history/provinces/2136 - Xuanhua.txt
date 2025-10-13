@@ -1,10 +1,10 @@
 # 2136 - Xuanhua
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = jin
-religion = confucianism
+religion = daoism
 capital = "Xuanhua"
 trade_goods = grain
 hre = no

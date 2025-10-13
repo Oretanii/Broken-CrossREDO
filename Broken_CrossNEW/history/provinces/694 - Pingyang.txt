@@ -1,10 +1,10 @@
 #694 - Luzhou
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = jin
-religion = confucianism
+religion = fajiao
 capital = "Pingyang"
 trade_goods = iron
 hre = no

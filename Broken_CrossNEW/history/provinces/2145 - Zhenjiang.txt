@@ -3,7 +3,7 @@
 owner = WUU
 controller = WUU
 culture = jianghuai
-religion = confucianism
+religion = fajiao
 capital = "Zhenjiang"
 trade_goods = naval_supplies
 hre = no

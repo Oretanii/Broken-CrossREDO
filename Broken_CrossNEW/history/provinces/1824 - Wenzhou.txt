@@ -3,7 +3,7 @@
 owner = WUU
 controller = WUU
 culture = wu
-religion = confucianism
+religion = fajiao
 capital = "Wenzhou"
 trade_goods = chinaware
 hre = no

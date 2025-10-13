@@ -1,10 +1,10 @@
 #698 - Guyuan
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = mongol
-religion = confucianism
+religion = sunni
 capital = "Ningxia"
 trade_goods = salt
 hre = no

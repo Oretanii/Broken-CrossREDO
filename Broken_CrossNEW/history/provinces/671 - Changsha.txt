@@ -3,7 +3,7 @@
 owner = SHU
 controller = SHU
 culture = xiang
-religion = confucianism
+religion = cheng_zhu
 capital = "Changsha"
 trade_goods = grain
 hre = no

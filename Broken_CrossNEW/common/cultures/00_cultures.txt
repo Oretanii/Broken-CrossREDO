@@ -7373,7 +7373,7 @@ penutian = {
 east_asian = {	# Chinese Group
 	graphical_culture = asiangfx
 	vietnamese_new = {
-		#primary = DAI
+		#primary = THL
 		dynasty_names = {
 			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}
@@ -8510,7 +8510,7 @@ lingnan_group = {
 	graphical_culture = asiangfx
 	
 	vietnamese = {
-		primary = DAI
+		primary = THL
 		dynasty_names = {
 			"Lê" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
 		}

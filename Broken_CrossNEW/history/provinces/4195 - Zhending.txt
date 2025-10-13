@@ -1,8 +1,8 @@
 #4195 - Zhending
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = chihan
 religion = confucianism
 capital = "Zhending"

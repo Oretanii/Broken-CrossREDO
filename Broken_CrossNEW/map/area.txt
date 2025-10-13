@@ -2711,7 +2711,7 @@ cicigar_area = {
 }
 
 ilan_hala_area = { #5 (North Jilin Area)
-	1048 1050 4214 4216 4215
+	1048 1050 4214 2105 4215
 }
 
 sakhalin_area = { #2
@@ -2719,7 +2719,7 @@ sakhalin_area = { #2
 }
 
 central_jilin_area = { #5
-	729 731 2105 4217 4663
+	729 731 4217 4663 4216
 }
 
 ningguta_area = { #5

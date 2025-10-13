@@ -1,8 +1,8 @@
 #690 - Shandong Bandao
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = shandong_culture
 religion = confucianism
 capital = "Qingzhou"

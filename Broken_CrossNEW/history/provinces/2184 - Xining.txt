@@ -1,10 +1,10 @@
 # 2184 - Xining
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = vajrayana
+religion = sunni
 capital = "Xining"
 trade_goods = salt
 hre = no

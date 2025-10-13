@@ -3,7 +3,7 @@
 owner = WUU
 controller = WUU
 culture = gan
-religion = confucianism
+religion = fajiao
 capital = "Poyang"
 trade_goods = chinaware
 hre = no

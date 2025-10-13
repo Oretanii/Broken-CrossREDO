@@ -844,7 +844,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -916,7 +916,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -987,7 +987,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1058,7 +1058,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1130,7 +1130,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1202,7 +1202,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1274,7 +1274,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1346,7 +1346,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1419,7 +1419,7 @@ muslim = {
 					limit = {
 						NOT = { religion = shiite }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1491,7 +1491,7 @@ muslim = {
 					limit = {
 						NOT = { religion = shiite }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1564,7 +1564,7 @@ muslim = {
 					limit = {
 						NOT = { religion = zaydi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1638,7 +1638,7 @@ muslim = {
 					limit = {
 						NOT = { religion = zaydi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1711,7 +1711,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ibadi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1783,7 +1783,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ibadi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {

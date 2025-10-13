@@ -1,6 +1,6 @@
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = KRC
+controller = KRC
+add_core = KRC
 culture = chahar
 religion = vajrayana
 capital = "Josutu"

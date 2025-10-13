@@ -1,10 +1,10 @@
 # 2178 - Lu'an
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = jin
-religion = confucianism
+religion = daoism
 capital = "Lu'an"
 trade_goods = iron
 hre = no

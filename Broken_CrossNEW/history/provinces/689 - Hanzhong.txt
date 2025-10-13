@@ -1,10 +1,10 @@
 #689 - Hanzhong
 
-owner = MIN
-controller = MIN
-add_core = MIN
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = fajiao
 capital = "Hanzhong"
 trade_goods = iron
 hre = no
