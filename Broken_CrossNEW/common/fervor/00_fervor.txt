@@ -104,7 +104,7 @@ fervor_diplomacy = {
 	}
 	effect = {
 		global_missionary_strength = 0.01
-		missionary_maintenance_cost = -0.1
+		advisor_pool = 1
 		local_culture_conversion_cost = -0.1
 		local_culture_conversion_time = -0.1
 	}
@@ -222,7 +222,7 @@ fervor_diplomacy_buffed = {
 	}
 	effect = {
 		global_missionary_strength = 0.015
-		missionary_maintenance_cost = -0.15
+		advisor_pool = 2
 		local_culture_conversion_cost = -0.15
 		local_culture_conversion_time = -0.15
 	}
