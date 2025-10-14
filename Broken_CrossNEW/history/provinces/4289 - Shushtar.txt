@@ -2,7 +2,7 @@
 
 owner = IRQ
 controller = IRQ
-culture = persian
+culture = al_iraqiya_arabic
 religion = shiite
 capital = "Shushtar"
 trade_goods = silk

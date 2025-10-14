@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = saksun
-religion = shiite
+religion = ismaili
 add_accepted_culture = anglosaxon
 technology_group = muslim
 capital = 234 # Hampshire
-religious_school = zaidi_school
+religious_school = nizari_school
 
 1444.1.1 = {
 	monarch = {

@@ -3,7 +3,7 @@
 owner = SKS
 controller = SKS
 culture = saksun
-religion = shiite
+religion = ismaili
 hre = no
 base_tax = 4
 base_production = 4
