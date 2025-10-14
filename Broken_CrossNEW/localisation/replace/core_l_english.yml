@@ -3,3 +3,6 @@
  KARMA_DESC:0 "Zahir represents the type of religious devotion that your ruler promotes within your nation, Zahiri and Batini. There are three stages: Extreme Zahiri, Extreme Batini, and Balanced.\nThe Zahir of your ruler is affected by various actions you can take. Event options will move your position on the scale."    
  KARMA_DESC2: " "
  PIETY_DESCRIPTION:2 "Piety represents how religious a ruler is. It is measured on a scale between -100 (Worldly Rulership) and 100 (Universal Rulership). A ruler can live a worldly life and devote themselves to their land over the Dharma, or a ruler can be devoted to the Dharma and strive to be a Chakravatin - A Wheel Turning King.\nThe piety of your ruler is affected by various actions you can take. Event options will move your position on the scale."
+ 
+ FERVOR_CHANGE:0 "Monthly Change:"
+ FERVOR_VALUE2:0 "Merit Points:"

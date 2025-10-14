@@ -1962,7 +1962,13 @@ eastern = {
 			adm_tech_cost_modifier = -0.1
 			stability_cost_modifier = -0.1
 		}
-		heretic = { TAOIST }
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			cheng_zhu
+		}
+		heretic = { WHITE-LOTUS }
 		uses_harmony = yes
 	}
 	
@@ -1977,6 +1983,13 @@ eastern = {
 		country_as_secondary = {
 			global_unrest = -2
 			culture_conversion_cost = -0.1
+		}
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			cheng_zhu
+			confucianism
 		}
 		harmonized_daoism
 		heretic = { WHITE-LOTUS}
@@ -1995,8 +2008,14 @@ eastern = {
 			culture_conversion_cost = -0.1
 			missionaries = 1
 		}
-		heretic = { TAOIST }
-		uses_harmony = yes
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			confucianism
+		}
+		heretic = { WHITE-LOTUS }
+		fervor = yes
 		can_have_secondary_religion = yes
 	}
 
@@ -2165,6 +2184,11 @@ dharmic = {
 		allowed_conversion = {
 			shaivite
 			smarta
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heathen = 1
@@ -2198,6 +2222,11 @@ dharmic = {
 		allowed_conversion = {
 			hinduism
 			smarta
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heathen = 1
@@ -2231,6 +2260,11 @@ dharmic = {
 		allowed_conversion = {
 			hinduism
 			shaivite
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heretic = 2
@@ -2281,6 +2315,15 @@ jain_dharma = {
 			global_trade_power = 0.2
 			religious_unity = 0.25
 		}
+		allowed_conversion = {
+			hinduism
+			shaivite
+			smarta
+			digambara
+			mahayana
+			vajrayana
+			buddhism
+		}
 		
 		heretic = { TERAPANTHA }
 		
@@ -2299,6 +2342,15 @@ jain_dharma = {
 		country_as_secondary = {
 			same_religion_advisor_cost = -0.15
 			religious_unity = 0.25
+		}
+		allowed_conversion = {
+			hinduism
+			shaivite
+			smarta
+			svetambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		
 		heretic = { TERAPANTHA }

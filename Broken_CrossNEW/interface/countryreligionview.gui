@@ -2947,7 +2947,7 @@ guiTypes = {
 			Orientation = "LEFT"
 		}
 	}
-	
+		
 	################################################################################################
 	################# Church aspect item (for selection) For Protestants
 	windowType = {
@@ -3052,7 +3052,7 @@ guiTypes = {
 			Orientation = "LEFT"
 		}
 	}
-
+	
 	################################################################################################
 	################# Church aspect item (for selection) For Anglican
 	windowType = {
