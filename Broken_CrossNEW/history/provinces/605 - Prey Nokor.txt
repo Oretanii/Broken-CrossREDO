@@ -1,9 +1,9 @@
 #605 - Prey Nokor
 
-owner = KHM
-controller = KHM
-culture = khmer
-religion = hinduism
+owner = CHA
+controller = CHA
+culture = cham
+religion = ismaili
 capital = "Prey Nokor"
 trade_goods = tropical_wood
 hre = no
@@ -11,7 +11,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = KHM
+add_core = CHA
+center_of_trade = 2
 
 
 

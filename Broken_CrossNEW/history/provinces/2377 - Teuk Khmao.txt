@@ -1,9 +1,9 @@
 #2377- Teuk Khmao
 
-owner = KHM
-controller = KHM
+owner = CHA
+controller = CHA
 culture = khmer
-religion = hinduism
+religion = mahayana
 capital = "Oc Eo"
 trade_goods = fish
 hre = no
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KHM
+add_core = CHA
 
 
 

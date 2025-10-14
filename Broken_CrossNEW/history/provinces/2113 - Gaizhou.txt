@@ -1,10 +1,10 @@
 # 2113 - Gaizhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = shandong_culture
-religion = confucianism
+religion = fajiao
 capital = "Gaizhou"
 trade_goods = fish
 hre = no

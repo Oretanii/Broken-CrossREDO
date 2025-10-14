@@ -3,7 +3,7 @@
 owner = MUL
 controller = MUL
 culture = kanauji
-religion = hinduism
+religion = sunni
 capital = "Panipat"
 trade_goods = cotton
 hre = no

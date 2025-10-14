@@ -1,10 +1,10 @@
 #699 - Lanzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = sunni
 capital = "Lanzhou"
 trade_goods = grain
 hre = no

@@ -3,7 +3,7 @@
 owner = MUL
 controller = MUL
 culture = panjabi
-religion = hinduism
+religion = shaivite
 capital = "Rawalpindi"
 trade_goods = iron
 hre = no

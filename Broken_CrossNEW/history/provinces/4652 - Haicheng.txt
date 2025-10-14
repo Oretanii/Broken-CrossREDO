@@ -1,10 +1,10 @@
 #Haicheng
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = shandong_culture # check
-religion = confucianism
+religion = fajiao
 capital = "Haicheng"
 trade_goods = fish
 hre = no

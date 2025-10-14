@@ -1,8 +1,8 @@
 #691 - Jinan
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = shandong_culture
 religion = confucianism
 capital = "Jinan"

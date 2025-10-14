@@ -1,10 +1,10 @@
 # 2161 - Limchow
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = THL
+controller = THL
+add_core = THL
 culture = cantonese
-religion = confucianism
+religion = fajiao
 capital = "Limchow"
 trade_goods = incense
 hre = no

@@ -1,9 +1,9 @@
 #2376 - Prek Russey
 
-owner = KHM
-controller = KHM
+owner = CHA
+controller = CHA
 culture = khmer
-religion = hinduism
+religion = ismaili
 capital = "Prek Russey"
 trade_goods = grain
 hre = no
@@ -11,7 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KHM
+add_core = CHA
+center_of_trade = 2
 
 
 

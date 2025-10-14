@@ -1,8 +1,8 @@
 #702 - Ulanqab
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = YUA
+controller = YUA
+add_core = YUA
 culture = mongol
 religion = vajrayana
 capital = "Hohhot"

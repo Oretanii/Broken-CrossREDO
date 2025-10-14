@@ -1,8 +1,8 @@
 #587 - Kengtung
 
-owner = HSE
-controller = HSE
-culture = shan
+owner = CDL
+controller = CDL
+culture = phu
 religion = animism
 capital = "Kengtung"
 trade_goods = tropical_wood
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = HSE
+add_core = CDL
 
 
 

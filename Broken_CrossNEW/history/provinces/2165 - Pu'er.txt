@@ -1,10 +1,9 @@
 # 2165 - Pu'er
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CDL
+controller = CDL
 culture = bai
-religion = buddhism
+religion = vajrayana
 capital = "Pu'er"
 trade_goods = tea
 hre = no

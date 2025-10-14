@@ -1,10 +1,10 @@
 # 2112 - Andong
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = GOR
+controller = GOR
+add_core = GOR
 culture = manchu
-religion = confucianism
+religion = fajiao
 capital = "Andong"
 trade_goods = grain
 hre = no

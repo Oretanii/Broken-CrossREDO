@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = avadhi
-religion = hinduism
+religion = shaivite
 capital = "Jaunpur"
 trade_goods = paper #And Carpets
 hre = no

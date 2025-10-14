@@ -1,10 +1,10 @@
 #4213 - Luzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
+add_core = SHU
 culture = sichuanese
-religion = confucianism
+religion = daoism
 capital = "Luzhou"
 trade_goods = grain
 hre = no

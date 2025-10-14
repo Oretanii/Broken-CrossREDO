@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = telegu
-religion = hinduism
+religion = smarta
 capital = "Manidurg"
 trade_goods = tropical_wood
 hre = no

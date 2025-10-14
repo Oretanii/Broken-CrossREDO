@@ -844,7 +844,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -916,7 +916,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -987,7 +987,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1058,7 +1058,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1130,7 +1130,7 @@ muslim = {
 					limit = {
 						NOT = { religion = sunni }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1202,7 +1202,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1274,7 +1274,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1346,7 +1346,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ismaili }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1419,7 +1419,7 @@ muslim = {
 					limit = {
 						NOT = { religion = shiite }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1491,7 +1491,7 @@ muslim = {
 					limit = {
 						NOT = { religion = shiite }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1564,7 +1564,7 @@ muslim = {
 					limit = {
 						NOT = { religion = zaydi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1638,7 +1638,7 @@ muslim = {
 					limit = {
 						NOT = { religion = zaydi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1711,7 +1711,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ibadi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1783,7 +1783,7 @@ muslim = {
 					limit = {
 						NOT = { religion = ibadi }
 					}
-					NOT = { piety = -0.5 }
+					NOT = { karma = -0.5 }
 				}
 				if = {
 					limit = {
@@ -1951,18 +1951,24 @@ eastern = {
 	flag_emblem_index_range = { 58 80 }
 
 
-	confucianism = {
+	confucianism = { #Yangmingism
 		color = { 245 20 40 }
-		icon = 39
+		icon = 42
 		country = {
+			tolerance_heathen = 2
 			administrative_efficiency = 0.025
-			adm_tech_cost_modifier = -0.1
 		}
 		country_as_secondary = {
 			adm_tech_cost_modifier = -0.1
 			stability_cost_modifier = -0.1
 		}
-		heretic = { TAOIST }
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			cheng_zhu
+		}
+		heretic = { WHITE-LOTUS }
 		uses_harmony = yes
 	}
 	
@@ -1978,9 +1984,39 @@ eastern = {
 			global_unrest = -2
 			culture_conversion_cost = -0.1
 		}
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			cheng_zhu
+			confucianism
+		}
 		harmonized_daoism
 		heretic = { WHITE-LOTUS}
 		ancestors = yes
+		can_have_secondary_religion = yes
+	}
+	
+	cheng_zhu = { #Cheng-Zhu
+		color = { 160 5 5 }
+		icon = 39
+		country = {
+			administrative_efficiency = 0.025
+			adm_tech_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			culture_conversion_cost = -0.1
+			missionaries = 1
+		}
+		allowed_conversion = {
+			vajrayana
+			buddhism
+			fajiao
+			confucianism
+		}
+		heretic = { WHITE-LOTUS }
+		fervor = yes
+		can_have_secondary_religion = yes
 	}
 
 	shinto = {
@@ -1999,7 +2035,7 @@ eastern = {
 		}
 		heretic = { SHUGENDO }
 		uses_isolationism = yes
-		
+		can_have_secondary_religion = yes
 		harmonized_modifier = harmonized_shinto
 		
 	}
@@ -2016,7 +2052,7 @@ eastern = {
 			stability_cost_modifier = -0.1
 		}
 		country_as_secondary = {
-			institution_spread_from_true_faith = 0.15
+			yearly_innovativeness = 0.25
 			advisor_pool = 1
 		}
 		on_convert = {
@@ -2032,6 +2068,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		personal_deity = yes
+		can_have_secondary_religion = yes
 	}
 
 	buddhism = { #Theravada
@@ -2063,6 +2100,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	vajrayana = {
@@ -2077,8 +2115,12 @@ eastern = {
 			land_morale = 0.05
 		}
 		country_as_secondary = {
-			horde_unity = 1
 			tolerance_own = 1
+			legitimacy = 1
+			republican_tradition = 0.5
+			devotion = 1
+			horde_unity = 1
+			meritocracy = 1
 		}
 		on_convert = {
 			add_prestige = -100
@@ -2093,8 +2135,7 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
-		
-	
+		can_have_secondary_religion = yes
 	}
 	
 	mahayana = { #Indian Mahayana
@@ -2125,13 +2166,14 @@ eastern = {
 		heretic = { WHITE-LOTUS }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	crusade_name = GREATPACIFICATION
 	
 }
 
-sanatana_dharma = {
+dharmic = {
 
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
@@ -2142,6 +2184,11 @@ sanatana_dharma = {
 		allowed_conversion = {
 			shaivite
 			smarta
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heathen = 1
@@ -2149,7 +2196,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			development_cost = -0.1
+			production_efficiency = 0.1
 			tolerance_heathen = 2
 		}
 		
@@ -2166,6 +2213,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	shaivite = { #Shaivism
@@ -2174,6 +2222,11 @@ sanatana_dharma = {
 		allowed_conversion = {
 			hinduism
 			smarta
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heathen = 1
@@ -2181,7 +2234,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			cavalry_power = 0.10
+			global_manpower_modifier = 0.10
 			tolerance_heathen = 2
 		}
 		
@@ -2198,6 +2251,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	smarta = { #Smarta
@@ -2206,6 +2260,11 @@ sanatana_dharma = {
 		allowed_conversion = {
 			hinduism
 			shaivite
+			svetambara
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		country = {
 			tolerance_heretic = 2
@@ -2213,7 +2272,7 @@ sanatana_dharma = {
 			brahmins_hindu_influence_modifier = 0.2
 		}
 		country_as_secondary = {
-			stability_cost_modifier = -0.1
+			prestige_decay = -0.01
 			tolerance_heathen = 2
 		}
 		
@@ -2230,6 +2289,7 @@ sanatana_dharma = {
 		}
 		
 		heretic = { NASTIKA }
+		can_have_secondary_religion = yes
 	}
 	
 	harmonized_modifier = harmonized_dharmic
@@ -2252,13 +2312,23 @@ jain_dharma = {
 			female_advisor_chance = 0.1
 		}
 		country_as_secondary = {
-			global_trade_power = 0.1
+			global_trade_power = 0.2
 			religious_unity = 0.25
+		}
+		allowed_conversion = {
+			hinduism
+			shaivite
+			smarta
+			digambara
+			mahayana
+			vajrayana
+			buddhism
 		}
 		
 		heretic = { TERAPANTHA }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	digambara = {
@@ -2273,10 +2343,20 @@ jain_dharma = {
 			same_religion_advisor_cost = -0.15
 			religious_unity = 0.25
 		}
+		allowed_conversion = {
+			hinduism
+			shaivite
+			smarta
+			svetambara
+			mahayana
+			vajrayana
+			buddhism
+		}
 		
 		heretic = { TERAPANTHA }
 		
 		uses_piety = yes
+		can_have_secondary_religion = yes
 	}
 	
 	harmonized_modifier = harmonized_jain

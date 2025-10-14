@@ -1,0 +1,3 @@
+﻿l_english:
+  FERVOR_AFFECT_ACTIVE:0 "Merit Effect already active"
+ CANNOT_AFFORD_FERVOR:0 "You do not have the $NEEDED|Y$ Merit required to be able to do this."

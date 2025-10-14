@@ -80,6 +80,33 @@ KIZ = "countries/Kizilmans.txt"
 #Central Asia
 BLH = "countries/BlackHorde.txt"
 
+#Southeast Asia
+ANK = "countries/Angkor.txt"
+TKM = "countries/TbongKhmum.txt"
+HUK = "countries/HuuKy.txt"
+THL = "countries/ThangLong.txt"
+MSU = "countries/MuangSua.txt"
+MTA = "countries/MuangThaeng.txt"
+YNK = "countries/Yonok.txt"
+MEP = "countries/MaePing.txt"
+NNA = "countries/Nan.txt"
+SIR = "countries/Siracha.txt"
+LAV = "countries/Lavo.txt"
+SPH = "countries/Suphan.txt"
+PHM = "countries/Phimai.txt"
+NKP = "countries/NakhonPathom.txt"
+PIB = "countries/Pribpri.txt"
+TGH = "countries/Taungtha.txt"
+MIG = "countries/MaingMaw.txt"
+HLN = "countries/Halin.txt"
+TGU = "countries/Taguang.txt"
+KEI = "countries/Kangleipak.txt"
+DYD = "countries/Dhanyawadi.txt"
+PGN = "countries/PeguNew.txt"
+THT = "countries/Thaton.txt"
+TBL = "countries/Tambralinga.txt"
+JPH = "countries/Jinghpaw.txt"
+
 #North Africa
 IDS = "countries/Idrisids.txt"
 ALM = "countries/Almohads.txt"
@@ -91,3 +118,7 @@ AMV = "countries/Almoravids.txt"
 
 #New World
 ABM = "countries/Al-Abama.txt"
+
+#East Asia
+GOR = "countries/Goryeo.txt"
+JOS = "countries/Joseon.txt"

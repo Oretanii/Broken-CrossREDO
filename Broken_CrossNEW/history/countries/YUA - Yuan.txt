@@ -2,11 +2,12 @@ government = monarchy
 add_government_reform = celestial_empire
 government_rank = 3
 technology_group = nomad_group
-religion = confucianism
+religion = vajrayana
+secondary_religion = tengri_pagan_reformed
 add_accepted_culture = mongol
 add_accepted_culture = khalkha
 primary_culture = altaic_new
-capital = 1816
+capital = 2114
 
 1260.5.5 = {
 	monarch = {

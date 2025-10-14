@@ -1,0 +1,70 @@
+#Gujrat trade leauge
+alliance = {
+	first = GUJ
+	second = PTL
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = JGD
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = PRB
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = RJK
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = NVR
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = JLV
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = KAT
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = IDR
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+alliance = {
+	first = GUJ
+	second = CMP
+	trade_league = 2
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}
+vassal = {
+	first = GUJ
+	second = AHM
+	start_date = 1420.4.20
+	end_date = 1669.6.9
+}

@@ -1,9 +1,9 @@
 #600 - Ayutthaya
 
-owner = AYU 
-controller = AYU
-culture = central_thai
-religion = buddhism
+owner = NKP 
+controller = NKP
+culture = dvaravati
+religion = mahayana
 capital = "Ayutthaya"
 trade_goods = ivory
 hre = no
@@ -12,7 +12,7 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-add_core = AYU
+add_core = NKP
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16

@@ -1,10 +1,10 @@
 #700 - Shaanxi
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = fajiao
 capital = "Xi'an"
 trade_goods = grain
 hre = no

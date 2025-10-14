@@ -1,10 +1,9 @@
 #1824 - Wenzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = wu
-religion = confucianism
+religion = fajiao
 capital = "Wenzhou"
 trade_goods = chinaware
 hre = no

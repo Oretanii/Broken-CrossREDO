@@ -3,7 +3,7 @@
 owner = BAH
 controller = BAH
 culture = marathi
-religion = hinduism
+religion = shaivite
 capital = "Goa"
 trade_goods = spices
 hre = no

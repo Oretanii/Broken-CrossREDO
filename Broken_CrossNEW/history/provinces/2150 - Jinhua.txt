@@ -1,10 +1,9 @@
 # 2150 - Jinhua
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = wu
-religion = confucianism
+religion = fajiao
 capital = "Jinhua"
 trade_goods = grain
 hre = no

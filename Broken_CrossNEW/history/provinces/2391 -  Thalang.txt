@@ -1,9 +1,9 @@
 #2391 - Thalang
 
-owner = LIG
-controller = LIG
-culture = malayan
-religion = sunni
+owner = TBL
+controller = TBL
+culture = dambro
+religion = buddhism
 capital = "Thalang"
 trade_goods = fish
 hre = no
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = LIG
+add_core = TBL
 
 
 

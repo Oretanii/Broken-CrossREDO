@@ -1,8 +1,8 @@
 #4394 - Salin
 
-owner = AVA
-controller = AVA
-culture = burmese
+owner = TGH
+controller = TGH
+culture = pyu
 religion = buddhism
 capital = "Salin"
 trade_goods = grain
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = AVA
+add_core = TGH
 
 
 

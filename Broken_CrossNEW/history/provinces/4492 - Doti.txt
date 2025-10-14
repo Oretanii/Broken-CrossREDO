@@ -3,7 +3,7 @@
 owner = DTI
 controller = DTI
 culture = nepali
-religion = hinduism
+religion = vajrayana
 capital = "Doti"
 trade_goods = wool
 hre = no

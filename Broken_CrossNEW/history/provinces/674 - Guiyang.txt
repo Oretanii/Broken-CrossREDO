@@ -1,11 +1,10 @@
 #674 - Guiyang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CDL
+controller = CDL
 add_core = CYI
 culture = yi
-religion = animism
+religion = daoism
 capital = "Guiyang"
 trade_goods = iron
 hre = no

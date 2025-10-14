@@ -1,7 +1,7 @@
 #2396 - Mong Kawng
 
-owner = MKA
-controller = MKA
+owner = JPH
+controller = JPH
 culture = kachin
 religion = buddhism
 capital = "Mong Kawng"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MKA
+add_core = JPH
 discovered_by = chinese
 discovered_by = indian
 

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+primary_culture = dvaravati
+religion = mahayana
+technology_group = chinese
+capital = 4836 # Si Thep
+
+
+1395.1.1 = {
+	monarch = {
+		name = "Theprachan"
+		dynasty = "Pathumawong"
+		adm = 2
+		dip = 3
+		mil = 5	
+	}
+}

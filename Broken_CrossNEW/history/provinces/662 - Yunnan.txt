@@ -1,10 +1,9 @@
 #662 - Yunnan
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CDL
+controller = CDL
 culture = bai
-religion = buddhism
+religion = sunni
 capital = "Kunming"
 trade_goods = copper
 hre = no

@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = marathi
-religion = hinduism
+religion = smarta
 capital = "Nander"
 trade_goods = silk
 hre = no

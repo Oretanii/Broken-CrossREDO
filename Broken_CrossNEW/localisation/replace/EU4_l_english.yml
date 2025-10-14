@@ -14,5 +14,6 @@
  USES_KARMA:0 "$COUNTRY|Y$ uses Zahir."
  USES_NOT_KARMA:0 "$COUNTRY|Y$ does NOT use Zahir."
  CURRENT_KARMA:0 "Current Zahir"
- 
+ USES_FERVOR:0 "$COUNTRY|Y$ uses Merit."
+ USES_NOT_FERVOR:0 "$COUNTRY|Y$ does NOT use Merit."
 

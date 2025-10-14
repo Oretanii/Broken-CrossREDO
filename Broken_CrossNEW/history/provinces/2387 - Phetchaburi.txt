@@ -1,9 +1,9 @@
 #2387 - Phetchaburi
 
-owner = AYU 
-controller = AYU
-culture = central_thai
-religion = buddhism
+owner = PIB 
+controller = PIB
+culture = dambro
+religion = mahayana
 capital = "Phetchaburi"
 trade_goods = tropical_wood
 hre = no
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = AYU
+add_core = PIB
 
 
 

@@ -6799,7 +6799,7 @@ pura_besakih = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -6828,7 +6828,7 @@ pura_besakih = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -6847,7 +6847,7 @@ pura_besakih = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -7592,7 +7592,7 @@ prambanan_temple = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -7621,7 +7621,7 @@ prambanan_temple = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -7640,7 +7640,7 @@ prambanan_temple = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -12371,7 +12371,7 @@ ellora_caves = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -12395,7 +12395,7 @@ ellora_caves = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13010,7 +13010,7 @@ chola_temples = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13034,7 +13034,7 @@ chola_temples = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13052,7 +13052,7 @@ chola_temples = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13334,7 +13334,7 @@ hampi = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13358,7 +13358,7 @@ hampi = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13376,7 +13376,7 @@ hampi = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13873,7 +13873,7 @@ kashi_vishwanath = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13897,7 +13897,7 @@ kashi_vishwanath = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -13915,7 +13915,7 @@ kashi_vishwanath = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -14026,7 +14026,7 @@ khajuraho = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -14050,7 +14050,7 @@ khajuraho = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -14068,7 +14068,7 @@ khajuraho = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -16120,7 +16120,7 @@ sun_temple_konarak = {
 	build_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -16144,7 +16144,7 @@ sun_temple_konarak = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {
@@ -16162,7 +16162,7 @@ sun_temple_konarak = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				religion_group = sanatana_dharma
+				religion_group = dharmic
 				has_owner_religion = yes
 			}
 			AND = {

@@ -1,10 +1,10 @@
 # 2183 - Taozhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = fajiao
 capital = "Taozhou"
 trade_goods = chinaware
 hre = no

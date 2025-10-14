@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = telegu
-religion = hinduism
+religion = smarta
 capital = "Warangal"
 trade_goods = cotton
 hre = no

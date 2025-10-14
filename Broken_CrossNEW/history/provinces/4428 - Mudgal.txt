@@ -3,7 +3,7 @@
 owner = VIJ
 controller = VIJ
 culture = kannada
-religion = hinduism
+religion = shaivite
 capital = "Mudgal"
 trade_goods = cloth
 hre = no

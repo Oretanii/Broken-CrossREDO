@@ -3,7 +3,7 @@
 owner = MBL
 controller = MBL
 culture = bengali
-religion = hinduism
+religion = shaivite
 capital = "Bishnupur"
 trade_goods = naval_supplies
 hre = no

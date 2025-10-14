@@ -1,10 +1,9 @@
 #671 - Changsha
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
 culture = xiang
-religion = confucianism
+religion = cheng_zhu
 capital = "Changsha"
 trade_goods = grain
 hre = no

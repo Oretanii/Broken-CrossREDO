@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = jharkhandi
-religion = hinduism
+religion = shaivite
 capital = "Deogarh"
 trade_goods = ivory
 hre = no

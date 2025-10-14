@@ -1,10 +1,10 @@
 #664 - Lingyun
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CDL
+controller = CDL
+add_core = CDL
 culture = zhuang
-religion = confucianism
+religion = daoism
 capital = "Lingyun"
 trade_goods = tea
 hre = no

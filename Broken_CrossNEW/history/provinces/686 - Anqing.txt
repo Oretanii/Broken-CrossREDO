@@ -1,10 +1,9 @@
 #686 - Anqing (can't change file name)
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = jianghuai
-religion = confucianism
+religion = fajiao
 capital = "Anqing"
 trade_goods = cloth
 hre = no

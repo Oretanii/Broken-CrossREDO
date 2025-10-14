@@ -2,7 +2,8 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = indian
 primary_culture = nepali
-religion = hinduism
+religion = vajrayana
+secondary_religion = shaivite
 capital = 554	#Jumla
 
 # Kalyana dynasty of Jumla

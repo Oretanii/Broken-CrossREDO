@@ -1,8 +1,8 @@
 #601 - Sukhothai
 
-owner = SUK
-controller = SUK
-culture = central_thai
+owner = SIR
+controller = SIR
+culture = yonok
 religion = buddhism
 capital = "Sukhothai"
 trade_goods = chinaware
@@ -12,7 +12,7 @@ base_production = 6
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = SUK
+add_core = SIR
 
 
 

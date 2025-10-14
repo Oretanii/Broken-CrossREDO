@@ -1,10 +1,10 @@
 #708 - Gansu
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = sunni
 capital = "Zhangye"
 trade_goods = livestock
 hre = no

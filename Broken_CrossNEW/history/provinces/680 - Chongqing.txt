@@ -1,10 +1,9 @@
 #680 - Chongqing
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
 culture = sichuanese
-religion = confucianism
+religion = cheng_zhu
 capital = "Chongqing"
 trade_goods = spices
 hre = no

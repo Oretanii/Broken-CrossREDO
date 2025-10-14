@@ -1,10 +1,10 @@
 # 2172 - Jingzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = SHU
+controller = SHU
+add_core = SHU
 culture = hubei
-religion = confucianism
+religion = daoism
 capital = "Jingzhou"
 trade_goods = grain
 hre = no

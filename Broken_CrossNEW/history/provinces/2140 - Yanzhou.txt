@@ -1,8 +1,8 @@
 # 2140 - Yanzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = zhongyuan
 religion = confucianism
 capital = "Yanzhou"

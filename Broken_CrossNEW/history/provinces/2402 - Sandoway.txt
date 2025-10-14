@@ -1,7 +1,7 @@
 #2402 - Sandoway
 
-owner = ARK
-controller = ARK
+owner = DYD
+controller = DYD
 culture = arakanese
 religion = buddhism
 capital = "Sandoway"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = ARK
+add_core = DYD
 discovered_by = indian
 discovered_by = chinese
 discovered_by = Dhimmi discovered_by = muslim

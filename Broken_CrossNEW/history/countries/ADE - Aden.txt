@@ -5,7 +5,7 @@ religion = ismaili
 technology_group = muslim
 capital = 388	# Aden
 government_rank = 1
-religious_school = hafizi_school
+religious_school = tayyibi_school
 
 #Tahirids
 

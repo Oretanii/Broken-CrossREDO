@@ -1,9 +1,9 @@
 #609 - Angkor
 
-owner = KHM
-controller = KHM
+owner = ANK
+controller = ANK
 culture = khmer
-religion = hinduism
+religion = mahayana
 capital = "Angkor"
 trade_goods = tropical_wood
 hre = no
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = KHM
+add_core = ANK
 
 
 

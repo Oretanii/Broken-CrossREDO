@@ -1,8 +1,8 @@
 #1816 - Beijing
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = chihan
 religion = confucianism
 capital = "Beijing"

@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = bihari
-religion = "hinduism"
+religion = "shaivite"
 capital = "Ghazipur"
 trade_goods = cloth
 hre = no

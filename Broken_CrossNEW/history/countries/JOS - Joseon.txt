@@ -1,10 +1,9 @@
 government = monarchy
-add_government_reform = autocracy_reform
+add_government_reform = korean_monarchy
 primary_culture = korean
-religion = confucianism
-add_harmonized_religion = mahayana
+religion = cheng_zhu
 technology_group = chinese
-capital = 735	# Hanseong
+capital = 2745	# Hanseong
 
 1393.1.1 = {
 	monarch = {

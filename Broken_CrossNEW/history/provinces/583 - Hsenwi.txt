@@ -1,8 +1,8 @@
 #583 - Hsenwi
 
-owner = HSE
-controller = HSE
-culture = shan
+owner = CDL
+controller = CDL
+culture = nakhi
 religion = buddhism
 capital = "Hsenwi"
 trade_goods = tropical_wood
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = HSE
+add_core = CDL
 
 
 

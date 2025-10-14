@@ -1,3 +1,5 @@
 ﻿l_english:
  KARMA_LESS_THAN:0 "Piety is less than §Y$VAL$§!.\n"
  KARMA_AT_LEAST:0 "Piety is at least §Y$VAL$§!.\n"
+ HAS_ACTIVE_FERVOR:0 "$WHO|Y$ has activated a Merit effect."
+ HAS_NOT_ACTIVE_FERVOR:0 "$WHO|Y$ has NOT activated a Merit effect."

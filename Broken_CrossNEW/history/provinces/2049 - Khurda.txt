@@ -3,7 +3,7 @@
 owner = GRJ
 controller = GRJ
 culture = garjati
-religion = hinduism
+religion = vajrayana
 capital = "Khurda"
 trade_goods = grain
 hre = no

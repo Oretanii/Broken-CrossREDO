@@ -1,10 +1,10 @@
 # 2179 - Yan'an
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = jin
-religion = confucianism
+religion = fajiao
 capital = "Yan'an"
 trade_goods = grain
 hre = no

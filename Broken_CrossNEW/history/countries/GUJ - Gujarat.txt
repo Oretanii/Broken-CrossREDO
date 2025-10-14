@@ -1,10 +1,10 @@
 government = monarchy
-add_government_reform = indian_sultanate_reform
+add_government_reform = plutocratic_reform
 primary_culture = gujarati
-religion = sunni
+religion = ismaili
 technology_group = indian
 capital = 2054	# Ahmadabad
-religious_school = shafii_school
+religious_school = tayyibi_school
 
 #Sultans of Gujarat
 1391.1.1 = {

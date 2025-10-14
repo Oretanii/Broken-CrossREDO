@@ -3,7 +3,7 @@
 owner = SRM
 controller = SRM 
 culture = pahari
-religion = hinduism
+religion = vajrayana
 capital = "Malaun"
 trade_goods = cotton
 hre = no

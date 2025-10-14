@@ -3,7 +3,7 @@
 owner = MAR
 controller = MAR
 culture = marathi
-religion = hinduism
+religion = shaivite
 capital = "Rajapur"
 trade_goods = spices
 hre = no

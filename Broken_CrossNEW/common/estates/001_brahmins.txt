@@ -20,7 +20,23 @@ estate_brahmins = {
 						religion_group = muslim
 						NOT = { has_unlocked_estate = { estate = estate_dhimmi } }
 					}
-					religion = hinduism
+					AND = {
+						technology_group = indian
+						religion_group = jain_dharma
+					}
+					AND = {
+						technology_group = indian
+						religion_group = eastern
+					}
+					AND = {
+						technology_group = indian
+						religion_group = sikhi
+					}
+					AND = {
+						technology_group = indian
+						religion_group = zoroastrian_group
+					}
+					religion_group = dharmic
 					has_unlocked_estate = { estate = estate_brahmins }
 				}
 				NOT = { has_government_attribute = is_pirate_republic_reform }

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = mandala_reform 
+primary_culture = arakanese
+religion = sunni
+capital = 579	# Mrauk U
+technology_group = indian
+religious_school = hanafi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Timurid"
+		birth_date = 1407.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

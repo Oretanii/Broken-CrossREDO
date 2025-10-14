@@ -1,11 +1,10 @@
 # 2167 - Lijiang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CDL
+controller = CDL
 add_core = CDL
 culture = bai
-religion = buddhism
+religion = vajrayana
 capital = "Lijiang"
 trade_goods = tea
 hre = no

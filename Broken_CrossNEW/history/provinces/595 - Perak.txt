@@ -3,7 +3,7 @@
 owner = MLC
 controller = MLC
 culture = malayan
-religion = sunni
+religion = ismaili
 capital = "Perak"
 trade_goods = copper
 hre = no

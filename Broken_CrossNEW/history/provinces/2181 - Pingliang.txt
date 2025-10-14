@@ -1,10 +1,10 @@
 # 2181 - Pingliang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = xibei
-religion = confucianism
+religion = fajiao
 capital = "Pingliang"
 trade_goods = livestock
 hre = no

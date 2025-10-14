@@ -1,10 +1,9 @@
 # 2151 - Poyang
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
 culture = gan
-religion = confucianism
+religion = fajiao
 capital = "Poyang"
 trade_goods = chinaware
 hre = no

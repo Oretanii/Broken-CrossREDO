@@ -3,7 +3,7 @@
 owner = TIM
 controller = TIM
 culture = bengali
-religion = hinduism
+religion = vajrayana
 capital = "Dakha"
 trade_goods = cloth
 hre = no

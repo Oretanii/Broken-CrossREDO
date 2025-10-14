@@ -1,12 +1,12 @@
 #707 - Yumen
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 add_core = HMI
 add_core = CSH
 culture = oirats
-religion = vajrayana
+religion = sunni
 capital = "Yumen"
 trade_goods = livestock
 hre = no

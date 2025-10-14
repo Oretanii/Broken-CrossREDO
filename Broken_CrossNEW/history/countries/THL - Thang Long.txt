@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = confucian_bureaucracy
+primary_culture = vietnamese
+religion = fajiao
+secondary_religion = daoism
+technology_group = chinese
+capital = 613	# Hanoi
+
+# Pham Dynasty
+
+1430.1.1 = {
+	monarch = {
+		name = "An"
+		dynasty = "Pham"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+
+1437.1.1 = {
+	heir = {
+		name = "Hung"
+		dynasty = "Pham"
+		birth_date = 1433.1.1
+		death_date = 1442.9.8
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}

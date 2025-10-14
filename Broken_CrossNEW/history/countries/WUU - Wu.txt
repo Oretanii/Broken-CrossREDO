@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
 technology_group = chinese
-religion = confucianism
+religion = fajiao
+secondary_religion = confucianism
 primary_culture = wu
 capital = 684	#Hangzhou

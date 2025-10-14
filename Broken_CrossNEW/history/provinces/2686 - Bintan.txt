@@ -3,7 +3,7 @@
 owner = MLC
 controller = MLC
 culture = malayan
-religion = sunni
+religion = ibadi
 capital = "Tanjungpinaung"
 trade_goods = naval_supplies
 hre = no

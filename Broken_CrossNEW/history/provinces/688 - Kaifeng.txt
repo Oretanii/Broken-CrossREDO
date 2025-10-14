@@ -1,10 +1,10 @@
 #688 - Kaifeng (can't change file name)
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = QIN
+controller = QIN
+add_core = QIN
 culture = zhongyuan
-religion = confucianism
+religion = sunni
 capital = "Kaifeng"
 trade_goods = chinaware
 hre = no
