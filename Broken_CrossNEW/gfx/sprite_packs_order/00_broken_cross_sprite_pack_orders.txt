@@ -1,0 +1,1 @@
+broken_cross_euro_muslim_sprite_pack = 40
