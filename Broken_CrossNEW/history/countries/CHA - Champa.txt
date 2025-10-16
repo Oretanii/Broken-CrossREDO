@@ -31,7 +31,7 @@ add_accepted_culture = khmer
 1441.10.23 = {
 	monarch_consort = {
 		name = "Raja Kesuma Dewi"
-		dynasty = "Iskander" 
+		dynasty = "Chermin" 
 		regent = yes
 		female = yes
 		adm = 4
@@ -46,7 +46,7 @@ add_accepted_culture = khmer
 		birth_date = 1438.1.1
 		death_date = 1469.10.29
 		claim = 95
-		adm = 2
+		adm = 3
 		dip = 4
 		mil = 6
 	}

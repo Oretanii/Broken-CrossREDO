@@ -2,7 +2,7 @@
 
 owner = SIR
 controller = SIR
-culture = yonok
+culture = thai_khmer
 religion = buddhism
 capital = "Sukhothai"
 trade_goods = chinaware

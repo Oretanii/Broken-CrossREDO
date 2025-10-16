@@ -2,8 +2,8 @@
 
 owner = CDL
 controller = CDL
-culture = phu
-religion = animism
+culture = burmese
+religion = buddhism
 capital = "Mawkmai"
 trade_goods = grain
 hre = no
@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = CDL
+add_core = PGN
 
 
 

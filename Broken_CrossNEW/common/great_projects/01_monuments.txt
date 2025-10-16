@@ -5272,7 +5272,7 @@ the_grand_palace = {
 
 bagan_temples = {
 	# province it starts in
-	start = 2399
+	start = 602
 	
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1105.01.01 #Ananda Temple

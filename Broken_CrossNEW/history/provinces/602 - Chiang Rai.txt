@@ -1,8 +1,8 @@
 #602 - Chiang Rai
 
-owner = YNK
-controller = YNK
-culture = yonok
+owner = PGN
+controller = PGN
+culture = burmese
 religion = buddhism
 capital = "Chiang Rai"
 trade_goods = grain 
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = YNK
+add_core = PGN
 
 
 

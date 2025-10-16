@@ -10,9 +10,10 @@ capital = 613	# Hanoi
 
 1430.1.1 = {
 	monarch = {
-		name = "An"
+		name = "Xao"
 		dynasty = "Pham"
-		adm = 3
+		birth_date = 1396.1.1
+		adm = 4
 		dip = 1
 		mil = 6
 	}

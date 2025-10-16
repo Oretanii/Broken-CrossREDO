@@ -1,8 +1,8 @@
 #589 - Chiang Mai
 
-owner = MEP
-controller = MEP
-culture = yonok
+owner = PGN
+controller = PGN
+culture = burmese
 religion = buddhism
 capital = "Chiang Mai"
 trade_goods = ivory 
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MEP
+add_core = PGN
 
 
 

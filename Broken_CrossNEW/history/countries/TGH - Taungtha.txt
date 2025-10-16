@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = mandala_reform
 government_rank = 1
-primary_culture = paoo
+primary_culture = pyu
 religion = buddhism
 technology_group = chinese
-capital = 4395
+capital = 4396

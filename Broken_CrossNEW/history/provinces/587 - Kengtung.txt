@@ -2,8 +2,8 @@
 
 owner = CDL
 controller = CDL
-culture = phu
-religion = animism
+culture = burmese
+religion = buddhism
 capital = "Kengtung"
 trade_goods = tropical_wood
 hre = no

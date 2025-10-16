@@ -3,7 +3,7 @@
 owner = CDL
 controller = CDL
 add_core = CDL
-culture = nakhi
+culture = phu
 religion = buddhism
 capital = "Dehong"
 trade_goods = tropical_wood

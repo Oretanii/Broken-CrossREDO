@@ -1,7 +1,7 @@
 #2399 - Pagan
 
-owner = KEI
-controller = KEI
+owner = HLN
+controller = HLN
 culture = pyu
 religion = buddhism
 capital = "Pagan"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = KEI
+add_core = HLN
 
 
 

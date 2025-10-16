@@ -3,7 +3,7 @@
 owner = CDL
 controller = CDL
 add_core = CDL
-culture = bai
+culture = nakhi
 religion = vajrayana
 capital = "Lijiang"
 trade_goods = tea
